@@ -1,0 +1,2 @@
+Iter #    500/1000	loss:2.06e-01, loss_u_r:1.05e-03, loss_v_r:1.00e-03, loss_u_d:6.56e-06 ,loss_v_d:4.33e-06 Valid # loss:2.06e-03, loss_r:1.05e-03, loss_r:9.99e-04, loss_u_d:6.58e-06, loss_v_d:4.35e-06
+Iter #   1000/1000	loss:1.20e-01, loss_u_r:6.22e-04, loss_v_r:5.61e-04, loss_u_d:8.33e-06 ,loss_v_d:7.37e-06 Valid # loss:1.19e-03, loss_r:6.22e-04, loss_r:5.61e-04, loss_u_d:3.89e-06, loss_v_d:4.44e-06

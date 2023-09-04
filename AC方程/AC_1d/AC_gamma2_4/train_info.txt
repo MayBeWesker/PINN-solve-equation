@@ -1,0 +1,1029 @@
+Training by Adam:
+Epoch #  100/40000	time:2.8	loss:8.25e+02, loss_r:3.19e-03, loss_b:1.22e-03, loss_i:7.930051e-02, loss_b_t:6.654268e-05
+Epoch #  200/40000	time:5.6	loss:8.16e+02, loss_r:4.68e-03, loss_b:1.24e-03, loss_i:7.687420e-02, loss_b_t:1.604605e-04
+Epoch #  300/40000	time:8.3	loss:8.14e+02, loss_r:4.97e-03, loss_b:1.70e-03, loss_i:7.637259e-02, loss_b_t:3.395141e-05
+Epoch #  400/40000	time:11.4	loss:8.14e+02, loss_r:5.31e-03, loss_b:2.36e-03, loss_i:7.610551e-02, loss_b_t:1.281595e-04
+Epoch #  500/40000	time:14.2	loss:8.11e+02, loss_r:5.21e-03, loss_b:2.57e-03, loss_i:7.584021e-02, loss_b_t:3.859046e-05
+Epoch #  600/40000	time:17.0	loss:8.10e+02, loss_r:5.30e-03, loss_b:2.59e-03, loss_i:7.565071e-02, loss_b_t:3.321098e-05
+Epoch #  700/40000	time:19.9	loss:8.22e+02, loss_r:6.47e-03, loss_b:2.52e-03, loss_i:7.567421e-02, loss_b_t:3.218142e-04
+Epoch #  800/40000	time:22.7	loss:8.07e+02, loss_r:5.51e-03, loss_b:2.40e-03, loss_i:7.518075e-02, loss_b_t:3.808168e-04
+Epoch #  900/40000	time:25.3	loss:8.05e+02, loss_r:5.81e-03, loss_b:2.37e-03, loss_i:7.471587e-02, loss_b_t:3.518372e-04
+Epoch # 1000/40000	time:27.9	loss:8.03e+02, loss_r:5.75e-03, loss_b:1.99e-03, loss_i:7.455308e-02, loss_b_t:2.730272e-04
+Epoch # 1100/40000	time:30.6	loss:8.05e+02, loss_r:5.43e-03, loss_b:1.82e-03, loss_i:7.502013e-02, loss_b_t:9.837644e-05
+Epoch # 1200/40000	time:33.5	loss:8.07e+02, loss_r:6.33e-03, loss_b:1.83e-03, loss_i:7.437019e-02, loss_b_t:7.569776e-05
+Epoch # 1300/40000	time:36.3	loss:8.00e+02, loss_r:6.13e-03, loss_b:1.36e-03, loss_i:7.382452e-02, loss_b_t:1.605380e-04
+Epoch # 1400/40000	time:39.1	loss:7.98e+02, loss_r:6.12e-03, loss_b:1.29e-03, loss_i:7.370646e-02, loss_b_t:1.367327e-04
+Epoch # 1500/40000	time:41.9	loss:7.99e+02, loss_r:6.62e-03, loss_b:1.01e-03, loss_i:7.322447e-02, loss_b_t:3.663418e-04
+Epoch # 1600/40000	time:44.8	loss:7.96e+02, loss_r:6.50e-03, loss_b:1.04e-03, loss_i:7.304856e-02, loss_b_t:5.096632e-04
+Epoch # 1700/40000	time:47.8	loss:7.95e+02, loss_r:6.67e-03, loss_b:1.08e-03, loss_i:7.278831e-02, loss_b_t:5.818203e-04
+Epoch # 1800/40000	time:50.7	loss:7.94e+02, loss_r:6.54e-03, loss_b:9.88e-04, loss_i:7.286882e-02, loss_b_t:5.986505e-04
+Epoch # 1900/40000	time:53.7	loss:7.96e+02, loss_r:6.21e-03, loss_b:1.18e-03, loss_i:7.332670e-02, loss_b_t:3.990904e-04
+Epoch # 2000/40000	time:56.7	loss:7.92e+02, loss_r:6.69e-03, loss_b:9.60e-04, loss_i:7.252838e-02, loss_b_t:5.860375e-04
+Epoch # 2100/40000	time:59.9	loss:8.21e+02, loss_r:7.52e-03, loss_b:1.65e-03, loss_i:7.454341e-02, loss_b_t:1.588393e-04
+Epoch # 2200/40000	time:63.0	loss:7.92e+02, loss_r:6.67e-03, loss_b:9.31e-04, loss_i:7.251783e-02, loss_b_t:3.777353e-04
+Epoch # 2300/40000	time:66.0	loss:7.90e+02, loss_r:6.80e-03, loss_b:1.03e-03, loss_i:7.218883e-02, loss_b_t:4.635026e-04
+Epoch # 2400/40000	time:68.8	loss:7.93e+02, loss_r:6.11e-03, loss_b:1.06e-03, loss_i:7.320548e-02, loss_b_t:2.041625e-04
+Epoch # 2500/40000	time:71.7	loss:7.90e+02, loss_r:6.78e-03, loss_b:9.26e-04, loss_i:7.223676e-02, loss_b_t:2.594258e-04
+Epoch # 2600/40000	time:74.5	loss:7.99e+02, loss_r:4.15e-03, loss_b:4.42e-04, loss_i:7.569304e-02, loss_b_t:2.500621e-04
+Epoch # 2700/40000	time:77.4	loss:7.88e+02, loss_r:6.98e-03, loss_b:1.00e-03, loss_i:7.185503e-02, loss_b_t:2.984042e-04
+Epoch # 2800/40000	time:80.2	loss:7.90e+02, loss_r:6.36e-03, loss_b:8.50e-04, loss_i:7.264425e-02, loss_b_t:1.558653e-04
+Epoch # 2900/40000	time:83.0	loss:7.88e+02, loss_r:7.00e-03, loss_b:9.60e-04, loss_i:7.180910e-02, loss_b_t:2.380968e-04
+Epoch # 3000/40000	time:85.8	loss:7.88e+02, loss_r:7.18e-03, loss_b:1.05e-03, loss_i:7.155862e-02, loss_b_t:3.038433e-04
+Epoch # 3100/40000	time:88.6	loss:7.89e+02, loss_r:6.90e-03, loss_b:7.55e-04, loss_i:7.197161e-02, loss_b_t:1.600595e-04
+Epoch # 3200/40000	time:91.4	loss:7.88e+02, loss_r:7.10e-03, loss_b:9.47e-04, loss_i:7.164923e-02, loss_b_t:2.108661e-04
+Epoch # 3300/40000	time:94.4	loss:7.94e+02, loss_r:9.18e-03, loss_b:2.18e-03, loss_i:7.019184e-02, loss_b_t:2.205741e-04
+Epoch # 3400/40000	time:97.2	loss:7.87e+02, loss_r:7.15e-03, loss_b:9.32e-04, loss_i:7.155105e-02, loss_b_t:2.217929e-04
+Epoch # 3500/40000	time:100.0	loss:7.89e+02, loss_r:6.53e-03, loss_b:7.54e-04, loss_i:7.238266e-02, loss_b_t:1.270481e-04
+Epoch # 3600/40000	time:102.8	loss:7.87e+02, loss_r:7.12e-03, loss_b:8.91e-04, loss_i:7.159083e-02, loss_b_t:1.647407e-04
+Epoch # 3700/40000	time:105.6	loss:7.87e+02, loss_r:7.28e-03, loss_b:9.95e-04, loss_i:7.139035e-02, loss_b_t:2.073124e-04
+Epoch # 3800/40000	time:108.4	loss:7.88e+02, loss_r:6.69e-03, loss_b:7.01e-04, loss_i:7.209986e-02, loss_b_t:1.167643e-04
+Epoch # 3900/40000	time:111.5	loss:7.87e+02, loss_r:7.21e-03, loss_b:9.33e-04, loss_i:7.145264e-02, loss_b_t:1.512232e-04
+Epoch # 4000/40000	time:114.4	loss:7.92e+02, loss_r:5.02e-03, loss_b:5.44e-04, loss_i:7.414588e-02, loss_b_t:2.051285e-04
+Epoch # 4100/40000	time:117.4	loss:7.86e+02, loss_r:7.27e-03, loss_b:9.76e-04, loss_i:7.135198e-02, loss_b_t:1.522798e-04
+Epoch # 4200/40000	time:120.3	loss:7.87e+02, loss_r:7.06e-03, loss_b:7.29e-04, loss_i:7.166328e-02, loss_b_t:1.168413e-04
+Epoch # 4300/40000	time:123.1	loss:7.86e+02, loss_r:7.26e-03, loss_b:9.74e-04, loss_i:7.137232e-02, loss_b_t:1.173929e-04
+Epoch # 4400/40000	time:125.9	loss:7.86e+02, loss_r:7.37e-03, loss_b:1.05e-03, loss_i:7.122208e-02, loss_b_t:1.327409e-04
+Epoch # 4500/40000	time:128.7	loss:7.87e+02, loss_r:7.02e-03, loss_b:7.53e-04, loss_i:7.164732e-02, loss_b_t:1.112492e-04
+Epoch # 4600/40000	time:131.5	loss:7.86e+02, loss_r:7.31e-03, loss_b:1.02e-03, loss_i:7.128594e-02, loss_b_t:1.042289e-04
+Epoch # 4700/40000	time:134.3	loss:7.91e+02, loss_r:4.87e-03, loss_b:5.34e-04, loss_i:7.420204e-02, loss_b_t:2.080533e-04
+Epoch # 4800/40000	time:137.1	loss:7.86e+02, loss_r:7.28e-03, loss_b:1.02e-03, loss_i:7.128825e-02, loss_b_t:8.707469e-05
+Epoch # 4900/40000	time:139.9	loss:7.87e+02, loss_r:7.12e-03, loss_b:7.58e-04, loss_i:7.153375e-02, loss_b_t:7.534470e-05
+Epoch # 5000/40000	time:142.7	loss:7.86e+02, loss_r:7.32e-03, loss_b:1.05e-03, loss_i:7.123890e-02, loss_b_t:7.382180e-05
+Epoch # 5100/40000	time:145.5	loss:8.04e+02, loss_r:7.37e-03, loss_b:1.24e-03, loss_i:7.302038e-02, loss_b_t:6.714148e-05
+Epoch # 5200/40000	time:148.3	loss:7.86e+02, loss_r:7.20e-03, loss_b:9.27e-04, loss_i:7.138769e-02, loss_b_t:6.552804e-05
+Epoch # 5300/40000	time:151.1	loss:7.85e+02, loss_r:7.38e-03, loss_b:1.13e-03, loss_i:7.114083e-02, loss_b_t:7.329798e-05
+Epoch # 5400/40000	time:153.8	loss:7.90e+02, loss_r:7.36e-03, loss_b:1.19e-03, loss_i:7.159138e-02, loss_b_t:7.030704e-05
+Epoch # 5500/40000	time:156.6	loss:7.86e+02, loss_r:7.26e-03, loss_b:1.01e-03, loss_i:7.129332e-02, loss_b_t:4.737929e-05
+Epoch # 5600/40000	time:159.4	loss:7.85e+02, loss_r:7.42e-03, loss_b:1.18e-03, loss_i:7.108168e-02, loss_b_t:7.952163e-05
+Epoch # 5700/40000	time:162.2	loss:7.87e+02, loss_r:6.52e-03, loss_b:7.90e-04, loss_i:7.217869e-02, loss_b_t:7.497310e-05
+Epoch # 5800/40000	time:165.0	loss:7.85e+02, loss_r:7.31e-03, loss_b:1.09e-03, loss_i:7.120084e-02, loss_b_t:4.886802e-05
+Epoch # 5900/40000	time:167.8	loss:7.85e+02, loss_r:7.38e-03, loss_b:1.22e-03, loss_i:7.108289e-02, loss_b_t:8.058971e-05
+Epoch # 6000/40000	time:170.5	loss:7.85e+02, loss_r:7.29e-03, loss_b:9.80e-04, loss_i:7.123262e-02, loss_b_t:6.065923e-05
+Epoch # 6100/40000	time:173.0	loss:7.85e+02, loss_r:7.43e-03, loss_b:1.21e-03, loss_i:7.103153e-02, loss_b_t:8.394910e-05
+Epoch # 6200/40000	time:175.2	loss:8.03e+02, loss_r:8.01e-03, loss_b:1.60e-03, loss_i:7.225929e-02, loss_b_t:2.417348e-04
+Epoch # 6300/40000	time:177.4	loss:7.85e+02, loss_r:7.28e-03, loss_b:1.05e-03, loss_i:7.120693e-02, loss_b_t:6.459328e-05
+Epoch # 6400/40000	time:179.7	loss:7.84e+02, loss_r:7.47e-03, loss_b:1.26e-03, loss_i:7.095737e-02, loss_b_t:1.178031e-04
+Epoch # 6500/40000	time:182.5	loss:7.89e+02, loss_r:5.36e-03, loss_b:6.19e-04, loss_i:7.354789e-02, loss_b_t:7.347138e-05
+Epoch # 6600/40000	time:185.2	loss:7.85e+02, loss_r:7.28e-03, loss_b:1.05e-03, loss_i:7.117918e-02, loss_b_t:6.384464e-05
+Epoch # 6700/40000	time:188.1	loss:7.84e+02, loss_r:7.48e-03, loss_b:1.26e-03, loss_i:7.091844e-02, loss_b_t:1.490851e-04
+Epoch # 6800/40000	time:190.7	loss:7.88e+02, loss_r:6.40e-03, loss_b:8.29e-04, loss_i:7.239469e-02, loss_b_t:1.651332e-04
+Epoch # 6900/40000	time:193.6	loss:7.84e+02, loss_r:7.38e-03, loss_b:1.13e-03, loss_i:7.102497e-02, loss_b_t:1.598537e-04
+Epoch # 7000/40000	time:196.4	loss:7.84e+02, loss_r:7.53e-03, loss_b:1.30e-03, loss_i:7.081310e-02, loss_b_t:2.867260e-04
+Epoch # 7100/40000	time:199.4	loss:7.84e+02, loss_r:7.42e-03, loss_b:9.56e-04, loss_i:7.101588e-02, loss_b_t:1.623956e-04
+Epoch # 7200/40000	time:201.9	loss:7.84e+02, loss_r:7.49e-03, loss_b:1.23e-03, loss_i:7.085186e-02, loss_b_t:2.810205e-04
+Epoch # 7300/40000	time:204.5	loss:7.83e+02, loss_r:7.60e-03, loss_b:1.34e-03, loss_i:7.069645e-02, loss_b_t:4.660696e-04
+Epoch # 7400/40000	time:207.2	loss:7.84e+02, loss_r:7.27e-03, loss_b:9.11e-04, loss_i:7.111827e-02, loss_b_t:2.727526e-04
+Epoch # 7500/40000	time:209.7	loss:7.83e+02, loss_r:7.52e-03, loss_b:1.21e-03, loss_i:7.077822e-02, loss_b_t:4.819104e-04
+Epoch # 7600/40000	time:212.4	loss:7.95e+02, loss_r:8.44e-03, loss_b:1.73e-03, loss_i:7.104817e-02, loss_b_t:7.193831e-04
+Epoch # 7700/40000	time:215.3	loss:7.83e+02, loss_r:7.45e-03, loss_b:1.10e-03, loss_i:7.082490e-02, loss_b_t:5.736270e-04
+Epoch # 7800/40000	time:218.1	loss:7.82e+02, loss_r:7.63e-03, loss_b:1.28e-03, loss_i:7.058074e-02, loss_b_t:9.045980e-04
+Epoch # 7900/40000	time:221.0	loss:7.83e+02, loss_r:7.18e-03, loss_b:8.07e-04, loss_i:7.114374e-02, loss_b_t:6.123175e-04
+Epoch # 8000/40000	time:224.1	loss:7.82e+02, loss_r:7.56e-03, loss_b:1.16e-03, loss_i:7.065130e-02, loss_b_t:9.780739e-04
+Epoch # 8100/40000	time:227.0	loss:7.82e+02, loss_r:7.68e-03, loss_b:1.26e-03, loss_i:7.048088e-02, loss_b_t:1.377505e-03
+Epoch # 8200/40000	time:229.9	loss:7.83e+02, loss_r:7.56e-03, loss_b:8.89e-04, loss_i:7.069321e-02, loss_b_t:8.990993e-04
+Epoch # 8300/40000	time:232.7	loss:7.82e+02, loss_r:7.63e-03, loss_b:1.17e-03, loss_i:7.052051e-02, loss_b_t:1.427118e-03
+Epoch # 8400/40000	time:235.5	loss:7.81e+02, loss_r:7.79e-03, loss_b:1.28e-03, loss_i:7.032552e-02, loss_b_t:1.860121e-03
+Epoch # 8500/40000	time:238.3	loss:7.82e+02, loss_r:7.41e-03, loss_b:9.05e-04, loss_i:7.075946e-02, loss_b_t:1.398382e-03
+Epoch # 8600/40000	time:241.1	loss:7.81e+02, loss_r:7.69e-03, loss_b:1.16e-03, loss_i:7.040914e-02, loss_b_t:1.990582e-03
+Epoch # 8700/40000	time:244.0	loss:7.81e+02, loss_r:7.78e-03, loss_b:1.24e-03, loss_i:7.027814e-02, loss_b_t:2.355058e-03
+Epoch # 8800/40000	time:246.7	loss:7.82e+02, loss_r:7.41e-03, loss_b:8.59e-04, loss_i:7.072002e-02, loss_b_t:1.657115e-03
+Epoch # 8900/40000	time:249.2	loss:7.81e+02, loss_r:7.72e-03, loss_b:1.16e-03, loss_i:7.032868e-02, loss_b_t:2.299673e-03
+Epoch # 9000/40000	time:251.9	loss:7.86e+02, loss_r:7.51e-03, loss_b:1.19e-03, loss_i:7.100572e-02, loss_b_t:2.612219e-03
+Epoch # 9100/40000	time:254.8	loss:7.81e+02, loss_r:7.63e-03, loss_b:1.01e-03, loss_i:7.041512e-02, loss_b_t:2.306636e-03
+Epoch # 9200/40000	time:257.7	loss:7.80e+02, loss_r:7.80e-03, loss_b:1.21e-03, loss_i:7.020210e-02, loss_b_t:2.659009e-03
+Epoch # 9300/40000	time:260.7	loss:7.84e+02, loss_r:7.78e-03, loss_b:1.18e-03, loss_i:7.060052e-02, loss_b_t:2.664972e-03
+Epoch # 9400/40000	time:263.8	loss:7.80e+02, loss_r:7.67e-03, loss_b:1.03e-03, loss_i:7.033090e-02, loss_b_t:2.322908e-03
+Epoch # 9500/40000	time:266.8	loss:7.80e+02, loss_r:7.83e-03, loss_b:1.24e-03, loss_i:7.012166e-02, loss_b_t:2.592591e-03
+Epoch # 9600/40000	time:269.7	loss:7.80e+02, loss_r:7.45e-03, loss_b:8.61e-04, loss_i:7.055008e-02, loss_b_t:2.216808e-03
+Epoch # 9700/40000	time:272.5	loss:7.80e+02, loss_r:7.83e-03, loss_b:1.21e-03, loss_i:7.009514e-02, loss_b_t:2.587660e-03
+Epoch # 9800/40000	time:275.4	loss:7.82e+02, loss_r:6.49e-03, loss_b:6.76e-04, loss_i:7.170806e-02, loss_b_t:2.482028e-03
+Epoch # 9900/40000	time:278.2	loss:7.80e+02, loss_r:7.77e-03, loss_b:1.10e-03, loss_i:7.014238e-02, loss_b_t:2.243005e-03
+Epoch # 10000/40000	time:281.0	loss:7.79e+02, loss_r:7.89e-03, loss_b:1.30e-03, loss_i:6.996595e-02, loss_b_t:2.277591e-03
+Epoch # 10100/40000	time:283.9	loss:7.79e+02, loss_r:7.57e-03, loss_b:9.01e-04, loss_i:7.035018e-02, loss_b_t:1.881737e-03
+Epoch # 10200/40000	time:287.1	loss:7.79e+02, loss_r:7.87e-03, loss_b:1.24e-03, loss_i:6.996727e-02, loss_b_t:2.094237e-03
+Epoch # 10300/40000	time:290.1	loss:8.15e+02, loss_r:1.02e-02, loss_b:1.00e-03, loss_i:7.124355e-02, loss_b_t:2.090854e-03
+Epoch # 10400/40000	time:293.4	loss:7.79e+02, loss_r:7.69e-03, loss_b:9.03e-04, loss_i:7.018206e-02, loss_b_t:1.664876e-03
+Epoch # 10500/40000	time:296.8	loss:7.78e+02, loss_r:7.89e-03, loss_b:1.26e-03, loss_i:6.986565e-02, loss_b_t:1.840322e-03
+Epoch # 10600/40000	time:299.5	loss:7.84e+02, loss_r:6.69e-03, loss_b:5.33e-04, loss_i:7.165854e-02, loss_b_t:2.628879e-03
+Epoch # 10700/40000	time:302.1	loss:7.78e+02, loss_r:7.81e-03, loss_b:1.08e-03, loss_i:6.991751e-02, loss_b_t:1.700093e-03
+Epoch # 10800/40000	time:304.7	loss:7.77e+02, loss_r:8.00e-03, loss_b:1.39e-03, loss_i:6.964383e-02, loss_b_t:1.651920e-03
+Epoch # 10900/40000	time:307.4	loss:7.78e+02, loss_r:7.21e-03, loss_b:1.06e-03, loss_i:7.052784e-02, loss_b_t:2.193368e-03
+Epoch # 11000/40000	time:309.9	loss:7.76e+02, loss_r:8.03e-03, loss_b:1.44e-03, loss_i:6.957701e-02, loss_b_t:1.341631e-03
+Epoch # 11100/40000	time:312.6	loss:7.76e+02, loss_r:8.15e-03, loss_b:1.69e-03, loss_i:6.940107e-02, loss_b_t:1.122230e-03
+Epoch # 11200/40000	time:315.6	loss:7.77e+02, loss_r:8.03e-03, loss_b:1.16e-03, loss_i:6.960721e-02, loss_b_t:9.736361e-04
+Epoch # 11300/40000	time:318.7	loss:7.76e+02, loss_r:8.12e-03, loss_b:1.44e-03, loss_i:6.944214e-02, loss_b_t:1.045786e-03
+Epoch # 11400/40000	time:321.7	loss:7.75e+02, loss_r:8.22e-03, loss_b:1.64e-03, loss_i:6.929932e-02, loss_b_t:8.874012e-04
+Epoch # 11500/40000	time:324.5	loss:7.76e+02, loss_r:7.95e-03, loss_b:1.32e-03, loss_i:6.963353e-02, loss_b_t:5.818435e-04
+Epoch # 11600/40000	time:327.6	loss:7.75e+02, loss_r:8.23e-03, loss_b:1.58e-03, loss_i:6.927334e-02, loss_b_t:6.276686e-04
+Epoch # 11700/40000	time:331.0	loss:7.75e+02, loss_r:8.29e-03, loss_b:1.86e-03, loss_i:6.916506e-02, loss_b_t:7.167971e-04
+Epoch # 11800/40000	time:334.3	loss:7.76e+02, loss_r:8.12e-03, loss_b:1.28e-03, loss_i:6.945373e-02, loss_b_t:2.735082e-04
+Epoch # 11900/40000	time:337.7	loss:7.75e+02, loss_r:8.24e-03, loss_b:1.45e-03, loss_i:6.922163e-02, loss_b_t:4.400745e-04
+Epoch # 12000/40000	time:341.1	loss:7.74e+02, loss_r:8.33e-03, loss_b:1.89e-03, loss_i:6.907360e-02, loss_b_t:7.243096e-04
+Epoch # 12100/40000	time:344.5	loss:7.75e+02, loss_r:7.82e-03, loss_b:1.80e-03, loss_i:6.961311e-02, loss_b_t:1.699052e-03
+Epoch # 12200/40000	time:347.6	loss:7.74e+02, loss_r:8.34e-03, loss_b:2.20e-03, loss_i:6.901323e-02, loss_b_t:9.029104e-04
+Epoch # 12300/40000	time:350.9	loss:7.73e+02, loss_r:8.40e-03, loss_b:3.01e-03, loss_i:6.889676e-02, loss_b_t:1.476832e-03
+Epoch # 12400/40000	time:353.8	loss:7.74e+02, loss_r:8.32e-03, loss_b:2.15e-03, loss_i:6.906474e-02, loss_b_t:8.272061e-04
+Epoch # 12500/40000	time:357.0	loss:7.73e+02, loss_r:8.36e-03, loss_b:2.99e-03, loss_i:6.892329e-02, loss_b_t:1.409773e-03
+Epoch # 12600/40000	time:359.6	loss:7.73e+02, loss_r:8.42e-03, loss_b:4.17e-03, loss_i:6.879490e-02, loss_b_t:2.100405e-03
+Epoch # 12700/40000	time:362.2	loss:7.73e+02, loss_r:8.58e-03, loss_b:3.94e-03, loss_i:6.866230e-02, loss_b_t:1.503922e-03
+Epoch # 12800/40000	time:364.8	loss:7.72e+02, loss_r:8.44e-03, loss_b:5.39e-03, loss_i:6.870499e-02, loss_b_t:2.440507e-03
+Epoch # 12900/40000	time:367.5	loss:7.73e+02, loss_r:8.35e-03, loss_b:4.20e-03, loss_i:6.884813e-02, loss_b_t:1.760384e-03
+Epoch # 13000/40000	time:370.2	loss:7.72e+02, loss_r:8.43e-03, loss_b:6.20e-03, loss_i:6.866664e-02, loss_b_t:2.643300e-03
+Epoch # 13100/40000	time:372.9	loss:7.72e+02, loss_r:8.85e-03, loss_b:9.74e-03, loss_i:6.826770e-02, loss_b_t:3.468667e-03
+Epoch # 13200/40000	time:375.7	loss:7.72e+02, loss_r:8.34e-03, loss_b:5.49e-03, loss_i:6.877477e-02, loss_b_t:1.929260e-03
+Epoch # 13300/40000	time:378.4	loss:7.71e+02, loss_r:8.43e-03, loss_b:8.45e-03, loss_i:6.855474e-02, loss_b_t:3.100387e-03
+Epoch # 13400/40000	time:381.1	loss:8.01e+02, loss_r:5.64e-03, loss_b:8.33e-03, loss_i:7.430838e-02, loss_b_t:3.849468e-03
+Epoch # 13500/40000	time:383.9	loss:7.70e+02, loss_r:8.43e-03, loss_b:1.37e-02, loss_i:6.835213e-02, loss_b_t:4.192359e-03
+Epoch # 13600/40000	time:386.5	loss:7.72e+02, loss_r:8.41e-03, loss_b:9.31e-03, loss_i:6.862034e-02, loss_b_t:3.769615e-03
+Epoch # 13700/40000	time:389.1	loss:7.69e+02, loss_r:8.42e-03, loss_b:1.77e-02, loss_i:6.823749e-02, loss_b_t:5.174422e-03
+Epoch # 13800/40000	time:391.6	loss:7.92e+02, loss_r:9.84e-03, loss_b:1.16e-02, loss_i:6.908713e-02, loss_b_t:1.711068e-02
+Epoch # 13900/40000	time:394.1	loss:7.69e+02, loss_r:8.16e-03, loss_b:1.53e-02, loss_i:6.858916e-02, loss_b_t:4.362560e-03
+Epoch # 14000/40000	time:396.8	loss:7.66e+02, loss_r:8.38e-03, loss_b:3.90e-02, loss_i:6.772324e-02, loss_b_t:1.027549e-02
+Epoch # 14100/40000	time:399.3	loss:7.67e+02, loss_r:8.37e-03, loss_b:4.34e-02, loss_i:6.778981e-02, loss_b_t:1.083676e-02
+Epoch # 14200/40000	time:401.8	loss:7.57e+02, loss_r:8.01e-03, loss_b:1.31e-01, loss_i:6.622842e-02, loss_b_t:1.232188e-02
+Epoch # 14300/40000	time:404.4	loss:6.82e+02, loss_r:7.47e-03, loss_b:4.95e-01, loss_i:5.556314e-02, loss_b_t:1.976877e-02
+Epoch # 14400/40000	time:407.1	loss:5.75e+02, loss_r:4.74e-03, loss_b:7.19e-01, loss_i:4.560361e-02, loss_b_t:1.808531e-03
+Epoch # 14500/40000	time:409.9	loss:5.44e+02, loss_r:4.86e-03, loss_b:7.12e-01, loss_i:4.219829e-02, loss_b_t:1.745897e-02
+Epoch # 14600/40000	time:412.7	loss:5.17e+02, loss_r:4.90e-03, loss_b:6.77e-01, loss_i:3.979814e-02, loss_b_t:1.891475e-02
+Epoch # 14700/40000	time:415.4	loss:5.01e+02, loss_r:5.39e-03, loss_b:6.48e-01, loss_i:3.806615e-02, loss_b_t:1.708169e-02
+Epoch # 14800/40000	time:418.1	loss:5.00e+02, loss_r:7.03e-03, loss_b:6.40e-01, loss_i:3.635731e-02, loss_b_t:1.823916e-02
+Epoch # 14900/40000	time:420.8	loss:4.88e+02, loss_r:5.64e-03, loss_b:6.04e-01, loss_i:3.698825e-02, loss_b_t:1.500782e-02
+Epoch # 15000/40000	time:423.6	loss:4.86e+02, loss_r:5.22e-03, loss_b:5.83e-01, loss_i:3.739141e-02, loss_b_t:1.404381e-02
+Epoch # 15100/40000	time:426.3	loss:4.81e+02, loss_r:5.57e-03, loss_b:5.75e-01, loss_i:3.665281e-02, loss_b_t:1.222620e-02
+Epoch # 15200/40000	time:429.1	loss:4.81e+02, loss_r:5.36e-03, loss_b:5.64e-01, loss_i:3.694510e-02, loss_b_t:1.236567e-02
+Epoch # 15300/40000	time:431.7	loss:4.78e+02, loss_r:6.12e-03, loss_b:5.58e-01, loss_i:3.595489e-02, loss_b_t:1.368229e-02
+Epoch # 15400/40000	time:434.5	loss:4.73e+02, loss_r:5.42e-03, loss_b:5.38e-01, loss_i:3.642318e-02, loss_b_t:9.961937e-03
+Epoch # 15500/40000	time:437.3	loss:4.71e+02, loss_r:5.40e-03, loss_b:5.26e-01, loss_i:3.638096e-02, loss_b_t:1.098240e-02
+Epoch # 15600/40000	time:440.3	loss:4.69e+02, loss_r:5.31e-03, loss_b:5.14e-01, loss_i:3.638805e-02, loss_b_t:8.399990e-03
+Epoch # 15700/40000	time:443.0	loss:4.68e+02, loss_r:5.27e-03, loss_b:4.98e-01, loss_i:3.640963e-02, loss_b_t:8.471241e-03
+Epoch # 15800/40000	time:445.7	loss:4.67e+02, loss_r:5.47e-03, loss_b:4.96e-01, loss_i:3.616265e-02, loss_b_t:9.773272e-03
+Epoch # 15900/40000	time:448.4	loss:4.66e+02, loss_r:5.64e-03, loss_b:4.88e-01, loss_i:3.589481e-02, loss_b_t:1.809969e-02
+Epoch # 16000/40000	time:451.0	loss:4.63e+02, loss_r:5.03e-03, loss_b:4.61e-01, loss_i:3.664207e-02, loss_b_t:4.281542e-03
+Epoch # 16100/40000	time:453.5	loss:4.65e+02, loss_r:4.97e-03, loss_b:4.38e-01, loss_i:3.700415e-02, loss_b_t:1.209550e-02
+Epoch # 16200/40000	time:455.9	loss:4.60e+02, loss_r:5.05e-03, loss_b:4.41e-01, loss_i:3.653079e-02, loss_b_t:5.001688e-03
+Epoch # 16300/40000	time:458.4	loss:4.64e+02, loss_r:5.71e-03, loss_b:4.51e-01, loss_i:3.567709e-02, loss_b_t:4.912204e-02
+Epoch # 16400/40000	time:460.8	loss:4.59e+02, loss_r:5.03e-03, loss_b:4.22e-01, loss_i:3.661606e-02, loss_b_t:5.651271e-03
+Epoch # 16500/40000	time:463.4	loss:4.61e+02, loss_r:5.64e-03, loss_b:4.26e-01, loss_i:3.572708e-02, loss_b_t:4.434359e-02
+Epoch # 16600/40000	time:466.0	loss:4.55e+02, loss_r:5.14e-03, loss_b:4.04e-01, loss_i:3.619745e-02, loss_b_t:1.435637e-02
+Epoch # 16700/40000	time:468.5	loss:4.59e+02, loss_r:4.96e-03, loss_b:3.75e-01, loss_i:3.682667e-02, loss_b_t:3.152126e-02
+Epoch # 16800/40000	time:471.3	loss:4.58e+02, loss_r:5.65e-03, loss_b:3.96e-01, loss_i:3.581462e-02, loss_b_t:3.595746e-02
+Epoch # 16900/40000	time:473.9	loss:4.54e+02, loss_r:5.53e-03, loss_b:3.73e-01, loss_i:3.588167e-02, loss_b_t:2.229174e-02
+Epoch # 17000/40000	time:476.6	loss:4.50e+02, loss_r:5.41e-03, loss_b:3.45e-01, loss_i:3.605545e-02, loss_b_t:6.543672e-03
+Epoch # 17100/40000	time:479.2	loss:4.54e+02, loss_r:6.12e-03, loss_b:3.31e-01, loss_i:3.590975e-02, loss_b_t:4.865449e-03
+Epoch # 17200/40000	time:481.9	loss:4.53e+02, loss_r:4.99e-03, loss_b:3.31e-01, loss_i:3.622393e-02, loss_b_t:8.118346e-02
+Epoch # 17300/40000	time:484.5	loss:4.58e+02, loss_r:6.59e-03, loss_b:3.06e-01, loss_i:3.528913e-02, loss_b_t:8.738563e-02
+Epoch # 17400/40000	time:487.2	loss:4.41e+02, loss_r:5.40e-03, loss_b:2.55e-01, loss_i:3.607344e-02, loss_b_t:7.994354e-03
+Epoch # 17500/40000	time:489.9	loss:4.44e+02, loss_r:4.74e-03, loss_b:1.69e-01, loss_i:3.729891e-02, loss_b_t:6.954290e-02
+Epoch # 17600/40000	time:492.5	loss:4.34e+02, loss_r:5.29e-03, loss_b:1.02e-01, loss_i:3.695034e-02, loss_b_t:1.743171e-02
+Epoch # 17700/40000	time:495.1	loss:4.22e+02, loss_r:4.60e-03, loss_b:2.18e-02, loss_i:3.726894e-02, loss_b_t:1.559886e-02
+Epoch # 17800/40000	time:497.8	loss:4.18e+02, loss_r:4.46e-03, loss_b:1.38e-02, loss_i:3.718654e-02, loss_b_t:4.060244e-03
+Epoch # 17900/40000	time:500.6	loss:4.24e+02, loss_r:4.75e-03, loss_b:2.77e-02, loss_i:3.730519e-02, loss_b_t:3.776144e-03
+Epoch # 18000/40000	time:503.1	loss:4.13e+02, loss_r:4.45e-03, loss_b:8.90e-03, loss_i:3.668834e-02, loss_b_t:2.705414e-03
+Epoch # 18100/40000	time:505.7	loss:4.40e+02, loss_r:4.53e-03, loss_b:4.17e-02, loss_i:3.876669e-02, loss_b_t:2.736287e-02
+Epoch # 18200/40000	time:508.2	loss:4.19e+02, loss_r:4.31e-03, loss_b:1.52e-02, loss_i:3.731817e-02, loss_b_t:7.926002e-03
+Epoch # 18300/40000	time:510.8	loss:4.13e+02, loss_r:4.31e-03, loss_b:8.48e-03, loss_i:3.687534e-02, loss_b_t:5.088773e-03
+Epoch # 18400/40000	time:513.4	loss:4.10e+02, loss_r:4.25e-03, loss_b:5.48e-03, loss_i:3.666330e-02, loss_b_t:3.463963e-03
+Epoch # 18500/40000	time:516.1	loss:4.10e+02, loss_r:4.78e-03, loss_b:7.90e-03, loss_i:3.601826e-02, loss_b_t:9.322390e-03
+Epoch # 18600/40000	time:518.7	loss:4.12e+02, loss_r:4.35e-03, loss_b:5.04e-03, loss_i:3.641775e-02, loss_b_t:3.864612e-02
+Epoch # 18700/40000	time:521.4	loss:4.18e+02, loss_r:3.84e-03, loss_b:5.27e-03, loss_i:3.691087e-02, loss_b_t:9.650513e-02
+Epoch # 18800/40000	time:524.0	loss:4.07e+02, loss_r:4.17e-03, loss_b:4.66e-03, loss_i:3.642657e-02, loss_b_t:1.851682e-03
+Epoch # 18900/40000	time:526.7	loss:4.09e+02, loss_r:3.96e-03, loss_b:4.79e-03, loss_i:3.654580e-02, loss_b_t:3.567685e-02
+Epoch # 19000/40000	time:529.3	loss:5.46e+02, loss_r:4.65e-03, loss_b:5.42e-03, loss_i:3.848575e-02, loss_b_t:1.140360e+00
+Epoch # 19100/40000	time:531.9	loss:4.05e+02, loss_r:4.26e-03, loss_b:3.80e-03, loss_i:3.623937e-02, loss_b_t:1.171435e-03
+Epoch # 19200/40000	time:534.5	loss:4.05e+02, loss_r:4.20e-03, loss_b:3.82e-03, loss_i:3.625353e-02, loss_b_t:1.237508e-03
+Epoch # 19300/40000	time:537.2	loss:4.32e+02, loss_r:4.30e-03, loss_b:2.95e-03, loss_i:3.681903e-02, loss_b_t:2.079116e-01
+Epoch # 19400/40000	time:540.0	loss:4.07e+02, loss_r:4.90e-03, loss_b:7.54e-03, loss_i:3.559038e-02, loss_b_t:1.480501e-02
+Epoch # 19500/40000	time:542.9	loss:4.05e+02, loss_r:4.24e-03, loss_b:3.98e-03, loss_i:3.617145e-02, loss_b_t:1.164740e-03
+Epoch # 19600/40000	time:545.7	loss:4.05e+02, loss_r:4.69e-03, loss_b:6.42e-03, loss_i:3.570351e-02, loss_b_t:7.048438e-03
+Epoch # 19700/40000	time:548.3	loss:4.27e+02, loss_r:7.12e-03, loss_b:1.23e-02, loss_i:3.443144e-02, loss_b_t:1.019095e-01
+Epoch # 19800/40000	time:551.5	loss:4.05e+02, loss_r:4.08e-03, loss_b:5.69e-03, loss_i:3.633363e-02, loss_b_t:9.417638e-04
+Epoch # 19900/40000	time:554.4	loss:4.08e+02, loss_r:3.74e-03, loss_b:5.94e-03, loss_i:3.691503e-02, loss_b_t:1.292815e-02
+Epoch # 20000/40000	time:557.4	loss:4.08e+02, loss_r:4.92e-03, loss_b:7.89e-03, loss_i:3.542224e-02, loss_b_t:3.756196e-02
+Epoch # 20100/40000	time:560.4	loss:4.38e+02, loss_r:3.53e-03, loss_b:7.80e-05, loss_i:3.718621e-02, loss_b_t:3.061194e-01
+Epoch # 20200/40000	time:563.4	loss:4.15e+02, loss_r:4.41e-03, loss_b:7.89e-03, loss_i:3.665816e-02, loss_b_t:3.999588e-02
+Epoch # 20300/40000	time:566.4	loss:4.18e+02, loss_r:4.99e-03, loss_b:1.95e-02, loss_i:3.628135e-02, loss_b_t:3.369096e-02
+Epoch # 20400/40000	time:569.4	loss:4.25e+02, loss_r:4.37e-03, loss_b:1.58e-03, loss_i:3.712132e-02, loss_b_t:9.719352e-02
+Epoch # 20500/40000	time:572.1	loss:4.63e+02, loss_r:5.85e-03, loss_b:6.31e-03, loss_i:3.541350e-02, loss_b_t:4.991167e-01
+Epoch # 20600/40000	time:574.8	loss:4.10e+02, loss_r:4.96e-03, loss_b:4.91e-03, loss_i:3.529432e-02, loss_b_t:7.108775e-02
+Epoch # 20700/40000	time:577.5	loss:4.03e+02, loss_r:4.29e-03, loss_b:2.24e-03, loss_i:3.596015e-02, loss_b_t:5.649215e-04
+Epoch # 20800/40000	time:580.2	loss:4.03e+02, loss_r:4.24e-03, loss_b:2.30e-03, loss_i:3.601655e-02, loss_b_t:6.153719e-04
+Epoch # 20900/40000	time:582.9	loss:4.03e+02, loss_r:4.26e-03, loss_b:2.86e-03, loss_i:3.601926e-02, loss_b_t:1.021019e-03
+Epoch # 21000/40000	time:585.5	loss:4.03e+02, loss_r:4.24e-03, loss_b:2.40e-03, loss_i:3.599026e-02, loss_b_t:5.858905e-04
+Epoch # 21100/40000	time:587.9	loss:5.99e+02, loss_r:5.95e-03, loss_b:5.73e-02, loss_i:4.352268e-02, loss_b_t:9.808806e-01
+Epoch # 21200/40000	time:590.3	loss:4.05e+02, loss_r:4.26e-03, loss_b:3.52e-03, loss_i:3.614755e-02, loss_b_t:1.569877e-03
+Epoch # 21300/40000	time:592.7	loss:4.06e+02, loss_r:4.28e-03, loss_b:7.52e-03, loss_i:3.611744e-02, loss_b_t:1.002986e-02
+Epoch # 21400/40000	time:595.1	loss:4.11e+02, loss_r:6.02e-03, loss_b:7.97e-03, loss_i:3.482344e-02, loss_b_t:1.371089e-02
+Epoch # 21500/40000	time:597.5	loss:4.04e+02, loss_r:4.51e-03, loss_b:5.20e-03, loss_i:3.571710e-02, loss_b_t:7.736239e-03
+Epoch # 21600/40000	time:599.9	loss:4.02e+02, loss_r:4.18e-03, loss_b:1.99e-03, loss_i:3.600746e-02, loss_b_t:1.249094e-03
+Epoch # 21700/40000	time:602.3	loss:4.33e+02, loss_r:7.23e-03, loss_b:6.04e-03, loss_i:3.446675e-02, loss_b_t:1.584998e-01
+Epoch # 21800/40000	time:604.7	loss:4.11e+02, loss_r:3.89e-03, loss_b:3.66e-03, loss_i:3.706357e-02, loss_b_t:7.331663e-03
+Epoch # 21900/40000	time:607.1	loss:4.03e+02, loss_r:4.52e-03, loss_b:2.98e-03, loss_i:3.562401e-02, loss_b_t:1.509045e-02
+Epoch # 22000/40000	time:609.5	loss:4.12e+02, loss_r:5.98e-03, loss_b:7.67e-03, loss_i:3.461187e-02, loss_b_t:5.209283e-02
+Epoch # 22100/40000	time:611.9	loss:4.02e+02, loss_r:4.31e-03, loss_b:2.61e-03, loss_i:3.583334e-02, loss_b_t:1.624060e-03
+Epoch # 22200/40000	time:614.3	loss:4.06e+02, loss_r:4.13e-03, loss_b:5.94e-03, loss_i:3.635739e-02, loss_b_t:1.273044e-03
+Epoch # 22300/40000	time:616.7	loss:4.04e+02, loss_r:4.54e-03, loss_b:5.12e-03, loss_i:3.575401e-02, loss_b_t:4.171908e-03
+Epoch # 22400/40000	time:619.1	loss:4.02e+02, loss_r:4.38e-03, loss_b:2.16e-03, loss_i:3.573909e-02, loss_b_t:2.830625e-03
+Epoch # 22500/40000	time:621.5	loss:4.02e+02, loss_r:4.24e-03, loss_b:1.76e-03, loss_i:3.588012e-02, loss_b_t:1.046753e-02
+Epoch # 22600/40000	time:623.9	loss:4.02e+02, loss_r:4.23e-03, loss_b:1.97e-03, loss_i:3.591895e-02, loss_b_t:9.406758e-04
+Epoch # 22700/40000	time:626.3	loss:4.22e+02, loss_r:5.27e-03, loss_b:7.34e-03, loss_i:3.487727e-02, loss_b_t:2.010059e-01
+Epoch # 22800/40000	time:628.8	loss:4.44e+02, loss_r:3.76e-03, loss_b:7.07e-04, loss_i:3.703484e-02, loss_b_t:3.616340e-01
+Epoch # 22900/40000	time:631.4	loss:4.04e+02, loss_r:5.02e-03, loss_b:4.33e-03, loss_i:3.518311e-02, loss_b_t:1.647345e-02
+Epoch # 23000/40000	time:634.0	loss:4.01e+02, loss_r:4.23e-03, loss_b:2.04e-03, loss_i:3.586129e-02, loss_b_t:1.139313e-03
+Epoch # 23100/40000	time:636.6	loss:4.02e+02, loss_r:4.30e-03, loss_b:2.42e-03, loss_i:3.581800e-02, loss_b_t:2.004666e-03
+Epoch # 23200/40000	time:639.2	loss:4.02e+02, loss_r:4.38e-03, loss_b:2.42e-03, loss_i:3.569339e-02, loss_b_t:6.631689e-03
+Epoch # 23300/40000	time:641.9	loss:4.04e+02, loss_r:3.84e-03, loss_b:1.74e-03, loss_i:3.648604e-02, loss_b_t:5.797406e-03
+Epoch # 23400/40000	time:644.6	loss:4.06e+02, loss_r:4.35e-03, loss_b:8.66e-04, loss_i:3.576213e-02, loss_b_t:5.292248e-02
+Epoch # 23500/40000	time:647.3	loss:4.02e+02, loss_r:4.19e-03, loss_b:1.42e-03, loss_i:3.593975e-02, loss_b_t:6.292634e-03
+Epoch # 23600/40000	time:650.0	loss:4.09e+02, loss_r:3.70e-03, loss_b:3.26e-03, loss_i:3.712724e-02, loss_b_t:6.401115e-03
+Epoch # 23700/40000	time:652.6	loss:4.01e+02, loss_r:4.40e-03, loss_b:1.83e-03, loss_i:3.564939e-02, loss_b_t:5.826009e-03
+Epoch # 23800/40000	time:655.3	loss:4.04e+02, loss_r:3.82e-03, loss_b:1.70e-03, loss_i:3.650189e-02, loss_b_t:3.539311e-03
+Epoch # 23900/40000	time:658.1	loss:4.23e+02, loss_r:5.15e-03, loss_b:2.32e-03, loss_i:3.516421e-02, loss_b_t:1.998396e-01
+Epoch # 24000/40000	time:660.9	loss:4.04e+02, loss_r:4.06e-03, loss_b:3.00e-03, loss_i:3.628782e-02, loss_b_t:5.307183e-03
+Epoch # 24100/40000	time:663.6	loss:4.02e+02, loss_r:4.45e-03, loss_b:3.23e-03, loss_i:3.569293e-02, loss_b_t:2.233876e-03
+Epoch # 24200/40000	time:666.4	loss:4.08e+02, loss_r:4.71e-03, loss_b:3.71e-03, loss_i:3.529313e-02, loss_b_t:7.825014e-02
+Epoch # 24300/40000	time:669.3	loss:4.08e+02, loss_r:3.97e-03, loss_b:1.60e-04, loss_i:3.613485e-02, loss_b_t:7.093719e-02
+Epoch # 24400/40000	time:672.2	loss:4.01e+02, loss_r:4.45e-03, loss_b:2.35e-03, loss_i:3.557468e-02, loss_b_t:6.207088e-03
+Epoch # 24500/40000	time:675.0	loss:4.07e+02, loss_r:5.16e-03, loss_b:7.17e-03, loss_i:3.540843e-02, loss_b_t:8.504048e-03
+Epoch # 24600/40000	time:677.7	loss:4.07e+02, loss_r:4.72e-03, loss_b:5.74e-03, loss_i:3.557724e-02, loss_b_t:3.405229e-02
+Epoch # 24700/40000	time:680.5	loss:4.06e+02, loss_r:4.27e-03, loss_b:6.41e-03, loss_i:3.611265e-02, loss_b_t:1.024522e-02
+Epoch # 24800/40000	time:683.3	loss:4.01e+02, loss_r:4.50e-03, loss_b:2.83e-03, loss_i:3.555597e-02, loss_b_t:6.128746e-03
+Epoch # 24900/40000	time:685.8	loss:4.01e+02, loss_r:4.63e-03, loss_b:1.94e-03, loss_i:3.535213e-02, loss_b_t:1.384431e-02
+Epoch # 25000/40000	time:688.4	loss:4.65e+02, loss_r:6.01e-03, loss_b:1.04e-02, loss_i:3.447770e-02, loss_b_t:5.934903e-01
+Epoch # 25100/40000	time:691.1	loss:4.00e+02, loss_r:4.32e-03, loss_b:9.99e-04, loss_i:3.566617e-02, loss_b_t:2.862714e-04
+Epoch # 25200/40000	time:693.7	loss:4.01e+02, loss_r:4.31e-03, loss_b:1.22e-03, loss_i:3.573246e-02, loss_b_t:2.500585e-04
+Epoch # 25300/40000	time:696.4	loss:4.00e+02, loss_r:4.27e-03, loss_b:1.09e-03, loss_i:3.571209e-02, loss_b_t:5.384385e-04
+Epoch # 25400/40000	time:699.0	loss:4.01e+02, loss_r:4.20e-03, loss_b:1.28e-03, loss_i:3.585089e-02, loss_b_t:6.020967e-04
+Epoch # 25500/40000	time:701.7	loss:4.01e+02, loss_r:4.11e-03, loss_b:1.76e-03, loss_i:3.593723e-02, loss_b_t:5.297660e-04
+Epoch # 25600/40000	time:704.4	loss:4.01e+02, loss_r:4.17e-03, loss_b:1.63e-03, loss_i:3.587770e-02, loss_b_t:1.288498e-03
+Epoch # 25700/40000	time:707.2	loss:4.04e+02, loss_r:4.05e-03, loss_b:2.46e-03, loss_i:3.629822e-02, loss_b_t:7.074436e-04
+Epoch # 25800/40000	time:709.7	loss:4.08e+02, loss_r:4.15e-03, loss_b:2.39e-04, loss_i:3.602746e-02, loss_b_t:5.903517e-02
+Epoch # 25900/40000	time:712.1	loss:4.00e+02, loss_r:4.39e-03, loss_b:1.54e-03, loss_i:3.554298e-02, loss_b_t:1.346172e-03
+Epoch # 26000/40000	time:714.7	loss:4.01e+02, loss_r:4.08e-03, loss_b:6.47e-04, loss_i:3.582678e-02, loss_b_t:2.345123e-02
+Epoch # 26100/40000	time:717.4	loss:4.29e+02, loss_r:6.58e-03, loss_b:7.94e-03, loss_i:3.590103e-02, loss_b_t:2.941876e-02
+Epoch # 26200/40000	time:720.4	loss:4.06e+02, loss_r:3.91e-03, loss_b:2.77e-04, loss_i:3.601547e-02, loss_b_t:7.007021e-02
+Epoch # 26300/40000	time:723.1	loss:3.98e+02, loss_r:4.36e-03, loss_b:9.56e-04, loss_i:3.546236e-02, loss_b_t:6.270217e-04
+Epoch # 26400/40000	time:725.9	loss:3.98e+02, loss_r:4.39e-03, loss_b:1.40e-03, loss_i:3.541449e-02, loss_b_t:1.765861e-03
+Epoch # 26500/40000	time:728.7	loss:4.04e+02, loss_r:5.15e-03, loss_b:3.54e-03, loss_i:3.467622e-02, loss_b_t:4.910323e-02
+Epoch # 26600/40000	time:731.3	loss:3.97e+02, loss_r:4.35e-03, loss_b:1.15e-03, loss_i:3.536742e-02, loss_b_t:2.151136e-03
+Epoch # 26700/40000	time:733.8	loss:4.01e+02, loss_r:3.82e-03, loss_b:3.17e-04, loss_i:3.597986e-02, loss_b_t:3.108072e-02
+Epoch # 26800/40000	time:736.4	loss:4.01e+02, loss_r:5.63e-03, loss_b:1.97e-03, loss_i:3.434829e-02, loss_b_t:6.946308e-03
+Epoch # 26900/40000	time:738.9	loss:3.98e+02, loss_r:3.70e-03, loss_b:1.04e-03, loss_i:3.589169e-02, loss_b_t:2.301863e-02
+Epoch # 27000/40000	time:741.6	loss:3.95e+02, loss_r:4.79e-03, loss_b:5.80e-04, loss_i:3.446935e-02, loss_b_t:1.929482e-02
+Epoch # 27100/40000	time:744.2	loss:3.79e+02, loss_r:4.64e-03, loss_b:1.73e-03, loss_i:3.322253e-02, loss_b_t:3.368091e-03
+Epoch # 27200/40000	time:746.9	loss:3.93e+02, loss_r:5.79e-03, loss_b:5.47e-03, loss_i:3.305645e-02, loss_b_t:3.468952e-02
+Epoch # 27300/40000	time:749.5	loss:3.48e+02, loss_r:8.78e-03, loss_b:8.40e-02, loss_i:2.100567e-02, loss_b_t:4.168032e-01
+Epoch # 27400/40000	time:752.2	loss:1.88e+02, loss_r:3.42e-03, loss_b:5.29e-02, loss_i:1.395959e-02, loss_b_t:8.563355e-02
+Epoch # 27500/40000	time:754.9	loss:2.42e+02, loss_r:8.91e-03, loss_b:1.67e-02, loss_i:1.474185e-02, loss_b_t:3.560553e-02
+Epoch # 27600/40000	time:757.7	loss:1.05e+02, loss_r:3.36e-03, loss_b:9.88e-02, loss_i:6.114474e-03, loss_b_t:4.241820e-03
+Epoch # 27700/40000	time:760.4	loss:4.49e+02, loss_r:1.47e-02, loss_b:1.92e-03, loss_i:3.003187e-02, loss_b_t:8.390969e-03
+Epoch # 27800/40000	time:763.2	loss:1.01e+02, loss_r:2.25e-03, loss_b:8.97e-02, loss_i:5.186679e-03, loss_b_t:1.718588e-01
+Epoch # 27900/40000	time:766.2	loss:1.38e+02, loss_r:4.26e-03, loss_b:2.12e-02, loss_i:8.367487e-03, loss_b_t:9.554332e-02
+Epoch # 28000/40000	time:768.8	loss:9.25e+01, loss_r:2.42e-03, loss_b:3.96e-02, loss_i:6.176550e-03, loss_b_t:2.593672e-02
+Epoch # 28100/40000	time:771.5	loss:5.06e+01, loss_r:7.92e-04, loss_b:6.78e-02, loss_i:3.517089e-03, loss_b_t:7.674848e-03
+Epoch # 28200/40000	time:774.1	loss:5.92e+01, loss_r:1.21e-03, loss_b:8.02e-02, loss_i:3.659612e-03, loss_b_t:2.449517e-02
+Epoch # 28300/40000	time:776.8	loss:7.30e+01, loss_r:1.36e-03, loss_b:2.01e-02, loss_i:5.446626e-03, loss_b_t:2.975507e-02
+Epoch # 28400/40000	time:779.4	loss:5.12e+01, loss_r:8.59e-04, loss_b:3.45e-02, loss_i:3.760085e-03, loss_b_t:1.602545e-02
+Epoch # 28500/40000	time:782.1	loss:6.35e+01, loss_r:1.11e-03, loss_b:6.20e-02, loss_i:3.434870e-03, loss_b_t:1.183956e-01
+Epoch # 28600/40000	time:784.7	loss:1.02e+02, loss_r:2.26e-03, loss_b:3.26e-02, loss_i:7.338500e-03, loss_b_t:3.001178e-02
+Epoch # 28700/40000	time:787.4	loss:4.70e+01, loss_r:6.99e-04, loss_b:3.58e-02, loss_i:3.411180e-03, loss_b_t:2.329406e-02
+Epoch # 28800/40000	time:790.0	loss:4.84e+01, loss_r:1.01e-03, loss_b:3.88e-02, loss_i:3.335291e-03, loss_b_t:1.107955e-02
+Epoch # 28900/40000	time:792.7	loss:7.53e+01, loss_r:1.38e-03, loss_b:1.81e-02, loss_i:4.153410e-03, loss_b_t:1.818225e-01
+Epoch # 29000/40000	time:795.4	loss:6.16e+01, loss_r:1.21e-03, loss_b:2.72e-02, loss_i:4.483070e-03, loss_b_t:1.907071e-02
+Epoch # 29100/40000	time:798.0	loss:6.97e+01, loss_r:1.56e-03, loss_b:9.42e-03, loss_i:4.831264e-03, loss_b_t:4.908508e-02
+Epoch # 29200/40000	time:800.7	loss:3.11e+02, loss_r:6.17e-03, loss_b:1.37e-03, loss_i:2.451077e-02, loss_b_t:3.770509e-02
+Epoch # 29300/40000	time:803.1	loss:3.44e+01, loss_r:5.84e-04, loss_b:1.79e-02, loss_i:2.673638e-03, loss_b_t:6.835298e-04
+Epoch # 29400/40000	time:805.6	loss:3.30e+01, loss_r:5.46e-04, loss_b:1.72e-02, loss_i:2.513035e-03, loss_b_t:6.465896e-03
+Epoch # 29500/40000	time:808.2	loss:4.09e+01, loss_r:7.26e-04, loss_b:2.11e-02, loss_i:2.340158e-03, loss_b_t:8.169475e-02
+Epoch # 29600/40000	time:811.0	loss:7.20e+01, loss_r:6.43e-04, loss_b:1.16e-02, loss_i:2.564221e-03, loss_b_t:3.879660e-01
+Epoch # 29700/40000	time:813.6	loss:3.51e+01, loss_r:7.43e-04, loss_b:1.02e-02, loss_i:2.590685e-03, loss_b_t:7.079643e-03
+Epoch # 29800/40000	time:816.1	loss:3.97e+01, loss_r:7.32e-04, loss_b:7.83e-03, loss_i:2.879854e-03, loss_b_t:2.800988e-02
+Epoch # 29900/40000	time:818.6	loss:3.43e+01, loss_r:6.89e-04, loss_b:1.45e-02, loss_i:2.470123e-03, loss_b_t:1.243644e-02
+Epoch # 30000/40000	time:821.2	loss:4.24e+01, loss_r:9.54e-04, loss_b:8.00e-03, loss_i:3.057028e-03, loss_b_t:1.495837e-02
+Epoch # 30100/40000	time:823.9	loss:3.84e+01, loss_r:1.09e-03, loss_b:1.13e-02, loss_i:2.533074e-03, loss_b_t:1.042361e-02
+Epoch # 30200/40000	time:826.6	loss:3.13e+01, loss_r:4.47e-04, loss_b:1.04e-02, loss_i:2.223583e-03, loss_b_t:3.543442e-02
+Epoch # 30300/40000	time:829.2	loss:3.11e+01, loss_r:4.18e-04, loss_b:8.12e-03, loss_i:2.218892e-03, loss_b_t:3.897319e-02
+Epoch # 30400/40000	time:831.9	loss:2.66e+01, loss_r:3.76e-04, loss_b:8.15e-03, loss_i:2.138923e-03, loss_b_t:6.670360e-03
+Epoch # 30500/40000	time:834.6	loss:2.76e+01, loss_r:5.25e-04, loss_b:6.54e-03, loss_i:2.164178e-03, loss_b_t:9.299217e-04
+Epoch # 30600/40000	time:837.3	loss:2.68e+01, loss_r:4.14e-04, loss_b:6.35e-03, loss_i:2.159711e-03, loss_b_t:4.270585e-03
+Epoch # 30700/40000	time:839.9	loss:3.38e+01, loss_r:6.97e-04, loss_b:3.55e-03, loss_i:2.551570e-03, loss_b_t:9.157100e-03
+Epoch # 30800/40000	time:842.6	loss:2.33e+02, loss_r:3.89e-03, loss_b:2.39e-03, loss_i:1.913296e-02, loss_b_t:2.260714e-02
+Epoch # 30900/40000	time:845.2	loss:3.12e+01, loss_r:7.12e-04, loss_b:4.88e-03, loss_i:2.266884e-03, loss_b_t:9.142512e-03
+Epoch # 31000/40000	time:847.9	loss:2.92e+01, loss_r:5.75e-04, loss_b:3.79e-03, loss_i:2.280815e-03, loss_b_t:2.969257e-03
+Epoch # 31100/40000	time:850.5	loss:2.73e+01, loss_r:3.98e-04, loss_b:3.83e-03, loss_i:2.206970e-03, loss_b_t:8.628668e-03
+Epoch # 31200/40000	time:853.2	loss:2.64e+01, loss_r:4.16e-04, loss_b:3.83e-03, loss_i:2.144415e-03, loss_b_t:4.320592e-03
+Epoch # 31300/40000	time:855.9	loss:2.57e+01, loss_r:4.07e-04, loss_b:3.57e-03, loss_i:2.114339e-03, loss_b_t:1.528514e-03
+Epoch # 31400/40000	time:858.6	loss:2.65e+01, loss_r:3.44e-04, loss_b:2.77e-03, loss_i:2.216433e-03, loss_b_t:6.250192e-03
+Epoch # 31500/40000	time:861.0	loss:2.51e+01, loss_r:3.84e-04, loss_b:3.24e-03, loss_i:2.046937e-03, loss_b_t:4.312209e-03
+Epoch # 31600/40000	time:863.4	loss:2.60e+01, loss_r:4.05e-04, loss_b:2.76e-03, loss_i:2.101160e-03, loss_b_t:6.518633e-03
+Epoch # 31700/40000	time:865.9	loss:2.52e+01, loss_r:3.57e-04, loss_b:2.55e-03, loss_i:2.080953e-03, loss_b_t:5.557045e-03
+Epoch # 31800/40000	time:868.3	loss:2.39e+01, loss_r:3.13e-04, loss_b:2.50e-03, loss_i:2.037112e-03, loss_b_t:1.815819e-03
+Epoch # 31900/40000	time:870.8	loss:2.42e+01, loss_r:3.52e-04, loss_b:2.26e-03, loss_i:2.032290e-03, loss_b_t:1.175432e-03
+Epoch # 32000/40000	time:873.2	loss:2.54e+01, loss_r:3.85e-04, loss_b:2.46e-03, loss_i:2.116933e-03, loss_b_t:1.358193e-03
+Epoch # 32100/40000	time:875.7	loss:2.94e+01, loss_r:5.58e-04, loss_b:1.79e-03, loss_i:2.263586e-03, loss_b_t:1.034456e-02
+Epoch # 32200/40000	time:878.2	loss:2.49e+01, loss_r:4.69e-04, loss_b:1.21e-03, loss_i:1.982847e-03, loss_b_t:2.983343e-03
+Epoch # 32300/40000	time:880.7	loss:2.29e+01, loss_r:2.86e-04, loss_b:2.03e-03, loss_i:1.975423e-03, loss_b_t:7.466064e-04
+Epoch # 32400/40000	time:883.2	loss:2.35e+01, loss_r:2.95e-04, loss_b:2.06e-03, loss_i:2.004244e-03, loss_b_t:2.764075e-03
+Epoch # 32500/40000	time:885.8	loss:2.61e+01, loss_r:3.30e-04, loss_b:2.03e-03, loss_i:1.944342e-03, loss_b_t:3.188182e-02
+Epoch # 32600/40000	time:888.3	loss:2.28e+01, loss_r:2.87e-04, loss_b:1.90e-03, loss_i:1.947373e-03, loss_b_t:3.106972e-03
+Epoch # 32700/40000	time:890.7	loss:2.30e+01, loss_r:3.36e-04, loss_b:1.39e-03, loss_i:1.945428e-03, loss_b_t:2.921424e-04
+Epoch # 32800/40000	time:893.3	loss:2.72e+01, loss_r:5.08e-04, loss_b:2.93e-04, loss_i:2.177763e-03, loss_b_t:3.314890e-03
+Epoch # 32900/40000	time:895.9	loss:2.40e+01, loss_r:2.96e-04, loss_b:1.06e-03, loss_i:1.955584e-03, loss_b_t:1.330141e-02
+Epoch # 33000/40000	time:898.5	loss:3.04e+01, loss_r:5.94e-04, loss_b:5.92e-04, loss_i:2.390008e-03, loss_b_t:5.053814e-03
+Epoch # 33100/40000	time:901.2	loss:2.20e+01, loss_r:2.78e-04, loss_b:1.08e-03, loss_i:1.906365e-03, loss_b_t:7.051359e-04
+Epoch # 33200/40000	time:903.8	loss:2.39e+01, loss_r:3.46e-04, loss_b:6.70e-04, loss_i:1.970010e-03, loss_b_t:6.750014e-03
+Epoch # 33300/40000	time:906.5	loss:2.21e+01, loss_r:2.72e-04, loss_b:7.56e-04, loss_i:1.928959e-03, loss_b_t:4.315514e-04
+Epoch # 33400/40000	time:909.2	loss:2.15e+01, loss_r:2.51e-04, loss_b:9.35e-04, loss_i:1.891020e-03, loss_b_t:3.326851e-04
+Epoch # 33500/40000	time:911.8	loss:2.74e+01, loss_r:6.81e-04, loss_b:6.68e-04, loss_i:2.029532e-03, loss_b_t:1.965853e-03
+Epoch # 33600/40000	time:914.4	loss:2.16e+01, loss_r:2.45e-04, loss_b:7.49e-04, loss_i:1.884831e-03, loss_b_t:2.356828e-03
+Epoch # 33700/40000	time:917.0	loss:2.13e+01, loss_r:2.47e-04, loss_b:8.00e-04, loss_i:1.867522e-03, loss_b_t:2.363708e-04
+Epoch # 33800/40000	time:919.7	loss:2.18e+01, loss_r:2.91e-04, loss_b:4.48e-04, loss_i:1.876235e-03, loss_b_t:5.109575e-04
+Epoch # 33900/40000	time:922.4	loss:2.13e+01, loss_r:2.60e-04, loss_b:5.83e-04, loss_i:1.843960e-03, loss_b_t:1.755246e-03
+Epoch # 34000/40000	time:925.0	loss:2.14e+01, loss_r:2.49e-04, loss_b:5.54e-04, loss_i:1.865629e-03, loss_b_t:1.759607e-03
+Epoch # 34100/40000	time:927.7	loss:2.11e+01, loss_r:2.51e-04, loss_b:5.77e-04, loss_i:1.844915e-03, loss_b_t:6.274544e-04
+Epoch # 34200/40000	time:930.5	loss:2.07e+01, loss_r:2.36e-04, loss_b:5.13e-04, loss_i:1.827519e-03, loss_b_t:2.694021e-04
+Epoch # 34300/40000	time:933.4	loss:2.09e+01, loss_r:2.57e-04, loss_b:4.05e-04, loss_i:1.824033e-03, loss_b_t:8.449794e-04
+Epoch # 34400/40000	time:936.2	loss:2.12e+01, loss_r:2.69e-04, loss_b:4.55e-04, loss_i:1.830893e-03, loss_b_t:1.265700e-03
+Epoch # 34500/40000	time:939.0	loss:2.07e+01, loss_r:2.56e-04, loss_b:4.45e-04, loss_i:1.802159e-03, loss_b_t:8.575468e-04
+Epoch # 34600/40000	time:941.7	loss:2.07e+01, loss_r:2.45e-04, loss_b:3.56e-04, loss_i:1.819506e-03, loss_b_t:4.567015e-04
+Epoch # 34700/40000	time:944.5	loss:2.03e+01, loss_r:2.31e-04, loss_b:3.88e-04, loss_i:1.789803e-03, loss_b_t:2.124482e-04
+Epoch # 34800/40000	time:947.3	loss:2.04e+01, loss_r:2.54e-04, loss_b:2.97e-04, loss_i:1.779341e-03, loss_b_t:2.528522e-04
+Epoch # 34900/40000	time:950.0	loss:2.07e+01, loss_r:3.03e-04, loss_b:2.73e-04, loss_i:1.762912e-03, loss_b_t:3.522086e-04
+Epoch # 35000/40000	time:952.8	loss:1.99e+01, loss_r:2.27e-04, loss_b:2.92e-04, loss_i:1.760992e-03, loss_b_t:2.444246e-04
+Epoch # 35100/40000	time:955.4	loss:2.00e+01, loss_r:2.34e-04, loss_b:2.50e-04, loss_i:1.754395e-03, loss_b_t:3.938301e-04
+Epoch # 35200/40000	time:958.1	loss:1.98e+01, loss_r:2.25e-04, loss_b:2.59e-04, loss_i:1.748068e-03, loss_b_t:4.457880e-04
+Epoch # 35300/40000	time:960.7	loss:2.13e+01, loss_r:3.60e-04, loss_b:2.71e-04, loss_i:1.763365e-03, loss_b_t:3.331884e-04
+Epoch # 35400/40000	time:963.4	loss:1.97e+01, loss_r:2.24e-04, loss_b:2.14e-04, loss_i:1.739405e-03, loss_b_t:4.551190e-04
+Epoch # 35500/40000	time:966.1	loss:2.02e+01, loss_r:2.59e-04, loss_b:2.04e-04, loss_i:1.749850e-03, loss_b_t:1.181273e-03
+Epoch # 35600/40000	time:969.0	loss:2.05e+01, loss_r:3.01e-04, loss_b:1.68e-04, loss_i:1.735121e-03, loss_b_t:9.916860e-04
+Epoch # 35700/40000	time:971.7	loss:1.93e+01, loss_r:2.19e-04, loss_b:1.71e-04, loss_i:1.708201e-03, loss_b_t:2.331754e-04
+Epoch # 35800/40000	time:974.6	loss:1.92e+01, loss_r:2.15e-04, loss_b:1.67e-04, loss_i:1.702701e-03, loss_b_t:2.309313e-04
+Epoch # 35900/40000	time:977.5	loss:1.91e+01, loss_r:2.14e-04, loss_b:1.52e-04, loss_i:1.695246e-03, loss_b_t:2.520030e-04
+Epoch # 36000/40000	time:980.7	loss:1.93e+01, loss_r:2.25e-04, loss_b:1.55e-04, loss_i:1.701213e-03, loss_b_t:4.923615e-04
+Epoch # 36100/40000	time:984.0	loss:1.93e+01, loss_r:2.33e-04, loss_b:1.37e-04, loss_i:1.689208e-03, loss_b_t:8.296747e-04
+Epoch # 36200/40000	time:987.0	loss:8.19e+02, loss_r:5.70e-03, loss_b:8.64e-04, loss_i:7.612254e-02, loss_b_t:6.228291e-03
+Epoch # 36300/40000	time:989.9	loss:7.94e+02, loss_r:6.71e-03, loss_b:1.18e-03, loss_i:7.263878e-02, loss_b_t:2.796702e-03
+Epoch # 36400/40000	time:992.8	loss:7.89e+02, loss_r:7.08e-03, loss_b:1.06e-03, loss_i:7.181635e-02, loss_b_t:2.195086e-03
+Epoch # 36500/40000	time:995.5	loss:7.87e+02, loss_r:7.23e-03, loss_b:9.13e-04, loss_i:7.140176e-02, loss_b_t:1.783724e-03
+Epoch # 36600/40000	time:997.9	loss:7.84e+02, loss_r:7.38e-03, loss_b:8.25e-04, loss_i:7.104819e-02, loss_b_t:1.368105e-03
+Epoch # 36700/40000	time:1000.4	loss:7.83e+02, loss_r:7.53e-03, loss_b:8.73e-04, loss_i:7.073104e-02, loss_b_t:1.162265e-03
+Epoch # 36800/40000	time:1003.1	loss:7.81e+02, loss_r:7.64e-03, loss_b:1.06e-03, loss_i:7.048006e-02, loss_b_t:1.140135e-03
+Epoch # 36900/40000	time:1005.6	loss:7.80e+02, loss_r:7.78e-03, loss_b:1.34e-03, loss_i:7.022048e-02, loss_b_t:1.214109e-03
+Epoch # 37000/40000	time:1008.2	loss:7.79e+02, loss_r:7.77e-03, loss_b:1.59e-03, loss_i:7.011349e-02, loss_b_t:1.382031e-03
+Epoch # 37100/40000	time:1011.0	loss:7.78e+02, loss_r:7.76e-03, loss_b:1.92e-03, loss_i:7.002057e-02, loss_b_t:1.610987e-03
+Epoch # 37200/40000	time:1013.5	loss:7.77e+02, loss_r:7.85e-03, loss_b:2.42e-03, loss_i:6.980293e-02, loss_b_t:1.920362e-03
+Epoch # 37300/40000	time:1015.9	loss:7.76e+02, loss_r:7.86e-03, loss_b:2.98e-03, loss_i:6.969047e-02, loss_b_t:2.231793e-03
+Epoch # 37400/40000	time:1018.3	loss:7.75e+02, loss_r:7.96e-03, loss_b:3.82e-03, loss_i:6.945851e-02, loss_b_t:2.781332e-03
+Epoch # 37500/40000	time:1020.8	loss:7.74e+02, loss_r:8.25e-03, loss_b:5.06e-03, loss_i:6.904016e-02, loss_b_t:3.275035e-03
+Epoch # 37600/40000	time:1023.4	loss:7.72e+02, loss_r:8.03e-03, loss_b:6.62e-03, loss_i:6.907444e-02, loss_b_t:4.218282e-03
+Epoch # 37700/40000	time:1026.0	loss:7.71e+02, loss_r:8.56e-03, loss_b:9.74e-03, loss_i:6.834213e-02, loss_b_t:5.192749e-03
+Epoch # 37800/40000	time:1028.5	loss:7.67e+02, loss_r:8.08e-03, loss_b:1.52e-02, loss_i:6.837136e-02, loss_b_t:8.304168e-03
+Epoch # 37900/40000	time:1031.1	loss:7.61e+02, loss_r:8.59e-03, loss_b:3.08e-02, loss_i:6.702112e-02, loss_b_t:1.713798e-02
+Epoch # 38000/40000	time:1033.6	loss:7.50e+02, loss_r:8.15e-03, loss_b:6.67e-02, loss_i:6.593432e-02, loss_b_t:2.935898e-02
+Epoch # 38100/40000	time:1036.2	loss:5.89e+02, loss_r:7.12e-03, loss_b:6.03e-01, loss_i:4.556663e-02, loss_b_t:1.438169e-02
+Epoch # 38200/40000	time:1038.8	loss:4.93e+02, loss_r:4.80e-03, loss_b:6.79e-01, loss_i:3.753576e-02, loss_b_t:1.323084e-02
+Epoch # 38300/40000	time:1041.3	loss:4.85e+02, loss_r:4.84e-03, loss_b:6.56e-01, loss_i:3.699082e-02, loss_b_t:1.169672e-02
+Epoch # 38400/40000	time:1043.9	loss:4.80e+02, loss_r:4.86e-03, loss_b:6.34e-01, loss_i:3.665549e-02, loss_b_t:1.002691e-02
+Epoch # 38500/40000	time:1046.4	loss:4.75e+02, loss_r:4.87e-03, loss_b:6.11e-01, loss_i:3.639300e-02, loss_b_t:8.393340e-03
+Epoch # 38600/40000	time:1048.9	loss:4.70e+02, loss_r:4.89e-03, loss_b:5.86e-01, loss_i:3.618027e-02, loss_b_t:6.882726e-03
+Epoch # 38700/40000	time:1051.4	loss:4.66e+02, loss_r:4.89e-03, loss_b:5.60e-01, loss_i:3.601921e-02, loss_b_t:5.676126e-03
+Epoch # 38800/40000	time:1054.0	loss:4.61e+02, loss_r:4.88e-03, loss_b:5.31e-01, loss_i:3.590829e-02, loss_b_t:4.885212e-03
+Epoch # 38900/40000	time:1056.5	loss:4.57e+02, loss_r:4.86e-03, loss_b:4.99e-01, loss_i:3.584053e-02, loss_b_t:4.442223e-03
+Epoch # 39000/40000	time:1059.2	loss:4.53e+02, loss_r:4.82e-03, loss_b:4.64e-01, loss_i:3.580937e-02, loss_b_t:3.998868e-03
+Epoch # 39100/40000	time:1061.8	loss:4.50e+02, loss_r:4.33e-03, loss_b:4.16e-01, loss_i:3.646951e-02, loss_b_t:2.854912e-03
+Epoch # 39200/40000	time:1064.4	loss:4.44e+02, loss_r:4.73e-03, loss_b:3.79e-01, loss_i:3.587431e-02, loss_b_t:2.534299e-03
+Epoch # 39300/40000	time:1067.1	loss:4.41e+02, loss_r:4.46e-03, loss_b:3.28e-01, loss_i:3.627818e-02, loss_b_t:5.586607e-03
+Epoch # 39400/40000	time:1069.7	loss:4.36e+02, loss_r:4.65e-03, loss_b:2.87e-01, loss_i:3.610216e-02, loss_b_t:4.999614e-04
+Epoch # 39500/40000	time:1072.2	loss:4.33e+02, loss_r:4.84e-03, loss_b:2.50e-01, loss_i:3.595902e-02, loss_b_t:3.629787e-03
+Epoch # 39600/40000	time:1074.6	loss:4.34e+02, loss_r:4.69e-03, loss_b:2.13e-01, loss_i:3.618235e-02, loss_b_t:4.414796e-02
+Epoch # 39700/40000	time:1077.0	loss:4.45e+02, loss_r:4.09e-03, loss_b:1.88e-01, loss_i:3.727799e-02, loss_b_t:1.264406e-01
+Epoch # 39800/40000	time:1079.4	loss:4.26e+02, loss_r:4.70e-03, loss_b:1.66e-01, loss_i:3.621456e-02, loss_b_t:2.244336e-03
+Epoch # 39900/40000	time:1081.8	loss:4.37e+02, loss_r:5.01e-03, loss_b:1.44e-01, loss_i:3.583633e-02, loss_b_t:1.431749e-01
+Epoch # 40000/40000	time:1084.2	loss:4.26e+02, loss_r:4.49e-03, loss_b:1.23e-01, loss_i:3.649024e-02, loss_b_t:4.297248e-02
+Iter #    500/40000	loss:7.82e-02, loss_r:5.33e-03, loss_i:7.17e-02 , loss_b:1.22e-03, loss_b_t:2.18e-05  Valid # loss:7.82e-02, loss_r:5.41e-03, loss_i:7.15e-02, loss_b:1.28e-03, loss_b_t:2.20e-05
+Iter #   1000/40000	loss:6.87e-02, loss_r:1.27e-02, loss_i:5.49e-02 , loss_b:1.05e-03, loss_b_t:1.40e-06  Valid # loss:6.87e-02, loss_r:1.26e-02, loss_i:5.51e-02, loss_b:1.00e-03, loss_b_t:8.56e-07
+Iter #   1500/40000	loss:6.59e-02, loss_r:1.41e-02, loss_i:5.04e-02 , loss_b:1.53e-03, loss_b_t:7.07e-07  Valid # loss:6.59e-02, loss_r:1.41e-02, loss_i:5.03e-02, loss_b:1.53e-03, loss_b_t:7.10e-07
+Iter #   2000/40000	loss:6.46e-02, loss_r:1.43e-02, loss_i:4.84e-02 , loss_b:1.79e-03, loss_b_t:6.89e-07  Valid # loss:6.45e-02, loss_r:1.44e-02, loss_i:4.84e-02, loss_b:1.80e-03, loss_b_t:6.86e-07
+Iter #   2500/40000	loss:5.95e-02, loss_r:1.55e-02, loss_i:4.16e-02 , loss_b:2.33e-03, loss_b_t:1.33e-05  Valid # loss:5.94e-02, loss_r:1.55e-02, loss_i:4.15e-02, loss_b:2.39e-03, loss_b_t:3.03e-05
+Iter #   3000/40000	loss:5.24e-02, loss_r:1.97e-02, loss_i:3.01e-02 , loss_b:2.63e-03, loss_b_t:5.96e-07  Valid # loss:5.24e-02, loss_r:1.98e-02, loss_i:3.00e-02, loss_b:2.63e-03, loss_b_t:8.42e-07
+Iter #   3500/40000	loss:5.16e-02, loss_r:2.11e-02, loss_i:2.67e-02 , loss_b:3.49e-03, loss_b_t:3.38e-04  Valid # loss:5.68e-02, loss_r:2.81e-02, loss_i:2.22e-02, loss_b:5.70e-03, loss_b_t:8.91e-04
+Iter #   4000/40000	loss:4.69e-02, loss_r:2.29e-02, loss_i:2.18e-02 , loss_b:2.16e-03, loss_b_t:4.38e-07  Valid # loss:4.68e-02, loss_r:2.30e-02, loss_i:2.17e-02, loss_b:2.16e-03, loss_b_t:3.77e-07
+Iter #   4500/40000	loss:4.20e-02, loss_r:2.30e-02, loss_i:1.70e-02 , loss_b:1.58e-03, loss_b_t:4.94e-04  Valid # loss:4.08e-02, loss_r:2.25e-02, loss_i:1.67e-02, loss_b:1.55e-03, loss_b_t:2.54e-05
+Iter #   5000/40000	loss:3.26e-02, loss_r:1.86e-02, loss_i:1.26e-02 , loss_b:1.31e-03, loss_b_t:1.27e-05  Valid # loss:3.26e-02, loss_r:1.86e-02, loss_i:1.26e-02, loss_b:1.31e-03, loss_b_t:1.27e-05
+Iter #   5500/40000	loss:3.06e-02, loss_r:1.79e-02, loss_i:1.16e-02 , loss_b:1.19e-03, loss_b_t:9.44e-06  Valid # loss:3.06e-02, loss_r:1.79e-02, loss_i:1.15e-02, loss_b:1.19e-03, loss_b_t:9.45e-06
+Iter #   6000/40000	loss:2.99e-02, loss_r:1.75e-02, loss_i:1.12e-02 , loss_b:1.14e-03, loss_b_t:5.06e-06  Valid # loss:2.99e-02, loss_r:1.75e-02, loss_i:1.12e-02, loss_b:1.14e-03, loss_b_t:5.06e-06
+Iter #   6500/40000	loss:2.95e-02, loss_r:1.72e-02, loss_i:1.12e-02 , loss_b:1.12e-03, loss_b_t:2.15e-06  Valid # loss:2.95e-02, loss_r:1.72e-02, loss_i:1.12e-02, loss_b:1.13e-03, loss_b_t:1.63e-06
+Iter #   7000/40000	loss:2.92e-02, loss_r:1.73e-02, loss_i:1.08e-02 , loss_b:1.14e-03, loss_b_t:1.57e-06  Valid # loss:2.92e-02, loss_r:1.73e-02, loss_i:1.08e-02, loss_b:1.14e-03, loss_b_t:1.57e-06
+Iter #   7500/40000	loss:2.90e-02, loss_r:1.72e-02, loss_i:1.07e-02 , loss_b:1.13e-03, loss_b_t:7.83e-07  Valid # loss:2.90e-02, loss_r:1.72e-02, loss_i:1.07e-02, loss_b:1.13e-03, loss_b_t:7.84e-07
+Iter #   8000/40000	loss:2.91e-02, loss_r:1.69e-02, loss_i:1.10e-02 , loss_b:1.14e-03, loss_b_t:1.45e-06  Valid # loss:2.91e-02, loss_r:1.70e-02, loss_i:1.10e-02, loss_b:1.16e-03, loss_b_t:4.17e-06
+Iter #   8500/40000	loss:2.87e-02, loss_r:1.70e-02, loss_i:1.06e-02 , loss_b:1.13e-03, loss_b_t:4.19e-07  Valid # loss:2.87e-02, loss_r:1.70e-02, loss_i:1.06e-02, loss_b:1.13e-03, loss_b_t:4.67e-07
+Iter #   9000/40000	loss:2.84e-02, loss_r:1.69e-02, loss_i:1.04e-02 , loss_b:1.11e-03, loss_b_t:2.57e-07  Valid # loss:2.84e-02, loss_r:1.69e-02, loss_i:1.04e-02, loss_b:1.11e-03, loss_b_t:2.58e-07
+Iter #   9500/40000	loss:2.88e-02, loss_r:1.58e-02, loss_i:1.15e-02 , loss_b:1.20e-03, loss_b_t:2.00e-04  Valid # loss:2.91e-02, loss_r:1.56e-02, loss_i:1.20e-02, loss_b:1.10e-03, loss_b_t:3.31e-04
+Iter #  10000/40000	loss:2.81e-02, loss_r:1.67e-02, loss_i:1.02e-02 , loss_b:1.11e-03, loss_b_t:1.84e-07  Valid # loss:2.81e-02, loss_r:1.67e-02, loss_i:1.02e-02, loss_b:1.11e-03, loss_b_t:1.80e-07
+Iter #  10500/40000	loss:2.79e-02, loss_r:1.65e-02, loss_i:1.03e-02 , loss_b:1.12e-03, loss_b_t:1.03e-06  Valid # loss:2.79e-02, loss_r:1.65e-02, loss_i:1.04e-02, loss_b:1.11e-03, loss_b_t:1.50e-06
+Iter #  11000/40000	loss:2.75e-02, loss_r:1.65e-02, loss_i:9.92e-03 , loss_b:1.11e-03, loss_b_t:5.13e-06  Valid # loss:2.75e-02, loss_r:1.64e-02, loss_i:1.00e-02, loss_b:1.09e-03, loss_b_t:8.25e-06
+Iter #  11500/40000	loss:2.87e-02, loss_r:1.42e-02, loss_i:1.30e-02 , loss_b:1.17e-03, loss_b_t:2.86e-04  Valid # loss:2.80e-02, loss_r:1.47e-02, loss_i:1.21e-02, loss_b:1.01e-03, loss_b_t:2.19e-04
+Iter #  12000/40000	loss:2.69e-02, loss_r:1.60e-02, loss_i:9.89e-03 , loss_b:1.05e-03, loss_b_t:1.99e-07  Valid # loss:2.69e-02, loss_r:1.60e-02, loss_i:9.86e-03, loss_b:1.06e-03, loss_b_t:4.76e-07
+Iter #  12500/40000	loss:2.61e-02, loss_r:1.57e-02, loss_i:9.35e-03 , loss_b:1.05e-03, loss_b_t:1.12e-06  Valid # loss:2.61e-02, loss_r:1.57e-02, loss_i:9.35e-03, loss_b:1.05e-03, loss_b_t:1.13e-06
+Iter #  13000/40000	loss:2.52e-02, loss_r:1.52e-02, loss_i:9.01e-03 , loss_b:1.03e-03, loss_b_t:4.32e-06  Valid # loss:2.52e-02, loss_r:1.51e-02, loss_i:9.06e-03, loss_b:1.02e-03, loss_b_t:6.25e-06
+Iter #  13500/40000	loss:2.40e-02, loss_r:1.43e-02, loss_i:8.70e-03 , loss_b:9.58e-04, loss_b_t:9.61e-06  Valid # loss:2.40e-02, loss_r:1.44e-02, loss_i:8.65e-03, loss_b:9.79e-04, loss_b_t:4.91e-06
+Iter #  14000/40000	loss:2.17e-02, loss_r:1.25e-02, loss_i:8.25e-03 , loss_b:9.02e-04, loss_b_t:5.21e-06  Valid # loss:2.17e-02, loss_r:1.25e-02, loss_i:8.25e-03, loss_b:9.00e-04, loss_b_t:5.28e-06
+Iter #    500/20000	loss:6.06e-02, loss_r:4.70e-03, loss_i:5.35e-02 , loss_b:2.44e-03, loss_b_t:6.70e-06  Valid # loss:5.88e+00, loss_r:4.53e-03, loss_i:5.43e-02, loss_b:1.84e-03, loss_b_t:7.61e-06
+Iter #   1000/20000	loss:3.79e-02, loss_r:1.36e-02, loss_i:2.30e-02 , loss_b:1.23e-03, loss_b_t:1.21e-04  Valid # loss:3.65e+00, loss_r:1.36e-02, loss_i:2.29e-02, loss_b:1.25e-03, loss_b_t:1.21e-04
+Iter #   1500/20000	loss:3.41e-02, loss_r:1.21e-02, loss_i:2.10e-02 , loss_b:9.03e-04, loss_b_t:7.35e-05  Valid # loss:3.31e+00, loss_r:1.22e-02, loss_i:2.09e-02, loss_b:9.44e-04, loss_b_t:7.39e-05
+Iter #   2000/20000	loss:2.52e-02, loss_r:1.10e-02, loss_i:1.33e-02 , loss_b:8.53e-04, loss_b_t:4.46e-05  Valid # loss:2.42e+00, loss_r:1.10e-02, loss_i:1.33e-02, loss_b:8.53e-04, loss_b_t:4.45e-05
+Iter #   2500/20000	loss:1.88e-02, loss_r:8.85e-03, loss_i:9.28e-03 , loss_b:6.64e-04, loss_b_t:2.76e-05  Valid # loss:1.81e+00, loss_r:8.84e-03, loss_i:9.25e-03, loss_b:6.63e-04, loss_b_t:2.76e-05
+Iter #   3000/20000	loss:1.64e-02, loss_r:7.80e-03, loss_i:7.94e-03 , loss_b:5.84e-04, loss_b_t:3.45e-05  Valid # loss:1.57e+00, loss_r:7.80e-03, loss_i:7.91e-03, loss_b:5.85e-04, loss_b_t:3.43e-05
+Iter #   3500/20000	loss:9.92e-03, loss_r:5.73e-03, loss_i:3.75e-03 , loss_b:4.32e-04, loss_b_t:4.47e-06  Valid # loss:9.46e-01, loss_r:5.72e-03, loss_i:3.74e-03, loss_b:4.32e-04, loss_b_t:4.44e-06
+Iter #   4000/20000	loss:6.96e-03, loss_r:4.25e-03, loss_i:2.41e-03 , loss_b:2.95e-04, loss_b_t:7.76e-06  Valid # loss:6.65e-01, loss_r:4.24e-03, loss_i:2.41e-03, loss_b:2.94e-04, loss_b_t:7.81e-06
+Iter #   4500/20000	loss:2.69e-02, loss_r:4.62e-03, loss_i:7.52e-03 , loss_b:1.37e-02, loss_b_t:1.05e-03  Valid # loss:7.30e-01, loss_r:4.13e-03, loss_i:3.12e-03, loss_b:4.00e-03, loss_b_t:4.67e-04
+Iter #   5000/20000	loss:6.19e-03, loss_r:3.07e-03, loss_i:2.66e-03 , loss_b:1.54e-04, loss_b_t:3.09e-04  Valid # loss:5.97e-01, loss_r:2.92e-03, loss_i:3.03e-03, loss_b:1.15e-03, loss_b_t:1.43e-04
+Iter #   5500/20000	loss:5.36e-03, loss_r:3.05e-03, loss_i:2.08e-03 , loss_b:2.00e-04, loss_b_t:2.58e-05  Valid # loss:4.98e-01, loss_r:3.34e-03, loss_i:1.63e-03, loss_b:1.31e-03, loss_b_t:2.82e-05
+Iter #   6000/20000	loss:4.88e-03, loss_r:3.34e-03, loss_i:1.40e-03 , loss_b:1.40e-04, loss_b_t:7.83e-06  Valid # loss:4.71e-01, loss_r:3.37e-03, loss_i:1.34e-03, loss_b:1.75e-04, loss_b_t:6.49e-06
+Iter #   6500/20000	loss:4.76e-03, loss_r:3.31e-03, loss_i:1.30e-03 , loss_b:1.50e-04, loss_b_t:4.57e-06  Valid # loss:4.56e-01, loss_r:3.36e-03, loss_i:1.19e-03, loss_b:2.11e-04, loss_b_t:8.13e-06
+Iter #   7000/20000	loss:4.62e-03, loss_r:3.33e-03, loss_i:1.15e-03 , loss_b:1.41e-04, loss_b_t:4.34e-06  Valid # loss:4.47e-01, loss_r:3.33e-03, loss_i:1.14e-03, loss_b:1.42e-04, loss_b_t:4.62e-06
+Iter #   7500/20000	loss:4.48e-03, loss_r:3.35e-03, loss_i:9.88e-04 , loss_b:1.40e-04, loss_b_t:3.83e-06  Valid # loss:4.33e-01, loss_r:3.35e-03, loss_i:9.81e-04, loss_b:1.42e-04, loss_b_t:3.82e-06
+Iter #   8000/20000	loss:4.68e-03, loss_r:3.31e-03, loss_i:1.20e-03 , loss_b:1.37e-04, loss_b_t:2.57e-05  Valid # loss:4.52e-01, loss_r:3.30e-03, loss_i:1.23e-03, loss_b:1.31e-04, loss_b_t:3.81e-06
+Iter #   8500/20000	loss:4.30e-03, loss_r:3.43e-03, loss_i:7.14e-04 , loss_b:1.52e-04, loss_b_t:2.35e-06  Valid # loss:4.14e-01, loss_r:3.43e-03, loss_i:7.14e-04, loss_b:1.52e-04, loss_b_t:2.35e-06
+Iter #   9000/20000	loss:4.33e-03, loss_r:3.34e-03, loss_i:8.36e-04 , loss_b:1.44e-04, loss_b_t:3.04e-06  Valid # loss:4.19e-01, loss_r:3.34e-03, loss_i:8.47e-04, loss_b:1.38e-04, loss_b_t:2.91e-06
+Iter #   9500/20000	loss:4.51e-03, loss_r:3.42e-03, loss_i:8.47e-04 , loss_b:2.43e-04, loss_b_t:4.85e-06  Valid # loss:4.30e-01, loss_r:3.33e-03, loss_i:9.70e-04, loss_b:1.18e-04, loss_b_t:8.22e-05
+Iter #  10000/20000	loss:4.26e-03, loss_r:3.34e-03, loss_i:7.68e-04 , loss_b:1.45e-04, loss_b_t:1.19e-06  Valid # loss:4.11e-01, loss_r:3.34e-03, loss_i:7.68e-04, loss_b:1.44e-04, loss_b_t:1.19e-06
+Iter #  10500/20000	loss:4.24e-03, loss_r:3.34e-03, loss_i:7.64e-04 , loss_b:1.44e-04, loss_b_t:9.14e-07  Valid # loss:4.10e-01, loss_r:3.33e-03, loss_i:7.67e-04, loss_b:1.43e-04, loss_b_t:9.37e-07
+Iter #  11000/20000	loss:4.40e-03, loss_r:3.14e-03, loss_i:1.09e-03 , loss_b:1.47e-04, loss_b_t:2.41e-05  Valid # loss:4.56e-01, loss_r:3.20e-03, loss_i:1.35e-03, loss_b:4.00e-04, loss_b_t:1.05e-05
+Iter #  11500/20000	loss:4.21e-03, loss_r:3.33e-03, loss_i:7.31e-04 , loss_b:1.48e-04, loss_b_t:6.89e-07  Valid # loss:4.06e-01, loss_r:3.33e-03, loss_i:7.30e-04, loss_b:1.48e-04, loss_b_t:6.89e-07
+Iter #  12000/20000	loss:1.82e-02, loss_r:3.33e-03, loss_i:2.37e-03 , loss_b:7.07e-03, loss_b_t:5.48e-03  Valid # loss:6.53e-01, loss_r:4.97e-03, loss_i:1.35e-03, loss_b:1.22e-02, loss_b_t:8.79e-03
+Iter #  12500/20000	loss:5.72e-03, loss_r:3.14e-03, loss_i:1.53e-03 , loss_b:8.76e-04, loss_b_t:1.73e-04  Valid # loss:4.23e-01, loss_r:3.37e-03, loss_i:8.50e-04, loss_b:5.87e-04, loss_b_t:2.99e-05
+Iter #  13000/20000	loss:4.13e-03, loss_r:3.30e-03, loss_i:6.89e-04 , loss_b:1.45e-04, loss_b_t:5.49e-07  Valid # loss:3.99e-01, loss_r:3.30e-03, loss_i:6.90e-04, loss_b:1.45e-04, loss_b_t:5.65e-07
+Iter #  13500/20000	loss:4.15e-03, loss_r:3.28e-03, loss_i:7.34e-04 , loss_b:1.27e-04, loss_b_t:3.14e-06  Valid # loss:4.01e-01, loss_r:3.31e-03, loss_i:6.98e-04, loss_b:1.67e-04, loss_b_t:4.26e-05
+Iter #  14000/20000	loss:9.05e-03, loss_r:3.09e-03, loss_i:1.83e-03 , loss_b:1.92e-03, loss_b_t:2.22e-03  Valid # loss:4.14e-01, loss_r:3.15e-03, loss_i:9.84e-04, loss_b:5.09e-04, loss_b_t:2.92e-04
+Iter #  14500/20000	loss:1.01e-02, loss_r:3.96e-03, loss_i:6.18e-04 , loss_b:3.48e-03, loss_b_t:2.06e-03  Valid # loss:5.34e-01, loss_r:3.21e-03, loss_i:2.05e-03, loss_b:4.89e-03, loss_b_t:3.19e-03
+Iter #  15000/20000	loss:4.03e-03, loss_r:3.24e-03, loss_i:6.38e-04 , loss_b:1.53e-04, loss_b_t:2.18e-06  Valid # loss:3.89e-01, loss_r:3.22e-03, loss_i:6.68e-04, loss_b:1.46e-04, loss_b_t:2.92e-06
+Iter #  15500/20000	loss:4.00e-03, loss_r:3.20e-03, loss_i:6.45e-04 , loss_b:1.50e-04, loss_b_t:9.42e-07  Valid # loss:3.86e-01, loss_r:3.19e-03, loss_i:6.60e-04, loss_b:1.45e-04, loss_b_t:1.09e-06
+Iter #  16000/20000	loss:4.14e-03, loss_r:3.12e-03, loss_i:7.39e-04 , loss_b:2.13e-04, loss_b_t:7.49e-05  Valid # loss:3.81e-01, loss_r:3.25e-03, loss_i:5.60e-04, loss_b:3.31e-04, loss_b_t:1.17e-04
+Iter #  16500/20000	loss:3.90e-03, loss_r:3.15e-03, loss_i:6.02e-04 , loss_b:1.46e-04, loss_b_t:3.79e-07  Valid # loss:3.76e-01, loss_r:3.15e-03, loss_i:6.02e-04, loss_b:1.46e-04, loss_b_t:3.80e-07
+Iter #  17000/20000	loss:3.86e-03, loss_r:3.10e-03, loss_i:6.19e-04 , loss_b:1.42e-04, loss_b_t:4.02e-07  Valid # loss:3.72e-01, loss_r:3.09e-03, loss_i:6.22e-04, loss_b:1.41e-04, loss_b_t:4.50e-07
+Iter #  17500/20000	loss:3.80e-03, loss_r:3.04e-03, loss_i:6.23e-04 , loss_b:1.40e-04, loss_b_t:2.49e-06  Valid # loss:3.66e-01, loss_r:3.04e-03, loss_i:6.28e-04, loss_b:1.40e-04, loss_b_t:2.37e-06
+Iter #  18000/20000	loss:3.76e-03, loss_r:2.97e-03, loss_i:6.43e-04 , loss_b:1.36e-04, loss_b_t:2.57e-06  Valid # loss:3.62e-01, loss_r:2.98e-03, loss_i:6.38e-04, loss_b:1.38e-04, loss_b_t:7.65e-07
+Iter #  18500/20000	loss:3.64e-03, loss_r:2.93e-03, loss_i:5.74e-04 , loss_b:1.40e-04, loss_b_t:6.55e-07  Valid # loss:3.50e-01, loss_r:2.93e-03, loss_i:5.74e-04, loss_b:1.40e-04, loss_b_t:6.61e-07
+Iter #  19000/20000	loss:3.55e-03, loss_r:2.84e-03, loss_i:5.78e-04 , loss_b:1.35e-04, loss_b_t:6.64e-07  Valid # loss:3.42e-01, loss_r:2.84e-03, loss_i:5.79e-04, loss_b:1.35e-04, loss_b_t:6.53e-07
+Iter #  19500/20000	loss:3.44e-03, loss_r:2.74e-03, loss_i:5.75e-04 , loss_b:1.31e-04, loss_b_t:5.87e-07  Valid # loss:3.31e-01, loss_r:2.74e-03, loss_i:5.77e-04, loss_b:1.31e-04, loss_b_t:5.89e-07
+Iter #  20000/20000	loss:3.33e-03, loss_r:2.62e-03, loss_i:5.87e-04 , loss_b:1.24e-04, loss_b_t:4.30e-06  Valid # loss:3.20e-01, loss_r:2.63e-03, loss_i:5.78e-04, loss_b:1.28e-04, loss_b_t:1.09e-05
+Iter #    500/40000	loss:7.12e-02, loss_r:5.86e-03, loss_i:6.35e-02 , loss_b:1.80e-03, loss_b_t:2.17e-06  Valid # loss:6.99e+00, loss_r:5.56e-03, loss_i:6.43e-02, loss_b:1.28e-03, loss_b_t:7.20e-07
+Iter #   1000/40000	loss:6.57e-02, loss_r:4.31e-03, loss_i:5.96e-02 , loss_b:1.81e-03, loss_b_t:2.99e-05  Valid # loss:6.39e+00, loss_r:4.34e-03, loss_i:5.95e-02, loss_b:1.82e-03, loss_b_t:2.98e-05
+Iter #   1500/40000	loss:5.87e-02, loss_r:4.00e-03, loss_i:5.23e-02 , loss_b:2.29e-03, loss_b_t:1.01e-04  Valid # loss:5.66e+00, loss_r:3.86e-03, loss_i:5.27e-02, loss_b:1.84e-03, loss_b_t:9.34e-05
+Iter #   2000/40000	loss:4.36e-02, loss_r:7.61e-03, loss_i:3.46e-02 , loss_b:1.28e-03, loss_b_t:4.19e-05  Valid # loss:4.22e+00, loss_r:7.65e-03, loss_i:3.45e-02, loss_b:1.23e-03, loss_b_t:4.27e-05
+Iter #   2500/40000	loss:3.05e-02, loss_r:1.04e-02, loss_i:1.93e-02 , loss_b:7.49e-04, loss_b_t:5.39e-05  Valid # loss:2.97e+00, loss_r:1.04e-02, loss_i:1.92e-02, loss_b:7.67e-04, loss_b_t:5.24e-05
+Iter #   3000/40000	loss:1.85e-02, loss_r:5.66e-03, loss_i:1.26e-02 , loss_b:2.28e-04, loss_b_t:5.32e-06  Valid # loss:1.81e+00, loss_r:5.65e-03, loss_i:1.25e-02, loss_b:3.03e-04, loss_b_t:6.11e-06
+Iter #   3500/40000	loss:1.94e-02, loss_r:3.60e-03, loss_i:1.31e-02 , loss_b:2.37e-03, loss_b_t:3.76e-04  Valid # loss:1.67e+00, loss_r:3.15e-03, loss_i:1.35e-02, loss_b:3.66e-04, loss_b_t:5.99e-04
+Iter #   4000/40000	loss:9.35e-03, loss_r:3.28e-03, loss_i:5.61e-03 , loss_b:4.65e-04, loss_b_t:9.68e-07  Valid # loss:8.87e-01, loss_r:3.28e-03, loss_i:5.59e-03, loss_b:4.64e-04, loss_b_t:9.38e-07
+Iter #   4500/40000	loss:5.68e-03, loss_r:3.09e-03, loss_i:2.17e-03 , loss_b:4.11e-04, loss_b_t:9.11e-07  Valid # loss:5.27e-01, loss_r:3.09e-03, loss_i:2.17e-03, loss_b:4.08e-04, loss_b_t:9.39e-07
+Iter #   5000/40000	loss:5.28e-03, loss_r:3.01e-03, loss_i:1.85e-03 , loss_b:4.17e-04, loss_b_t:1.05e-05  Valid # loss:4.87e-01, loss_r:3.00e-03, loss_i:1.86e-03, loss_b:4.04e-04, loss_b_t:1.95e-06
+Iter #   5500/40000	loss:6.34e-02, loss_r:3.24e-03, loss_i:5.22e-03 , loss_b:3.67e-02, loss_b_t:1.83e-02  Valid # loss:8.65e-01, loss_r:6.32e-03, loss_i:1.64e-03, loss_b:4.98e-02, loss_b_t:1.89e-02
+Iter #   6000/40000	loss:4.07e-03, loss_r:2.99e-03, loss_i:8.80e-04 , loss_b:2.07e-04, loss_b_t:8.81e-07  Valid # loss:3.87e-01, loss_r:2.98e-03, loss_i:8.80e-04, loss_b:2.06e-04, loss_b_t:8.80e-07
+Iter #   6500/40000	loss:4.09e-03, loss_r:2.95e-03, loss_i:9.43e-04 , loss_b:1.92e-04, loss_b_t:8.93e-07  Valid # loss:3.91e-01, loss_r:2.95e-03, loss_i:9.56e-04, loss_b:1.87e-04, loss_b_t:7.54e-07
+Iter #   7000/40000	loss:4.39e-03, loss_r:2.96e-03, loss_i:1.05e-03 , loss_b:3.36e-04, loss_b_t:4.32e-05  Valid # loss:4.10e-01, loss_r:2.85e-03, loss_i:1.25e-03, loss_b:1.53e-04, loss_b_t:1.16e-04
+Iter #   7500/40000	loss:4.35e-03, loss_r:2.91e-03, loss_i:1.26e-03 , loss_b:1.77e-04, loss_b_t:7.87e-07  Valid # loss:4.16e-01, loss_r:2.91e-03, loss_i:1.25e-03, loss_b:1.81e-04, loss_b_t:3.88e-07
+Iter #   8000/40000	loss:3.96e-03, loss_r:2.93e-03, loss_i:8.74e-04 , loss_b:1.55e-04, loss_b_t:4.08e-07  Valid # loss:3.81e-01, loss_r:2.93e-03, loss_i:8.74e-04, loss_b:1.54e-04, loss_b_t:4.08e-07
+Iter #   8500/40000	loss:3.94e-03, loss_r:2.91e-03, loss_i:8.44e-04 , loss_b:1.55e-04, loss_b_t:3.26e-05  Valid # loss:3.78e-01, loss_r:2.88e-03, loss_i:8.93e-04, loss_b:1.44e-04, loss_b_t:8.11e-07
+Iter #   9000/40000	loss:3.89e-03, loss_r:2.88e-03, loss_i:8.54e-04 , loss_b:1.48e-04, loss_b_t:6.36e-06  Valid # loss:3.74e-01, loss_r:2.88e-03, loss_i:8.66e-04, loss_b:1.41e-04, loss_b_t:6.82e-06
+Iter #   9500/40000	loss:3.91e-03, loss_r:2.86e-03, loss_i:8.53e-04 , loss_b:1.70e-04, loss_b_t:2.58e-05  Valid # loss:3.73e-01, loss_r:2.84e-03, loss_i:8.97e-04, loss_b:1.47e-04, loss_b_t:2.53e-05
+Iter #  10000/40000	loss:3.89e-03, loss_r:2.81e-03, loss_i:8.89e-04 , loss_b:1.72e-04, loss_b_t:1.56e-05  Valid # loss:3.71e-01, loss_r:2.81e-03, loss_i:8.96e-04, loss_b:1.60e-04, loss_b_t:2.39e-06
+Iter #  10500/40000	loss:4.22e-03, loss_r:2.85e-03, loss_i:8.44e-04 , loss_b:4.50e-04, loss_b_t:6.78e-05  Valid # loss:3.75e-01, loss_r:2.74e-03, loss_i:1.01e-03, loss_b:1.51e-04, loss_b_t:2.37e-05
+Iter #  11000/40000	loss:4.25e-03, loss_r:2.71e-03, loss_i:9.72e-04 , loss_b:1.73e-04, loss_b_t:3.88e-04  Valid # loss:3.63e-01, loss_r:2.72e-03, loss_i:9.12e-04, loss_b:1.99e-04, loss_b_t:1.91e-04
+Iter #  11500/40000	loss:3.63e-03, loss_r:2.65e-03, loss_i:8.25e-04 , loss_b:1.45e-04, loss_b_t:8.38e-06  Valid # loss:3.48e-01, loss_r:2.64e-03, loss_i:8.44e-04, loss_b:1.36e-04, loss_b_t:6.20e-06
+Iter #  12000/40000	loss:3.97e-03, loss_r:2.56e-03, loss_i:1.25e-03 , loss_b:1.65e-04, loss_b_t:2.66e-06  Valid # loss:3.79e-01, loss_r:2.56e-03, loss_i:1.22e-03, loss_b:1.72e-04, loss_b_t:1.72e-06
+Iter #  12500/40000	loss:3.50e-03, loss_r:2.56e-03, loss_i:8.00e-04 , loss_b:1.37e-04, loss_b_t:1.42e-06  Valid # loss:3.36e-01, loss_r:2.57e-03, loss_i:7.97e-04, loss_b:1.38e-04, loss_b_t:1.43e-06
+Iter #  13000/40000	loss:3.40e-03, loss_r:2.49e-03, loss_i:7.74e-04 , loss_b:1.36e-04, loss_b_t:1.16e-06  Valid # loss:3.25e-01, loss_r:2.50e-03, loss_i:7.55e-04, loss_b:1.46e-04, loss_b_t:1.33e-06
+Iter #  13500/40000	loss:3.32e-03, loss_r:2.39e-03, loss_i:7.98e-04 , loss_b:1.34e-04, loss_b_t:9.73e-07  Valid # loss:3.19e-01, loss_r:2.39e-03, loss_i:7.95e-04, loss_b:1.35e-04, loss_b_t:9.74e-07
+Iter #  14000/40000	loss:3.21e-03, loss_r:2.28e-03, loss_i:7.98e-04 , loss_b:1.31e-04, loss_b_t:9.08e-07  Valid # loss:3.08e-01, loss_r:2.28e-03, loss_i:7.96e-04, loss_b:1.32e-04, loss_b_t:9.50e-07
+Iter #  14500/40000	loss:3.09e-03, loss_r:2.21e-03, loss_i:7.53e-04 , loss_b:1.34e-04, loss_b_t:9.34e-07  Valid # loss:2.96e-01, loss_r:2.20e-03, loss_i:7.53e-04, loss_b:1.34e-04, loss_b_t:9.37e-07
+Iter #  15000/40000	loss:5.58e-03, loss_r:2.93e-03, loss_i:2.47e-03 , loss_b:1.08e-04, loss_b_t:7.71e-05  Valid # loss:5.38e-01, loss_r:2.92e-03, loss_i:2.46e-03, loss_b:1.07e-04, loss_b_t:7.66e-05
+Iter #  15500/40000	loss:3.56e-03, loss_r:2.41e-03, loss_i:7.89e-04 , loss_b:1.68e-04, loss_b_t:1.90e-04  Valid # loss:3.25e-01, loss_r:2.37e-03, loss_i:8.82e-04, loss_b:1.44e-04, loss_b_t:1.10e-04
+Iter #  16000/40000	loss:3.10e-03, loss_r:2.21e-03, loss_i:7.61e-04 , loss_b:1.27e-04, loss_b_t:1.22e-06  Valid # loss:2.97e-01, loss_r:2.21e-03, loss_i:7.59e-04, loss_b:1.28e-04, loss_b_t:1.25e-06
+Iter #  16500/40000	loss:2.90e-03, loss_r:2.05e-03, loss_i:7.28e-04 , loss_b:1.22e-04, loss_b_t:1.24e-06  Valid # loss:2.78e-01, loss_r:2.05e-03, loss_i:7.27e-04, loss_b:1.22e-04, loss_b_t:1.24e-06
+Iter #  17000/40000	loss:4.22e-02, loss_r:1.12e-02, loss_i:3.06e-02 , loss_b:4.17e-04, loss_b_t:6.85e-05  Valid # loss:4.17e+00, loss_r:1.12e-02, loss_i:3.05e-02, loss_b:4.18e-04, loss_b_t:6.91e-05
+Iter #  17500/40000	loss:1.23e-02, loss_r:2.13e-03, loss_i:9.93e-03 , loss_b:2.64e-04, loss_b_t:6.16e-06  Valid # loss:1.20e+00, loss_r:2.12e-03, loss_i:9.91e-03, loss_b:2.64e-04, loss_b_t:6.18e-06
+Iter #  18000/40000	loss:5.56e-03, loss_r:1.17e-03, loss_i:3.74e-03 , loss_b:2.77e-04, loss_b_t:3.70e-04  Valid # loss:4.94e-01, loss_r:1.16e-03, loss_i:3.77e-03, loss_b:2.55e-04, loss_b_t:5.57e-04
+Iter #  18500/40000	loss:4.17e-03, loss_r:1.17e-03, loss_i:1.94e-03 , loss_b:2.45e-04, loss_b_t:8.13e-04  Valid # loss:3.13e-01, loss_r:1.16e-03, loss_i:1.97e-03, loss_b:2.34e-04, loss_b_t:7.00e-04
+Iter #  19000/40000	loss:7.31e-02, loss_r:2.73e-03, loss_i:6.88e-02 , loss_b:1.52e-03, loss_b_t:8.90e-05  Valid # loss:7.15e+00, loss_r:2.74e-03, loss_i:6.87e-02, loss_b:1.52e-03, loss_b_t:8.83e-05
+Iter #  19500/40000	loss:6.18e-02, loss_r:7.39e-03, loss_i:5.32e-02 , loss_b:1.15e-03, loss_b_t:3.30e-05  Valid # loss:6.06e+00, loss_r:7.40e-03, loss_i:5.32e-02, loss_b:1.15e-03, loss_b_t:3.30e-05
+Iter #  20000/40000	loss:4.98e-02, loss_r:1.19e-02, loss_i:3.71e-02 , loss_b:6.98e-04, loss_b_t:7.43e-05  Valid # loss:4.90e+00, loss_r:1.20e-02, loss_i:3.70e-02, loss_b:6.97e-04, loss_b_t:7.45e-05
+Iter #  20500/40000	loss:3.84e-02, loss_r:1.29e-02, loss_i:2.49e-02 , loss_b:4.39e-04, loss_b_t:1.84e-04  Valid # loss:3.78e+00, loss_r:1.29e-02, loss_i:2.49e-02, loss_b:4.39e-04, loss_b_t:1.84e-04
+Iter #  21000/40000	loss:2.15e-02, loss_r:7.93e-03, loss_i:1.28e-02 , loss_b:5.17e-04, loss_b_t:2.67e-04  Valid # loss:2.08e+00, loss_r:7.88e-03, loss_i:1.29e-02, loss_b:4.30e-04, loss_b_t:6.75e-04
+Iter #  21500/40000	loss:1.13e-02, loss_r:5.31e-03, loss_i:5.42e-03 , loss_b:4.95e-04, loss_b_t:5.57e-05  Valid # loss:1.07e+00, loss_r:5.31e-03, loss_i:5.41e-03, loss_b:4.96e-04, loss_b_t:5.59e-05
+Iter #  22000/40000	loss:7.50e-03, loss_r:4.26e-03, loss_i:2.83e-03 , loss_b:3.69e-04, loss_b_t:4.71e-05  Valid # loss:7.07e-01, loss_r:4.28e-03, loss_i:2.79e-03, loss_b:3.82e-04, loss_b_t:3.60e-05
+Iter #  22500/40000	loss:6.46e-03, loss_r:3.87e-03, loss_i:1.90e-03 , loss_b:3.00e-04, loss_b_t:3.90e-04  Valid # loss:5.76e-01, loss_r:3.93e-03, loss_i:1.82e-03, loss_b:3.11e-04, loss_b_t:4.64e-04
+Iter #  23000/40000	loss:5.44e-03, loss_r:3.72e-03, loss_i:1.43e-03 , loss_b:2.54e-04, loss_b_t:4.49e-05  Valid # loss:5.15e-01, loss_r:3.74e-03, loss_i:1.40e-03, loss_b:2.56e-04, loss_b_t:9.58e-05
+Iter #  23500/40000	loss:5.73e-03, loss_r:3.58e-03, loss_i:1.22e-03 , loss_b:2.50e-04, loss_b_t:6.85e-04  Valid # loss:4.81e-01, loss_r:3.52e-03, loss_i:1.28e-03, loss_b:2.64e-04, loss_b_t:7.86e-04
+Iter #  24000/40000	loss:4.81e-03, loss_r:3.43e-03, loss_i:1.11e-03 , loss_b:2.08e-04, loss_b_t:6.22e-05  Valid # loss:4.53e-01, loss_r:3.41e-03, loss_i:1.11e-03, loss_b:2.11e-04, loss_b_t:3.45e-05
+Iter #  24500/40000	loss:4.53e-03, loss_r:3.29e-03, loss_i:1.05e-03 , loss_b:1.86e-04, loss_b_t:2.32e-06  Valid # loss:4.34e-01, loss_r:3.29e-03, loss_i:1.05e-03, loss_b:1.86e-04, loss_b_t:2.30e-06
+Iter #  25000/40000	loss:4.36e-03, loss_r:3.16e-03, loss_i:1.02e-03 , loss_b:1.72e-04, loss_b_t:7.00e-06  Valid # loss:4.18e-01, loss_r:3.17e-03, loss_i:1.00e-03, loss_b:1.79e-04, loss_b_t:2.04e-06
+Iter #  25500/40000	loss:4.21e-03, loss_r:3.05e-03, loss_i:9.73e-04 , loss_b:1.65e-04, loss_b_t:2.49e-05  Valid # loss:4.01e-01, loss_r:3.05e-03, loss_i:9.56e-04, loss_b:1.74e-04, loss_b_t:1.32e-05
+Iter #  26000/40000	loss:4.45e-03, loss_r:3.00e-03, loss_i:8.18e-04 , loss_b:5.67e-04, loss_b_t:6.05e-05  Valid # loss:3.90e-01, loss_r:2.89e-03, loss_i:1.00e-03, loss_b:2.72e-04, loss_b_t:4.15e-04
+Iter #  26500/40000	loss:3.86e-03, loss_r:2.81e-03, loss_i:8.98e-04 , loss_b:1.51e-04, loss_b_t:3.44e-06  Valid # loss:3.71e-01, loss_r:2.81e-03, loss_i:9.05e-04, loss_b:1.48e-04, loss_b_t:3.48e-06
+Iter #  27000/40000	loss:3.73e-03, loss_r:2.69e-03, loss_i:8.90e-04 , loss_b:1.36e-04, loss_b_t:1.37e-05  Valid # loss:3.58e-01, loss_r:2.70e-03, loss_i:8.75e-04, loss_b:1.38e-04, loss_b_t:1.08e-05
+Iter #  27500/40000	loss:3.58e-03, loss_r:2.59e-03, loss_i:8.56e-04 , loss_b:1.33e-04, loss_b_t:6.06e-06  Valid # loss:3.44e-01, loss_r:2.59e-03, loss_i:8.57e-04, loss_b:1.33e-04, loss_b_t:6.34e-06
+Iter #  28000/40000	loss:3.47e-03, loss_r:2.49e-03, loss_i:8.52e-04 , loss_b:1.25e-04, loss_b_t:5.15e-06  Valid # loss:3.34e-01, loss_r:2.48e-03, loss_i:8.52e-04, loss_b:1.25e-04, loss_b_t:5.21e-06
+Iter #  28500/40000	loss:3.38e-03, loss_r:2.42e-03, loss_i:7.86e-04 , loss_b:1.43e-04, loss_b_t:3.60e-05  Valid # loss:3.23e-01, loss_r:2.39e-03, loss_i:8.40e-04, loss_b:1.31e-04, loss_b_t:6.80e-05
+Iter #  29000/40000	loss:3.37e-03, loss_r:2.38e-03, loss_i:8.13e-04 , loss_b:9.66e-05, loss_b_t:8.50e-05  Valid # loss:3.20e-01, loss_r:2.42e-03, loss_i:7.80e-04, loss_b:1.03e-04, loss_b_t:1.08e-04
+Iter #  29500/40000	loss:4.91e-03, loss_r:2.25e-03, loss_i:8.13e-04 , loss_b:3.62e-04, loss_b_t:1.49e-03  Valid # loss:3.25e-01, loss_r:2.05e-03, loss_i:1.18e-03, loss_b:1.31e-03, loss_b_t:3.62e-04
+Iter #  30000/40000	loss:3.08e-03, loss_r:2.19e-03, loss_i:7.78e-04 , loss_b:1.02e-04, loss_b_t:1.07e-05  Valid # loss:2.96e-01, loss_r:2.18e-03, loss_i:7.79e-04, loss_b:1.02e-04, loss_b_t:1.07e-05
+Iter #  30500/40000	loss:3.01e-03, loss_r:2.12e-03, loss_i:7.78e-04 , loss_b:9.70e-05, loss_b_t:1.43e-05  Valid # loss:2.90e-01, loss_r:2.12e-03, loss_i:7.76e-04, loss_b:9.68e-05, loss_b_t:1.30e-05
+Iter #  31000/40000	loss:2.67e-01, loss_r:6.75e-03, loss_i:9.13e-03 , loss_b:2.29e-01, loss_b_t:2.17e-02  Valid # loss:2.56e+00, loss_r:7.33e-03, loss_i:1.78e-02, loss_b:1.75e-02, loss_b_t:2.83e-02
+Iter #  31500/40000	loss:3.96e-03, loss_r:2.18e-03, loss_i:1.63e-03 , loss_b:1.19e-04, loss_b_t:2.76e-05  Valid # loss:3.82e-01, loss_r:2.18e-03, loss_i:1.63e-03, loss_b:1.19e-04, loss_b_t:2.75e-05
+Iter #  32000/40000	loss:3.29e-03, loss_r:2.07e-03, loss_i:1.09e-03 , loss_b:1.22e-04, loss_b_t:4.84e-06  Valid # loss:3.16e-01, loss_r:2.07e-03, loss_i:1.09e-03, loss_b:1.22e-04, loss_b_t:4.83e-06
+Iter #  32500/40000	loss:3.09e-03, loss_r:2.04e-03, loss_i:9.32e-04 , loss_b:1.11e-04, loss_b_t:4.41e-06  Valid # loss:2.98e-01, loss_r:2.04e-03, loss_i:9.31e-04, loss_b:1.11e-04, loss_b_t:4.41e-06
+Iter #  33000/40000	loss:3.00e-03, loss_r:2.04e-03, loss_i:8.51e-04 , loss_b:1.04e-04, loss_b_t:5.97e-06  Valid # loss:2.89e-01, loss_r:2.04e-03, loss_i:8.51e-04, loss_b:1.04e-04, loss_b_t:5.97e-06
+Iter #  33500/40000	loss:2.92e-03, loss_r:2.01e-03, loss_i:7.98e-04 , loss_b:1.01e-04, loss_b_t:7.01e-06  Valid # loss:2.81e-01, loss_r:2.01e-03, loss_i:7.98e-04, loss_b:1.01e-04, loss_b_t:7.01e-06
+Iter #  34000/40000	loss:2.83e-03, loss_r:1.98e-03, loss_i:7.52e-04 , loss_b:9.82e-05, loss_b_t:7.40e-06  Valid # loss:2.73e-01, loss_r:1.98e-03, loss_i:7.52e-04, loss_b:9.82e-05, loss_b_t:7.40e-06
+Iter #  34500/40000	loss:2.76e-03, loss_r:1.93e-03, loss_i:7.20e-04 , loss_b:9.49e-05, loss_b_t:8.12e-06  Valid # loss:2.66e-01, loss_r:1.93e-03, loss_i:7.20e-04, loss_b:9.49e-05, loss_b_t:8.11e-06
+Iter #  35000/40000	loss:2.72e-03, loss_r:1.91e-03, loss_i:7.12e-04 , loss_b:9.06e-05, loss_b_t:1.01e-05  Valid # loss:2.62e-01, loss_r:1.91e-03, loss_i:7.13e-04, loss_b:9.01e-05, loss_b_t:1.01e-05
+Iter #  35500/40000	loss:2.64e-03, loss_r:1.87e-03, loss_i:6.82e-04 , loss_b:8.81e-05, loss_b_t:8.84e-06  Valid # loss:2.55e-01, loss_r:1.87e-03, loss_i:6.81e-04, loss_b:8.82e-05, loss_b_t:8.83e-06
+Iter #  36000/40000	loss:2.60e-03, loss_r:1.83e-03, loss_i:6.72e-04 , loss_b:8.49e-05, loss_b_t:8.96e-06  Valid # loss:2.51e-01, loss_r:1.83e-03, loss_i:6.72e-04, loss_b:8.49e-05, loss_b_t:8.94e-06
+Iter #  36500/40000	loss:2.52e-03, loss_r:1.78e-03, loss_i:6.44e-04 , loss_b:8.30e-05, loss_b_t:7.32e-06  Valid # loss:2.43e-01, loss_r:1.78e-03, loss_i:6.44e-04, loss_b:8.30e-05, loss_b_t:7.31e-06
+Iter #  37000/40000	loss:2.48e-03, loss_r:1.75e-03, loss_i:6.37e-04 , loss_b:7.98e-05, loss_b_t:7.28e-06  Valid # loss:2.39e-01, loss_r:1.75e-03, loss_i:6.37e-04, loss_b:7.98e-05, loss_b_t:7.27e-06
+Iter #  37500/40000	loss:2.43e-03, loss_r:1.72e-03, loss_i:6.29e-04 , loss_b:7.67e-05, loss_b_t:7.06e-06  Valid # loss:2.35e-01, loss_r:1.72e-03, loss_i:6.29e-04, loss_b:7.65e-05, loss_b_t:7.15e-06
+Iter #  38000/40000	loss:2.38e-03, loss_r:1.68e-03, loss_i:6.22e-04 , loss_b:7.19e-05, loss_b_t:7.75e-06  Valid # loss:2.30e-01, loss_r:1.69e-03, loss_i:6.12e-04, loss_b:7.67e-05, loss_b_t:8.54e-06
+Iter #  38500/40000	loss:2.35e-03, loss_r:1.65e-03, loss_i:6.25e-04 , loss_b:6.46e-05, loss_b_t:1.29e-05  Valid # loss:2.27e-01, loss_r:1.65e-03, loss_i:6.15e-04, loss_b:7.91e-05, loss_b_t:2.31e-04
+Iter #  39000/40000	loss:2.24e-03, loss_r:1.59e-03, loss_i:5.83e-04 , loss_b:7.09e-05, loss_b_t:3.85e-06  Valid # loss:2.17e-01, loss_r:1.58e-03, loss_i:5.84e-04, loss_b:7.03e-05, loss_b_t:3.87e-06
+Iter #  39500/40000	loss:2.26e-03, loss_r:1.56e-03, loss_i:6.08e-04 , loss_b:6.16e-05, loss_b_t:3.46e-05  Valid # loss:2.16e-01, loss_r:1.56e-03, loss_i:6.04e-04, loss_b:6.62e-05, loss_b_t:6.80e-06
+Iter #  40000/40000	loss:2.16e-03, loss_r:1.52e-03, loss_i:5.77e-04 , loss_b:6.49e-05, loss_b_t:3.72e-06  Valid # loss:2.10e-01, loss_r:1.52e-03, loss_i:5.76e-04, loss_b:6.50e-05, loss_b_t:3.74e-06
+Iter #    500/40000	loss:7.91e-02, loss_r:5.05e-03, loss_i:7.30e-02 , loss_b:1.07e-03, loss_b_t:5.91e-07  Valid # loss:7.78e+00, loss_r:5.34e-03, loss_i:7.25e-02, loss_b:1.28e-03, loss_b_t:5.20e-07
+Iter #   1000/40000	loss:8.77e-02, loss_r:1.25e-02, loss_i:7.34e-02 , loss_b:1.45e-03, loss_b_t:3.67e-04  Valid # loss:8.43e+00, loss_r:1.01e-02, loss_i:7.42e-02, loss_b:1.02e-03, loss_b_t:2.42e-04
+Iter #   1500/40000	loss:7.48e-02, loss_r:6.16e-03, loss_i:6.70e-02 , loss_b:1.58e-03, loss_b_t:5.31e-05  Valid # loss:7.30e+00, loss_r:6.71e-03, loss_i:6.62e-02, loss_b:1.97e-03, loss_b_t:5.23e-05
+Iter #   2000/40000	loss:8.53e-02, loss_r:2.11e-02, loss_i:6.14e-02 , loss_b:2.35e-03, loss_b_t:4.15e-04  Valid # loss:8.36e+00, loss_r:2.16e-02, loss_i:6.20e-02, loss_b:2.61e-03, loss_b_t:4.54e-04
+Iter #   2500/40000	loss:6.91e-02, loss_r:1.01e-02, loss_i:5.80e-02 , loss_b:1.00e-03, loss_b_t:5.80e-06  Valid # loss:6.81e+00, loss_r:1.02e-02, loss_i:5.79e-02, loss_b:1.04e-03, loss_b_t:4.69e-06
+Iter #   3000/40000	loss:6.67e-02, loss_r:1.23e-02, loss_i:5.29e-02 , loss_b:1.55e-03, loss_b_t:1.68e-05  Valid # loss:6.51e+00, loss_r:1.23e-02, loss_i:5.28e-02, loss_b:1.57e-03, loss_b_t:1.68e-05
+Iter #   3500/40000	loss:6.64e-02, loss_r:1.10e-02, loss_i:5.44e-02 , loss_b:8.90e-04, loss_b_t:2.85e-05  Valid # loss:6.51e+00, loss_r:1.22e-02, loss_i:5.28e-02, loss_b:1.95e-03, loss_b_t:2.53e-05
+Iter #   4000/40000	loss:6.68e-02, loss_r:1.07e-02, loss_i:5.54e-02 , loss_b:6.75e-04, loss_b_t:1.86e-05  Valid # loss:6.61e+00, loss_r:1.06e-02, loss_i:5.54e-02, loss_b:6.54e-04, loss_b_t:1.88e-05
+Iter #   4500/40000	loss:5.64e-02, loss_r:1.62e-02, loss_i:3.82e-02 , loss_b:1.86e-03, loss_b_t:1.97e-04  Valid # loss:5.44e+00, loss_r:1.62e-02, loss_i:3.81e-02, loss_b:1.86e-03, loss_b_t:1.97e-04
+Iter #   5000/40000	loss:5.23e-02, loss_r:1.53e-02, loss_i:3.53e-02 , loss_b:1.63e-03, loss_b_t:1.27e-04  Valid # loss:5.05e+00, loss_r:1.53e-02, loss_i:3.53e-02, loss_b:1.63e-03, loss_b_t:1.27e-04
+Iter #   5500/40000	loss:5.72e-02, loss_r:1.48e-02, loss_i:3.62e-02 , loss_b:5.83e-03, loss_b_t:4.02e-04  Valid # loss:5.44e+00, loss_r:2.70e-02, loss_i:2.73e-02, loss_b:1.29e-02, loss_b_t:7.83e-04
+Iter #   6000/40000	loss:5.30e-02, loss_r:1.80e-02, loss_i:3.23e-02 , loss_b:2.61e-03, loss_b_t:9.36e-05  Valid # loss:4.98e+00, loss_r:1.71e-02, loss_i:3.27e-02, loss_b:3.02e-03, loss_b_t:4.80e-05
+Iter #   6500/40000	loss:4.42e-02, loss_r:2.03e-02, loss_i:2.28e-02 , loss_b:1.13e-03, loss_b_t:3.04e-05  Valid # loss:4.29e+00, loss_r:1.94e-02, loss_i:2.34e-02, loss_b:1.21e-03, loss_b_t:4.94e-05
+Iter #   7000/40000	loss:4.09e-02, loss_r:2.02e-02, loss_i:1.93e-02 , loss_b:1.43e-03, loss_b_t:1.63e-05  Valid # loss:3.95e+00, loss_r:2.01e-02, loss_i:1.94e-02, loss_b:1.43e-03, loss_b_t:2.05e-05
+Iter #   7500/40000	loss:8.64e-02, loss_r:3.69e-02, loss_i:2.12e-02 , loss_b:7.86e-03, loss_b_t:2.04e-02  Valid # loss:5.06e+00, loss_r:2.54e-02, loss_i:2.51e-02, loss_b:7.45e-03, loss_b_t:1.55e-03
+Iter #   8000/40000	loss:3.57e-02, loss_r:1.87e-02, loss_i:1.58e-02 , loss_b:1.18e-03, loss_b_t:3.14e-05  Valid # loss:3.45e+00, loss_r:1.87e-02, loss_i:1.57e-02, loss_b:1.18e-03, loss_b_t:3.16e-05
+Iter #   8500/40000	loss:3.41e-02, loss_r:1.89e-02, loss_i:1.39e-02 , loss_b:1.23e-03, loss_b_t:2.33e-05  Valid # loss:3.29e+00, loss_r:1.91e-02, loss_i:1.38e-02, loss_b:1.23e-03, loss_b_t:2.33e-05
+Iter #   9000/40000	loss:3.36e-02, loss_r:1.78e-02, loss_i:1.47e-02 , loss_b:9.64e-04, loss_b_t:1.26e-04  Valid # loss:3.25e+00, loss_r:1.76e-02, loss_i:1.49e-02, loss_b:9.67e-04, loss_b_t:7.08e-05
+Iter #   9500/40000	loss:3.22e-02, loss_r:1.80e-02, loss_i:1.31e-02 , loss_b:1.08e-03, loss_b_t:3.29e-05  Valid # loss:3.11e+00, loss_r:1.80e-02, loss_i:1.31e-02, loss_b:1.08e-03, loss_b_t:3.29e-05
+Iter #  10000/40000	loss:5.15e-02, loss_r:2.77e-02, loss_i:1.21e-02 , loss_b:8.93e-03, loss_b_t:2.68e-03  Valid # loss:5.11e+00, loss_r:2.86e-02, loss_i:2.24e-02, loss_b:1.23e-02, loss_b_t:4.12e-03
+Iter #  10500/40000	loss:3.26e-02, loss_r:1.82e-02, loss_i:1.27e-02 , loss_b:1.51e-03, loss_b_t:1.75e-04  Valid # loss:3.11e+00, loss_r:1.74e-02, loss_i:1.37e-02, loss_b:1.17e-03, loss_b_t:3.17e-04
+Iter #  11000/40000	loss:3.05e-02, loss_r:1.62e-02, loss_i:1.33e-02 , loss_b:8.51e-04, loss_b_t:1.49e-04  Valid # loss:2.94e+00, loss_r:1.67e-02, loss_i:1.26e-02, loss_b:1.25e-03, loss_b_t:1.58e-04
+Iter #  11500/40000	loss:5.12e-02, loss_r:2.83e-02, loss_i:1.15e-02 , loss_b:3.59e-03, loss_b_t:7.87e-03  Valid # loss:4.61e+00, loss_r:2.98e-02, loss_i:1.62e-02, loss_b:4.55e-03, loss_b_t:1.02e-02
+Iter #  12000/40000	loss:3.74e-02, loss_r:2.08e-02, loss_i:1.18e-02 , loss_b:1.04e-03, loss_b_t:3.80e-03  Valid # loss:3.60e+00, loss_r:2.44e-02, loss_i:1.15e-02, loss_b:1.09e-03, loss_b_t:6.74e-03
+Iter #  12500/40000	loss:2.89e-02, loss_r:1.58e-02, loss_i:1.21e-02 , loss_b:9.33e-04, loss_b_t:7.08e-05  Valid # loss:2.83e+00, loss_r:1.58e-02, loss_i:1.24e-02, loss_b:1.13e-03, loss_b_t:7.61e-04
+Iter #  13000/40000	loss:3.49e-02, loss_r:1.88e-02, loss_i:1.01e-02 , loss_b:3.54e-03, loss_b_t:2.54e-03  Valid # loss:3.04e+00, loss_r:1.77e-02, loss_i:1.26e-02, loss_b:1.60e-03, loss_b_t:1.87e-03
+Iter #  13500/40000	loss:2.81e-02, loss_r:1.66e-02, loss_i:1.04e-02 , loss_b:1.05e-03, loss_b_t:2.15e-05  Valid # loss:2.70e+00, loss_r:1.67e-02, loss_i:1.03e-02, loss_b:1.06e-03, loss_b_t:1.49e-05
+Iter #  14000/40000	loss:2.81e-02, loss_r:1.64e-02, loss_i:1.06e-02 , loss_b:1.08e-03, loss_b_t:1.12e-05  Valid # loss:2.70e+00, loss_r:1.64e-02, loss_i:1.05e-02, loss_b:1.04e-03, loss_b_t:9.33e-06
+Iter #  14500/40000	loss:2.77e-02, loss_r:1.63e-02, loss_i:1.04e-02 , loss_b:1.05e-03, loss_b_t:6.75e-06  Valid # loss:2.67e+00, loss_r:1.61e-02, loss_i:1.06e-02, loss_b:1.03e-03, loss_b_t:1.17e-05
+Iter #  15000/40000	loss:2.77e-02, loss_r:1.62e-02, loss_i:1.04e-02 , loss_b:1.02e-03, loss_b_t:9.16e-05  Valid # loss:2.67e+00, loss_r:1.60e-02, loss_i:1.06e-02, loss_b:9.97e-04, loss_b_t:5.44e-05
+Iter #  15500/40000	loss:2.79e-02, loss_r:1.63e-02, loss_i:1.05e-02 , loss_b:9.71e-04, loss_b_t:9.11e-05  Valid # loss:2.68e+00, loss_r:1.65e-02, loss_i:1.03e-02, loss_b:1.30e-03, loss_b_t:5.81e-04
+Iter #  16000/40000	loss:3.10e-02, loss_r:1.80e-02, loss_i:1.01e-02 , loss_b:1.11e-03, loss_b_t:1.81e-03  Valid # loss:2.92e+00, loss_r:1.88e-02, loss_i:1.03e-02, loss_b:1.08e-03, loss_b_t:2.76e-03
+Iter #  16500/40000	loss:5.15e-02, loss_r:2.27e-02, loss_i:7.49e-03 , loss_b:1.99e-02, loss_b_t:1.45e-03  Valid # loss:3.42e+00, loss_r:1.90e-02, loss_i:1.49e-02, loss_b:2.77e-02, loss_b_t:1.95e-03
+Iter #  17000/40000	loss:2.70e-02, loss_r:1.58e-02, loss_i:1.02e-02 , loss_b:9.47e-04, loss_b_t:2.19e-05  Valid # loss:2.60e+00, loss_r:1.59e-02, loss_i:1.00e-02, loss_b:1.02e-03, loss_b_t:3.23e-05
+Iter #  17500/40000	loss:2.70e-02, loss_r:1.51e-02, loss_i:1.09e-02 , loss_b:9.97e-04, loss_b_t:1.86e-05  Valid # loss:2.60e+00, loss_r:1.60e-02, loss_i:9.90e-03, loss_b:2.15e-03, loss_b_t:4.46e-05
+Iter #  18000/40000	loss:2.80e-02, loss_r:1.53e-02, loss_i:1.08e-02 , loss_b:1.09e-03, loss_b_t:8.31e-04  Valid # loss:2.57e+00, loss_r:1.50e-02, loss_i:1.07e-02, loss_b:1.17e-03, loss_b_t:2.26e-04
+Iter #  18500/40000	loss:2.72e-02, loss_r:1.51e-02, loss_i:1.07e-02 , loss_b:1.22e-03, loss_b_t:1.74e-04  Valid # loss:2.55e+00, loss_r:1.58e-02, loss_i:9.73e-03, loss_b:1.78e-03, loss_b_t:2.02e-04
+Iter #  19000/40000	loss:2.63e-02, loss_r:1.58e-02, loss_i:9.46e-03 , loss_b:1.04e-03, loss_b_t:5.34e-06  Valid # loss:2.53e+00, loss_r:1.58e-02, loss_i:9.42e-03, loss_b:1.04e-03, loss_b_t:5.64e-06
+Iter #  19500/40000	loss:2.64e-02, loss_r:1.55e-02, loss_i:9.70e-03 , loss_b:1.06e-03, loss_b_t:1.18e-04  Valid # loss:2.52e+00, loss_r:1.54e-02, loss_i:9.81e-03, loss_b:1.02e-03, loss_b_t:5.51e-05
+Iter #  20000/40000	loss:2.65e-02, loss_r:1.46e-02, loss_i:1.10e-02 , loss_b:9.50e-04, loss_b_t:2.28e-05  Valid # loss:2.52e+00, loss_r:1.52e-02, loss_i:1.00e-02, loss_b:2.38e-03, loss_b_t:1.00e-04
+Iter #  20500/40000	loss:2.57e-02, loss_r:1.56e-02, loss_i:9.09e-03 , loss_b:1.03e-03, loss_b_t:2.04e-06  Valid # loss:2.47e+00, loss_r:1.56e-02, loss_i:9.09e-03, loss_b:1.03e-03, loss_b_t:2.02e-06
+Iter #  21000/40000	loss:2.56e-02, loss_r:1.55e-02, loss_i:9.01e-03 , loss_b:1.01e-03, loss_b_t:8.05e-06  Valid # loss:2.45e+00, loss_r:1.55e-02, loss_i:9.00e-03, loss_b:1.01e-03, loss_b_t:3.52e-06
+Iter #  21500/40000	loss:2.53e-02, loss_r:1.54e-02, loss_i:8.95e-03 , loss_b:1.02e-03, loss_b_t:2.24e-06  Valid # loss:2.43e+00, loss_r:1.54e-02, loss_i:8.95e-03, loss_b:1.02e-03, loss_b_t:2.02e-06
+Iter #  22000/40000	loss:2.52e-02, loss_r:1.51e-02, loss_i:9.10e-03 , loss_b:1.00e-03, loss_b_t:1.07e-05  Valid # loss:2.42e+00, loss_r:1.51e-02, loss_i:9.18e-03, loss_b:9.89e-04, loss_b_t:1.68e-06
+Iter #  22500/40000	loss:2.50e-02, loss_r:1.52e-02, loss_i:8.72e-03 , loss_b:1.01e-03, loss_b_t:1.49e-06  Valid # loss:2.40e+00, loss_r:1.52e-02, loss_i:8.72e-03, loss_b:1.01e-03, loss_b_t:1.49e-06
+Iter #  23000/40000	loss:2.49e-02, loss_r:1.50e-02, loss_i:8.83e-03 , loss_b:1.01e-03, loss_b_t:1.36e-05  Valid # loss:2.39e+00, loss_r:1.50e-02, loss_i:8.85e-03, loss_b:9.96e-04, loss_b_t:2.22e-06
+Iter #  23500/40000	loss:2.50e-02, loss_r:1.47e-02, loss_i:8.91e-03 , loss_b:1.25e-03, loss_b_t:1.25e-04  Valid # loss:2.37e+00, loss_r:1.45e-02, loss_i:9.22e-03, loss_b:1.01e-03, loss_b_t:3.33e-06
+Iter #  24000/40000	loss:2.54e-02, loss_r:1.44e-02, loss_i:9.24e-03 , loss_b:1.12e-03, loss_b_t:6.79e-04  Valid # loss:2.37e+00, loss_r:1.44e-02, loss_i:9.28e-03, loss_b:1.04e-03, loss_b_t:3.22e-04
+Iter #  24500/40000	loss:2.63e-02, loss_r:1.50e-02, loss_i:8.73e-03 , loss_b:1.47e-03, loss_b_t:1.04e-03  Valid # loss:2.40e+00, loss_r:1.61e-02, loss_i:7.79e-03, loss_b:2.26e-03, loss_b_t:1.97e-03
+Iter #  25000/40000	loss:2.39e-02, loss_r:1.46e-02, loss_i:8.38e-03 , loss_b:9.56e-04, loss_b_t:2.78e-05  Valid # loss:2.30e+00, loss_r:1.46e-02, loss_i:8.41e-03, loss_b:9.54e-04, loss_b_t:4.66e-05
+Iter #  25500/40000	loss:2.36e-02, loss_r:1.45e-02, loss_i:8.08e-03 , loss_b:9.90e-04, loss_b_t:5.23e-06  Valid # loss:2.27e+00, loss_r:1.45e-02, loss_i:8.16e-03, loss_b:9.52e-04, loss_b_t:9.48e-06
+Iter #  26000/40000	loss:2.33e-02, loss_r:1.44e-02, loss_i:7.95e-03 , loss_b:9.70e-04, loss_b_t:1.34e-06  Valid # loss:2.24e+00, loss_r:1.44e-02, loss_i:7.95e-03, loss_b:9.70e-04, loss_b_t:1.34e-06
+Iter #  26500/40000	loss:2.39e-02, loss_r:1.33e-02, loss_i:9.15e-03 , loss_b:1.22e-03, loss_b_t:2.58e-04  Valid # loss:2.21e+00, loss_r:1.37e-02, loss_i:8.36e-03, loss_b:1.91e-03, loss_b_t:5.47e-05
+Iter #  27000/40000	loss:2.28e-02, loss_r:1.41e-02, loss_i:7.67e-03 , loss_b:9.58e-04, loss_b_t:6.30e-06  Valid # loss:2.18e+00, loss_r:1.41e-02, loss_i:7.67e-03, loss_b:9.58e-04, loss_b_t:1.11e-05
+Iter #  27500/40000	loss:3.50e-02, loss_r:1.59e-02, loss_i:8.02e-03 , loss_b:8.98e-04, loss_b_t:1.02e-02  Valid # loss:2.56e+00, loss_r:1.71e-02, loss_i:8.34e-03, loss_b:1.05e-03, loss_b_t:1.63e-02
+Iter #  28000/40000	loss:2.22e-02, loss_r:1.38e-02, loss_i:7.48e-03 , loss_b:9.61e-04, loss_b_t:1.33e-06  Valid # loss:2.13e+00, loss_r:1.38e-02, loss_i:7.48e-03, loss_b:9.61e-04, loss_b_t:1.33e-06
+Iter #  28500/40000	loss:2.18e-02, loss_r:1.36e-02, loss_i:7.29e-03 , loss_b:9.46e-04, loss_b_t:1.16e-06  Valid # loss:2.09e+00, loss_r:1.36e-02, loss_i:7.29e-03, loss_b:9.46e-04, loss_b_t:1.16e-06
+Iter #  29000/40000	loss:2.16e-02, loss_r:1.33e-02, loss_i:7.32e-03 , loss_b:9.56e-04, loss_b_t:1.43e-05  Valid # loss:2.06e+00, loss_r:1.33e-02, loss_i:7.33e-03, loss_b:9.49e-04, loss_b_t:1.11e-05
+Iter #  29500/40000	loss:2.48e-02, loss_r:1.31e-02, loss_i:7.76e-03 , loss_b:1.09e-03, loss_b_t:2.78e-03  Valid # loss:2.08e+00, loss_r:1.29e-02, loss_i:7.90e-03, loss_b:8.89e-04, loss_b_t:1.65e-03
+Iter #  30000/40000	loss:3.69e-02, loss_r:1.42e-02, loss_i:7.51e-03 , loss_b:1.39e-03, loss_b_t:1.38e-02  Valid # loss:2.36e+00, loss_r:1.65e-02, loss_i:6.83e-03, loss_b:2.78e-03, loss_b_t:2.51e-02
+Iter #  30500/40000	loss:2.03e-02, loss_r:1.27e-02, loss_i:6.66e-03 , loss_b:9.35e-04, loss_b_t:7.92e-07  Valid # loss:1.94e+00, loss_r:1.27e-02, loss_i:6.66e-03, loss_b:9.35e-04, loss_b_t:7.90e-07
+Iter #  31000/40000	loss:1.99e-02, loss_r:1.24e-02, loss_i:6.55e-03 , loss_b:9.33e-04, loss_b_t:8.71e-07  Valid # loss:1.90e+00, loss_r:1.24e-02, loss_i:6.54e-03, loss_b:9.33e-04, loss_b_t:8.69e-07
+Iter #  31500/40000	loss:1.95e-02, loss_r:1.22e-02, loss_i:6.44e-03 , loss_b:9.31e-04, loss_b_t:9.59e-07  Valid # loss:1.86e+00, loss_r:1.22e-02, loss_i:6.43e-03, loss_b:9.31e-04, loss_b_t:9.47e-07
+Iter #  32000/40000	loss:1.92e-02, loss_r:1.19e-02, loss_i:6.37e-03 , loss_b:9.30e-04, loss_b_t:1.20e-06  Valid # loss:1.83e+00, loss_r:1.19e-02, loss_i:6.37e-03, loss_b:9.30e-04, loss_b_t:1.13e-06
+Iter #  32500/40000	loss:1.86e-02, loss_r:1.15e-02, loss_i:6.19e-03 , loss_b:9.05e-04, loss_b_t:1.60e-06  Valid # loss:1.77e+00, loss_r:1.15e-02, loss_i:6.19e-03, loss_b:9.06e-04, loss_b_t:1.43e-06
+Iter #  33000/40000	loss:1.82e-02, loss_r:1.12e-02, loss_i:6.10e-03 , loss_b:8.90e-04, loss_b_t:1.46e-06  Valid # loss:1.73e+00, loss_r:1.12e-02, loss_i:6.10e-03, loss_b:8.89e-04, loss_b_t:1.52e-06
+Iter #  33500/40000	loss:1.78e-02, loss_r:1.08e-02, loss_i:6.07e-03 , loss_b:8.90e-04, loss_b_t:1.69e-05  Valid # loss:1.69e+00, loss_r:1.09e-02, loss_i:6.05e-03, loss_b:8.97e-04, loss_b_t:1.14e-05
+Iter #  34000/40000	loss:1.74e-02, loss_r:1.05e-02, loss_i:5.97e-03 , loss_b:8.86e-04, loss_b_t:1.45e-05  Valid # loss:1.65e+00, loss_r:1.05e-02, loss_i:5.98e-03, loss_b:8.80e-04, loss_b_t:1.03e-05
+Iter #  34500/40000	loss:1.79e-02, loss_r:1.02e-02, loss_i:6.09e-03 , loss_b:8.20e-04, loss_b_t:8.26e-04  Valid # loss:1.62e+00, loss_r:1.01e-02, loss_i:6.13e-03, loss_b:8.07e-04, loss_b_t:6.90e-05
+Iter #  35000/40000	loss:1.64e-02, loss_r:1.00e-02, loss_i:5.61e-03 , loss_b:8.08e-04, loss_b_t:1.42e-05  Valid # loss:1.56e+00, loss_r:1.00e-02, loss_i:5.59e-03, loss_b:8.16e-04, loss_b_t:1.85e-05
+Iter #  35500/40000	loss:1.62e-02, loss_r:9.48e-03, loss_i:5.82e-03 , loss_b:8.17e-04, loss_b_t:3.97e-05  Valid # loss:1.53e+00, loss_r:9.52e-03, loss_i:5.77e-03, loss_b:8.33e-04, loss_b_t:2.69e-04
+Iter #  36000/40000	loss:1.58e-02, loss_r:9.28e-03, loss_i:5.60e-03 , loss_b:8.15e-04, loss_b_t:1.23e-04  Valid # loss:1.49e+00, loss_r:9.27e-03, loss_i:5.61e-03, loss_b:8.08e-04, loss_b_t:2.06e-05
+Iter #  36500/40000	loss:1.51e-02, loss_r:9.13e-03, loss_i:5.18e-03 , loss_b:7.45e-04, loss_b_t:1.08e-05  Valid # loss:1.43e+00, loss_r:9.13e-03, loss_i:5.19e-03, loss_b:7.43e-04, loss_b_t:1.20e-05
+Iter #  37000/40000	loss:1.46e-02, loss_r:8.79e-03, loss_i:5.09e-03 , loss_b:7.24e-04, loss_b_t:1.29e-05  Valid # loss:1.39e+00, loss_r:8.79e-03, loss_i:5.08e-03, loss_b:7.25e-04, loss_b_t:1.28e-05
+Iter #  37500/40000	loss:1.42e-02, loss_r:8.50e-03, loss_i:4.94e-03 , loss_b:7.05e-04, loss_b_t:1.72e-05  Valid # loss:1.34e+00, loss_r:8.49e-03, loss_i:4.95e-03, loss_b:7.02e-04, loss_b_t:2.02e-05
+Iter #  38000/40000	loss:2.18e-02, loss_r:8.01e-03, loss_i:5.09e-03 , loss_b:8.80e-04, loss_b_t:7.80e-03  Valid # loss:1.35e+00, loss_r:8.05e-03, loss_i:5.34e-03, loss_b:7.18e-04, loss_b_t:5.59e-03
+Iter #  38500/40000	loss:1.51e-02, loss_r:7.76e-03, loss_i:5.07e-03 , loss_b:7.21e-04, loss_b_t:1.58e-03  Valid # loss:1.29e+00, loss_r:7.73e-03, loss_i:5.12e-03, loss_b:5.92e-04, loss_b_t:1.26e-03
+Iter #  39000/40000	loss:3.33e-02, loss_r:7.88e-03, loss_i:5.02e-03 , loss_b:6.78e-04, loss_b_t:1.98e-02  Valid # loss:1.23e+00, loss_r:7.54e-03, loss_i:4.67e-03, loss_b:1.38e-03, loss_b_t:8.36e-03
+Iter #  39500/40000	loss:1.95e-02, loss_r:7.47e-03, loss_i:4.43e-03 , loss_b:6.02e-04, loss_b_t:6.99e-03  Valid # loss:1.21e+00, loss_r:7.61e-03, loss_i:4.39e-03, loss_b:7.42e-04, loss_b_t:1.22e-02
+Iter #  40000/40000	loss:2.05e-02, loss_r:7.00e-03, loss_i:4.78e-03 , loss_b:7.01e-04, loss_b_t:8.00e-03  Valid # loss:1.15e+00, loss_r:6.84e-03, loss_i:4.61e-03, loss_b:7.24e-04, loss_b_t:4.25e-03
+Iter #    500/40000	loss:8.12e-02, loss_r:4.21e-03, loss_i:7.61e-02 , loss_b:8.51e-04, loss_b_t:1.91e-07  Valid # loss:8.03e+00, loss_r:4.21e-03, loss_i:7.61e-02, loss_b:8.50e-04, loss_b_t:1.93e-07
+Iter #   1000/40000	loss:8.09e-02, loss_r:4.41e-03, loss_i:7.56e-02 , loss_b:8.56e-04, loss_b_t:8.25e-06  Valid # loss:8.00e+00, loss_r:4.40e-03, loss_i:7.56e-02, loss_b:8.53e-04, loss_b_t:9.36e-06
+Iter #   1500/40000	loss:7.73e-02, loss_r:7.69e-03, loss_i:6.89e-02 , loss_b:6.08e-04, loss_b_t:2.57e-05  Valid # loss:7.67e+00, loss_r:7.62e-03, loss_i:6.90e-02, loss_b:5.94e-04, loss_b_t:2.40e-05
+Iter #   2000/40000	loss:7.68e-02, loss_r:8.37e-03, loss_i:6.79e-02 , loss_b:4.55e-04, loss_b_t:5.44e-06  Valid # loss:7.63e+00, loss_r:8.35e-03, loss_i:6.80e-02, loss_b:4.53e-04, loss_b_t:5.52e-06
+Iter #   2500/40000	loss:8.99e-02, loss_r:2.14e-02, loss_i:6.72e-02 , loss_b:3.97e-04, loss_b_t:8.94e-04  Valid # loss:1.03e+01, loss_r:3.27e-02, loss_i:6.99e-02, loss_b:3.23e-04, loss_b_t:1.64e-03
+Iter #   3000/40000	loss:7.54e-02, loss_r:9.13e-03, loss_i:6.60e-02 , loss_b:2.87e-04, loss_b_t:4.85e-06  Valid # loss:7.51e+00, loss_r:9.13e-03, loss_i:6.60e-02, loss_b:2.87e-04, loss_b_t:4.91e-06
+Iter #   3500/40000	loss:7.50e-02, loss_r:9.90e-03, loss_i:6.48e-02 , loss_b:2.40e-04, loss_b_t:7.46e-06  Valid # loss:7.47e+00, loss_r:9.90e-03, loss_i:6.48e-02, loss_b:2.40e-04, loss_b_t:7.45e-06
+Iter #   4000/40000	loss:7.48e-02, loss_r:1.01e-02, loss_i:6.44e-02 , loss_b:2.32e-04, loss_b_t:1.28e-06  Valid # loss:7.45e+00, loss_r:1.01e-02, loss_i:6.44e-02, loss_b:2.32e-04, loss_b_t:1.28e-06
+Iter #   4500/40000	loss:7.46e-02, loss_r:1.03e-02, loss_i:6.41e-02 , loss_b:2.30e-04, loss_b_t:1.45e-06  Valid # loss:7.44e+00, loss_r:1.03e-02, loss_i:6.41e-02, loss_b:2.30e-04, loss_b_t:1.45e-06
+Iter #   5000/40000	loss:7.60e-02, loss_r:1.35e-02, loss_i:6.17e-02 , loss_b:8.12e-04, loss_b_t:2.38e-05  Valid # loss:7.46e+00, loss_r:1.15e-02, loss_i:6.31e-02, loss_b:4.12e-04, loss_b_t:6.24e-06
+Iter #   5500/40000	loss:7.43e-02, loss_r:1.05e-02, loss_i:6.36e-02 , loss_b:2.00e-04, loss_b_t:2.33e-06  Valid # loss:7.41e+00, loss_r:1.05e-02, loss_i:6.36e-02, loss_b:2.00e-04, loss_b_t:2.33e-06
+Iter #   6000/40000	loss:7.58e-02, loss_r:1.17e-02, loss_i:6.38e-02 , loss_b:1.81e-04, loss_b_t:7.61e-05  Valid # loss:7.72e+00, loss_r:1.40e-02, loss_i:6.32e-02, loss_b:1.98e-04, loss_b_t:1.56e-04
+Iter #   6500/40000	loss:7.41e-02, loss_r:1.03e-02, loss_i:6.37e-02 , loss_b:1.47e-04, loss_b_t:1.07e-06  Valid # loss:7.40e+00, loss_r:1.03e-02, loss_i:6.37e-02, loss_b:1.47e-04, loss_b_t:4.16e-06
+Iter #   7000/40000	loss:7.39e-02, loss_r:1.08e-02, loss_i:6.29e-02 , loss_b:1.65e-04, loss_b_t:8.41e-07  Valid # loss:7.37e+00, loss_r:1.08e-02, loss_i:6.29e-02, loss_b:1.66e-04, loss_b_t:8.43e-07
+Iter #   7500/40000	loss:7.38e-02, loss_r:1.04e-02, loss_i:6.32e-02 , loss_b:1.27e-04, loss_b_t:2.58e-06  Valid # loss:7.37e+00, loss_r:1.05e-02, loss_i:6.32e-02, loss_b:1.29e-04, loss_b_t:2.82e-06
+Iter #   8000/40000	loss:7.35e-02, loss_r:1.08e-02, loss_i:6.25e-02 , loss_b:1.44e-04, loss_b_t:4.73e-06  Valid # loss:7.33e+00, loss_r:1.08e-02, loss_i:6.25e-02, loss_b:1.43e-04, loss_b_t:4.74e-06
+Iter #   8500/40000	loss:7.29e-02, loss_r:1.12e-02, loss_i:6.16e-02 , loss_b:1.74e-04, loss_b_t:7.61e-06  Valid # loss:7.27e+00, loss_r:1.12e-02, loss_i:6.16e-02, loss_b:1.74e-04, loss_b_t:7.63e-06
+Iter #   9000/40000	loss:7.10e-02, loss_r:1.18e-02, loss_i:5.90e-02 , loss_b:2.66e-04, loss_b_t:1.21e-05  Valid # loss:7.08e+00, loss_r:1.13e-02, loss_i:5.95e-02, loss_b:2.26e-04, loss_b_t:6.01e-06
+Iter #   9500/40000	loss:6.86e-02, loss_r:1.04e-02, loss_i:5.81e-02 , loss_b:1.78e-05, loss_b_t:1.02e-04  Valid # loss:6.84e+00, loss_r:1.19e-02, loss_i:5.65e-02, loss_b:4.59e-04, loss_b_t:6.77e-04
+Iter #  10000/40000	loss:6.10e-02, loss_r:9.94e-03, loss_i:5.09e-02 , loss_b:1.44e-04, loss_b_t:9.99e-05  Valid # loss:6.08e+00, loss_r:1.05e-02, loss_i:5.03e-02, loss_b:2.07e-04, loss_b_t:1.38e-04
+Iter #  10500/40000	loss:5.21e-02, loss_r:8.16e-03, loss_i:4.37e-02 , loss_b:1.87e-04, loss_b_t:1.73e-05  Valid # loss:5.18e+00, loss_r:8.15e-03, loss_i:4.37e-02, loss_b:1.89e-04, loss_b_t:2.16e-05
+Iter #  11000/40000	loss:4.90e-02, loss_r:7.93e-03, loss_i:4.09e-02 , loss_b:1.46e-04, loss_b_t:2.49e-05  Valid # loss:4.88e+00, loss_r:7.92e-03, loss_i:4.09e-02, loss_b:1.44e-04, loss_b_t:2.39e-05
+Iter #  11500/40000	loss:5.00e-02, loss_r:8.30e-03, loss_i:4.14e-02 , loss_b:3.03e-04, loss_b_t:4.54e-05  Valid # loss:4.96e+00, loss_r:8.28e-03, loss_i:4.14e-02, loss_b:3.00e-04, loss_b_t:4.56e-05
+Iter #  12000/40000	loss:4.64e-02, loss_r:7.18e-03, loss_i:3.91e-02 , loss_b:9.57e-05, loss_b_t:2.49e-05  Valid # loss:4.63e+00, loss_r:7.18e-03, loss_i:3.91e-02, loss_b:9.52e-05, loss_b_t:2.48e-05
+Iter #  12500/40000	loss:4.44e-02, loss_r:6.71e-03, loss_i:3.76e-02 , loss_b:3.91e-05, loss_b_t:2.18e-05  Valid # loss:4.43e+00, loss_r:6.69e-03, loss_i:3.76e-02, loss_b:3.53e-05, loss_b_t:1.73e-05
+Iter #  13000/40000	loss:4.67e-02, loss_r:6.69e-03, loss_i:3.85e-02 , loss_b:7.46e-05, loss_b_t:1.47e-03  Valid # loss:4.54e+00, loss_r:7.81e-03, loss_i:3.76e-02, loss_b:1.03e-04, loss_b_t:2.72e-03
+Iter #  13500/40000	loss:4.47e-02, loss_r:7.30e-03, loss_i:3.73e-02 , loss_b:1.18e-04, loss_b_t:2.16e-05  Valid # loss:4.46e+00, loss_r:7.29e-03, loss_i:3.73e-02, loss_b:1.13e-04, loss_b_t:1.94e-05
+Iter #  14000/40000	loss:4.43e-02, loss_r:6.99e-03, loss_i:3.72e-02 , loss_b:1.14e-04, loss_b_t:2.55e-05  Valid # loss:4.41e+00, loss_r:6.98e-03, loss_i:3.72e-02, loss_b:1.33e-04, loss_b_t:1.34e-04
+Iter #  14500/40000	loss:4.30e-02, loss_r:6.49e-03, loss_i:3.65e-02 , loss_b:2.53e-05, loss_b_t:1.12e-05  Valid # loss:4.29e+00, loss_r:6.49e-03, loss_i:3.65e-02, loss_b:2.53e-05, loss_b_t:1.13e-05
+Iter #  15000/40000	loss:4.41e-02, loss_r:7.41e-03, loss_i:3.65e-02 , loss_b:1.21e-04, loss_b_t:3.63e-05  Valid # loss:4.39e+00, loss_r:7.22e-03, loss_i:3.66e-02, loss_b:1.21e-04, loss_b_t:4.05e-05
+Iter #  15500/40000	loss:6.70e-02, loss_r:7.29e-03, loss_i:3.49e-02 , loss_b:1.33e-03, loss_b_t:2.35e-02  Valid # loss:4.46e+00, loss_r:5.14e-03, loss_i:3.87e-02, loss_b:3.90e-03, loss_b_t:6.95e-02
+Iter #  16000/40000	loss:4.29e-02, loss_r:6.74e-03, loss_i:3.61e-02 , loss_b:5.08e-05, loss_b_t:1.23e-05  Valid # loss:4.29e+00, loss_r:6.74e-03, loss_i:3.61e-02, loss_b:5.05e-05, loss_b_t:1.24e-05
+Iter #  16500/40000	loss:6.50e-02, loss_r:5.50e-03, loss_i:3.73e-02 , loss_b:8.86e-04, loss_b_t:2.13e-02  Valid # loss:4.24e+00, loss_r:6.87e-03, loss_i:3.56e-02, loss_b:4.80e-05, loss_b_t:5.86e-04
+Iter #  17000/40000	loss:1.32e-01, loss_r:5.09e-03, loss_i:3.83e-02 , loss_b:4.69e-03, loss_b_t:8.41e-02  Valid # loss:4.23e+00, loss_r:7.57e-03, loss_i:3.43e-02, loss_b:1.63e-03, loss_b_t:3.55e-02
+Iter #  17500/40000	loss:4.18e-02, loss_r:6.43e-03, loss_i:3.53e-02 , loss_b:1.75e-05, loss_b_t:1.30e-05  Valid # loss:4.18e+00, loss_r:6.42e-03, loss_i:3.53e-02, loss_b:1.73e-05, loss_b_t:1.23e-05
+Iter #  18000/40000	loss:1.00e-01, loss_r:5.39e-03, loss_i:3.72e-02 , loss_b:3.03e-03, loss_b_t:5.48e-02  Valid # loss:4.19e+00, loss_r:7.50e-03, loss_i:3.39e-02, loss_b:2.28e-03, loss_b_t:4.93e-02
+Iter #  18500/40000	loss:4.16e-02, loss_r:6.53e-03, loss_i:3.50e-02 , loss_b:2.14e-05, loss_b_t:1.30e-05  Valid # loss:4.16e+00, loss_r:6.53e-03, loss_i:3.50e-02, loss_b:2.12e-05, loss_b_t:1.30e-05
+Iter #  19000/40000	loss:4.20e-02, loss_r:6.92e-03, loss_i:3.50e-02 , loss_b:5.70e-05, loss_b_t:2.10e-05  Valid # loss:4.19e+00, loss_r:6.90e-03, loss_i:3.50e-02, loss_b:5.61e-05, loss_b_t:1.96e-05
+Iter #  19500/40000	loss:4.22e-02, loss_r:6.94e-03, loss_i:3.51e-02 , loss_b:9.54e-05, loss_b_t:2.92e-05  Valid # loss:4.20e+00, loss_r:6.98e-03, loss_i:3.51e-02, loss_b:8.94e-05, loss_b_t:2.67e-05
+Iter #  20000/40000	loss:4.95e-02, loss_r:8.99e-03, loss_i:3.46e-02 , loss_b:1.64e-03, loss_b_t:4.26e-03  Valid # loss:4.42e+00, loss_r:7.93e-03, loss_i:3.62e-02, loss_b:7.85e-04, loss_b_t:3.38e-03
+Iter #  20500/40000	loss:4.10e-02, loss_r:6.60e-03, loss_i:3.43e-02 , loss_b:2.71e-05, loss_b_t:2.56e-05  Valid # loss:4.09e+00, loss_r:6.58e-03, loss_i:3.43e-02, loss_b:2.47e-05, loss_b_t:1.36e-05
+Iter #  21000/40000	loss:4.06e-02, loss_r:6.53e-03, loss_i:3.40e-02 , loss_b:1.54e-05, loss_b_t:1.08e-05  Valid # loss:4.05e+00, loss_r:6.53e-03, loss_i:3.40e-02, loss_b:1.53e-05, loss_b_t:1.01e-05
+Iter #  21500/40000	loss:4.18e-02, loss_r:6.18e-03, loss_i:3.47e-02 , loss_b:6.56e-05, loss_b_t:9.10e-04  Valid # loss:4.09e+00, loss_r:5.80e-03, loss_i:3.51e-02, loss_b:1.09e-04, loss_b_t:1.82e-03
+Iter #  22000/40000	loss:4.01e-02, loss_r:6.61e-03, loss_i:3.35e-02 , loss_b:1.41e-05, loss_b_t:1.09e-05  Valid # loss:4.01e+00, loss_r:6.61e-03, loss_i:3.35e-02, loss_b:1.40e-05, loss_b_t:1.07e-05
+Iter #  22500/40000	loss:5.90e-02, loss_r:7.10e-03, loss_i:3.26e-02 , loss_b:7.33e-04, loss_b_t:1.86e-02  Valid # loss:4.09e+00, loss_r:5.76e-03, loss_i:3.48e-02, loss_b:2.05e-03, loss_b_t:3.94e-02
+Iter #  23000/40000	loss:3.99e-02, loss_r:6.69e-03, loss_i:3.32e-02 , loss_b:1.43e-05, loss_b_t:1.26e-05  Valid # loss:3.98e+00, loss_r:6.69e-03, loss_i:3.32e-02, loss_b:1.42e-05, loss_b_t:1.26e-05
+Iter #  23500/40000	loss:3.99e-02, loss_r:6.71e-03, loss_i:3.30e-02 , loss_b:2.79e-05, loss_b_t:1.02e-04  Valid # loss:3.97e+00, loss_r:6.62e-03, loss_i:3.31e-02, loss_b:2.54e-05, loss_b_t:7.67e-05
+Iter #  24000/40000	loss:3.97e-02, loss_r:6.69e-03, loss_i:3.29e-02 , loss_b:2.96e-05, loss_b_t:7.86e-05  Valid # loss:3.96e+00, loss_r:6.75e-03, loss_i:3.29e-02, loss_b:3.02e-05, loss_b_t:3.18e-05
+Iter #  24500/40000	loss:3.91e-02, loss_r:6.65e-03, loss_i:3.24e-02 , loss_b:1.15e-05, loss_b_t:1.49e-05  Valid # loss:3.90e+00, loss_r:6.64e-03, loss_i:3.24e-02, loss_b:1.20e-05, loss_b_t:1.05e-05
+Iter #  25000/40000	loss:3.89e-02, loss_r:6.72e-03, loss_i:3.21e-02 , loss_b:1.29e-05, loss_b_t:1.18e-05  Valid # loss:3.88e+00, loss_r:6.72e-03, loss_i:3.21e-02, loss_b:1.28e-05, loss_b_t:1.17e-05
+Iter #  25500/40000	loss:3.88e-02, loss_r:6.75e-03, loss_i:3.19e-02 , loss_b:1.84e-05, loss_b_t:4.95e-05  Valid # loss:3.87e+00, loss_r:6.69e-03, loss_i:3.20e-02, loss_b:1.61e-05, loss_b_t:4.95e-05
+Iter #  26000/40000	loss:3.85e-02, loss_r:6.71e-03, loss_i:3.18e-02 , loss_b:1.71e-05, loss_b_t:3.08e-05  Valid # loss:3.85e+00, loss_r:6.72e-03, loss_i:3.18e-02, loss_b:1.79e-05, loss_b_t:2.59e-05
+Iter #  26500/40000	loss:3.82e-02, loss_r:6.76e-03, loss_i:3.14e-02 , loss_b:1.09e-05, loss_b_t:1.20e-05  Valid # loss:3.81e+00, loss_r:6.76e-03, loss_i:3.14e-02, loss_b:1.10e-05, loss_b_t:1.15e-05
+Iter #  27000/40000	loss:3.87e-02, loss_r:6.73e-03, loss_i:3.14e-02 , loss_b:1.95e-05, loss_b_t:5.71e-04  Valid # loss:3.81e+00, loss_r:6.52e-03, loss_i:3.16e-02, loss_b:2.13e-05, loss_b_t:4.76e-04
+Iter #  27500/40000	loss:4.74e-02, loss_r:7.33e-03, loss_i:3.06e-02 , loss_b:7.02e-05, loss_b_t:9.40e-03  Valid # loss:3.80e+00, loss_r:6.58e-03, loss_i:3.13e-02, loss_b:2.02e-05, loss_b_t:1.27e-02
+Iter #  28000/40000	loss:3.80e-02, loss_r:6.70e-03, loss_i:3.10e-02 , loss_b:1.42e-05, loss_b_t:3.07e-04  Valid # loss:3.77e+00, loss_r:6.61e-03, loss_i:3.11e-02, loss_b:1.98e-05, loss_b_t:9.80e-05
+Iter #  28500/40000	loss:3.72e-02, loss_r:6.86e-03, loss_i:3.03e-02 , loss_b:8.02e-06, loss_b_t:1.04e-05  Valid # loss:3.71e+00, loss_r:6.86e-03, loss_i:3.03e-02, loss_b:8.01e-06, loss_b_t:1.04e-05
+Iter #  29000/40000	loss:3.69e-02, loss_r:6.92e-03, loss_i:2.99e-02 , loss_b:7.12e-06, loss_b_t:1.10e-05  Valid # loss:3.68e+00, loss_r:6.92e-03, loss_i:2.99e-02, loss_b:7.18e-06, loss_b_t:1.05e-05
+Iter #  29500/40000	loss:3.66e-02, loss_r:6.99e-03, loss_i:2.96e-02 , loss_b:6.72e-06, loss_b_t:9.87e-06  Valid # loss:3.65e+00, loss_r:6.99e-03, loss_i:2.96e-02, loss_b:6.62e-06, loss_b_t:1.04e-05
+Iter #  30000/40000	loss:3.63e-02, loss_r:7.03e-03, loss_i:2.93e-02 , loss_b:5.64e-06, loss_b_t:1.22e-05  Valid # loss:3.63e+00, loss_r:7.04e-03, loss_i:2.93e-02, loss_b:5.92e-06, loss_b_t:9.55e-06
+Iter #  30500/40000	loss:3.60e-02, loss_r:7.08e-03, loss_i:2.89e-02 , loss_b:7.34e-06, loss_b_t:1.83e-05  Valid # loss:3.60e+00, loss_r:7.09e-03, loss_i:2.89e-02, loss_b:5.53e-06, loss_b_t:3.23e-05
+Iter #  31000/40000	loss:3.57e-02, loss_r:7.19e-03, loss_i:2.85e-02 , loss_b:6.86e-06, loss_b_t:8.62e-06  Valid # loss:3.56e+00, loss_r:7.19e-03, loss_i:2.85e-02, loss_b:7.33e-06, loss_b_t:8.40e-06
+Iter #  31500/40000	loss:4.26e-02, loss_r:7.20e-03, loss_i:2.81e-02 , loss_b:2.05e-05, loss_b_t:7.29e-03  Valid # loss:3.54e+00, loss_r:7.68e-03, loss_i:2.77e-02, loss_b:1.66e-05, loss_b_t:2.11e-03
+Iter #  32000/40000	loss:3.48e-02, loss_r:7.45e-03, loss_i:2.74e-02 , loss_b:1.36e-05, loss_b_t:7.45e-06  Valid # loss:3.48e+00, loss_r:7.45e-03, loss_i:2.74e-02, loss_b:1.36e-05, loss_b_t:8.41e-06
+Iter #  32500/40000	loss:3.43e-02, loss_r:7.56e-03, loss_i:2.67e-02 , loss_b:2.15e-05, loss_b_t:2.62e-05  Valid # loss:3.43e+00, loss_r:7.59e-03, loss_i:2.67e-02, loss_b:1.90e-05, loss_b_t:7.33e-05
+Iter #  33000/40000	loss:3.36e-02, loss_r:7.80e-03, loss_i:2.58e-02 , loss_b:3.90e-05, loss_b_t:7.39e-06  Valid # loss:3.36e+00, loss_r:7.80e-03, loss_i:2.58e-02, loss_b:3.91e-05, loss_b_t:7.48e-06
+Iter #  33500/40000	loss:3.47e-02, loss_r:7.71e-03, loss_i:2.52e-02 , loss_b:7.13e-05, loss_b_t:1.69e-03  Valid # loss:3.29e+00, loss_r:7.84e-03, loss_i:2.51e-02, loss_b:6.67e-05, loss_b_t:7.34e-04
+Iter #  34000/40000	loss:3.19e-02, loss_r:8.24e-03, loss_i:2.35e-02 , loss_b:1.29e-04, loss_b_t:1.07e-05  Valid # loss:3.18e+00, loss_r:8.24e-03, loss_i:2.35e-02, loss_b:1.30e-04, loss_b_t:1.25e-05
+Iter #  34500/40000	loss:3.05e-02, loss_r:8.59e-03, loss_i:2.17e-02 , loss_b:2.48e-04, loss_b_t:1.80e-05  Valid # loss:3.03e+00, loss_r:8.59e-03, loss_i:2.17e-02, loss_b:2.48e-04, loss_b_t:1.82e-05
+Iter #  35000/40000	loss:3.35e-02, loss_r:8.83e-03, loss_i:1.96e-02 , loss_b:4.03e-04, loss_b_t:4.59e-03  Valid # loss:2.87e+00, loss_r:8.73e-03, loss_i:1.99e-02, loss_b:4.23e-04, loss_b_t:7.19e-03
+Iter #  35500/40000	loss:2.91e-02, loss_r:8.86e-03, loss_i:1.80e-02 , loss_b:4.92e-04, loss_b_t:1.74e-03  Valid # loss:2.67e+00, loss_r:8.88e-03, loss_i:1.78e-02, loss_b:6.40e-04, loss_b_t:1.67e-03
+Iter #  36000/40000	loss:3.06e-02, loss_r:9.02e-03, loss_i:1.58e-02 , loss_b:8.38e-04, loss_b_t:4.88e-03  Valid # loss:2.49e+00, loss_r:8.93e-03, loss_i:1.60e-02, loss_b:8.00e-04, loss_b_t:3.81e-04
+Iter #  36500/40000	loss:2.41e-02, loss_r:8.81e-03, loss_i:1.46e-02 , loss_b:6.60e-04, loss_b_t:3.26e-05  Valid # loss:2.34e+00, loss_r:8.81e-03, loss_i:1.46e-02, loss_b:6.60e-04, loss_b_t:3.23e-05
+Iter #  37000/40000	loss:2.29e-02, loss_r:8.69e-03, loss_i:1.32e-02 , loss_b:7.44e-04, loss_b_t:2.17e-04  Valid # loss:2.19e+00, loss_r:8.69e-03, loss_i:1.32e-02, loss_b:7.16e-04, loss_b_t:3.00e-04
+Iter #  37500/40000	loss:2.16e-02, loss_r:8.52e-03, loss_i:1.20e-02 , loss_b:7.55e-04, loss_b_t:3.64e-04  Valid # loss:2.05e+00, loss_r:8.54e-03, loss_i:1.20e-02, loss_b:7.13e-04, loss_b_t:3.46e-04
+Iter #  38000/40000	loss:2.11e-02, loss_r:8.31e-03, loss_i:1.09e-02 , loss_b:7.00e-04, loss_b_t:1.20e-03  Valid # loss:1.92e+00, loss_r:8.35e-03, loss_i:1.08e-02, loss_b:6.61e-04, loss_b_t:8.35e-04
+Iter #  38500/40000	loss:1.86e-02, loss_r:8.11e-03, loss_i:9.74e-03 , loss_b:6.59e-04, loss_b_t:7.84e-05  Valid # loss:1.79e+00, loss_r:8.11e-03, loss_i:9.75e-03, loss_b:6.55e-04, loss_b_t:6.12e-05
+Iter #  39000/40000	loss:1.75e-02, loss_r:7.83e-03, loss_i:8.82e-03 , loss_b:6.27e-04, loss_b_t:1.83e-04  Valid # loss:1.66e+00, loss_r:7.84e-03, loss_i:8.78e-03, loss_b:6.38e-04, loss_b_t:9.60e-05
+Iter #  39500/40000	loss:1.62e-02, loss_r:7.51e-03, loss_i:7.95e-03 , loss_b:5.76e-04, loss_b_t:1.37e-04  Valid # loss:1.55e+00, loss_r:7.51e-03, loss_i:7.95e-03, loss_b:5.79e-04, loss_b_t:1.60e-04
+Iter #  40000/40000	loss:1.50e-02, loss_r:7.12e-03, loss_i:7.24e-03 , loss_b:5.46e-04, loss_b_t:6.50e-05  Valid # loss:1.44e+00, loss_r:7.13e-03, loss_i:7.24e-03, loss_b:5.43e-04, loss_b_t:5.89e-05
+Iter #    500/40000	loss:5.74e+00, loss_r:5.31e-03, loss_i:4.04e-02 , loss_b:1.16e+00, loss_b_t:1.58e-03  Valid # loss:1.23e+00, loss_r:8.74e-03, loss_i:4.05e-02, loss_b:1.18e+00, loss_b_t:2.34e-03
+Iter #   1000/40000	loss:5.12e+00, loss_r:7.15e-03, loss_i:2.87e-02 , loss_b:1.50e+00, loss_b_t:4.56e-02  Valid # loss:1.45e+00, loss_r:7.98e-03, loss_i:3.12e-02, loss_b:1.33e+00, loss_b_t:8.43e-02
+Iter #   1500/40000	loss:2.15e+00, loss_r:5.85e-03, loss_i:7.27e-03 , loss_b:8.31e-01, loss_b_t:3.24e-03  Valid # loss:9.17e-01, loss_r:5.96e-03, loss_i:6.83e-03, loss_b:9.01e-01, loss_b_t:3.34e-03
+Iter #   2000/40000	loss:1.36e+00, loss_r:5.01e-03, loss_i:3.55e-03 , loss_b:5.07e-01, loss_b_t:1.06e-03  Valid # loss:5.17e-01, loss_r:5.01e-03, loss_i:3.53e-03, loss_b:5.08e-01, loss_b_t:1.07e-03
+Iter #   2500/40000	loss:1.07e+00, loss_r:3.94e-03, loss_i:3.05e-03 , loss_b:3.68e-01, loss_b_t:3.20e-03  Valid # loss:3.68e-01, loss_r:3.98e-03, loss_i:3.15e-03, loss_b:3.57e-01, loss_b_t:3.41e-03
+Iter #   3000/40000	loss:9.49e-01, loss_r:3.56e-03, loss_i:3.24e-03 , loss_b:2.59e-01, loss_b_t:9.99e-03  Valid # loss:2.89e-01, loss_r:4.00e-03, loss_i:3.05e-03, loss_b:2.62e-01, loss_b_t:2.02e-02
+Iter #   3500/40000	loss:8.88e-01, loss_r:3.41e-03, loss_i:2.33e-03 , loss_b:2.14e-01, loss_b_t:9.93e-02  Valid # loss:2.25e-01, loss_r:1.75e-03, loss_i:2.12e-03, loss_b:2.16e-01, loss_b_t:4.60e-03
+Iter #   4000/40000	loss:4.23e-01, loss_r:1.34e-03, loss_i:1.73e-03 , loss_b:1.00e-01, loss_b_t:1.65e-02  Valid # loss:1.02e-01, loss_r:1.30e-03, loss_i:1.79e-03, loss_b:9.53e-02, loss_b_t:3.27e-03
+Iter #   4500/40000	loss:3.35e-01, loss_r:1.19e-03, loss_i:1.18e-03 , loss_b:6.02e-02, loss_b_t:3.85e-02  Valid # loss:1.03e-01, loss_r:1.04e-03, loss_i:1.37e-03, loss_b:5.77e-02, loss_b_t:4.28e-02
+Iter #   5000/40000	loss:3.02e-01, loss_r:1.09e-03, loss_i:8.36e-04 , loss_b:5.38e-02, loss_b_t:5.63e-02  Valid # loss:7.62e-02, loss_r:8.83e-04, loss_i:1.03e-03, loss_b:5.47e-02, loss_b_t:1.96e-02
+Iter #   5500/40000	loss:2.20e-01, loss_r:7.90e-04, loss_i:6.86e-04 , loss_b:2.84e-02, loss_b_t:4.44e-02  Valid # loss:1.37e-01, loss_r:7.51e-04, loss_i:8.40e-04, loss_b:3.03e-02, loss_b_t:1.05e-01
+Iter #   6000/40000	loss:1.33e-01, loss_r:5.82e-04, loss_i:5.32e-04 , loss_b:2.08e-02, loss_b_t:1.20e-03  Valid # loss:2.31e-02, loss_r:5.81e-04, loss_i:5.32e-04, loss_b:2.08e-02, loss_b_t:1.20e-03
+Iter #   6500/40000	loss:1.26e-01, loss_r:5.17e-04, loss_i:4.47e-04 , loss_b:1.53e-02, loss_b_t:1.43e-02  Valid # loss:3.46e-02, loss_r:5.46e-04, loss_i:4.26e-04, loss_b:1.53e-02, loss_b_t:1.84e-02
+Iter #   7000/40000	loss:1.24e-01, loss_r:4.94e-04, loss_i:4.22e-04 , loss_b:1.12e-02, loss_b_t:2.15e-02  Valid # loss:5.19e-02, loss_r:6.06e-04, loss_i:3.99e-04, loss_b:1.19e-02, loss_b_t:3.90e-02
+Iter #   7500/40000	loss:7.42e-02, loss_r:3.68e-04, loss_i:2.80e-04 , loss_b:9.05e-03, loss_b_t:3.79e-04  Valid # loss:1.10e-02, loss_r:3.65e-04, loss_i:2.92e-04, loss_b:8.75e-03, loss_b_t:1.56e-03
+Iter #   8000/40000	loss:6.45e-02, loss_r:2.96e-04, loss_i:2.23e-04 , loss_b:8.06e-03, loss_b_t:4.57e-03  Valid # loss:1.88e-02, loss_r:3.12e-04, loss_i:2.38e-04, loss_b:8.68e-03, loss_b_t:9.60e-03
+Iter #   8500/40000	loss:4.86e-02, loss_r:2.48e-04, loss_i:1.89e-04 , loss_b:4.87e-03, loss_b_t:9.03e-05  Valid # loss:7.62e-03, loss_r:2.44e-04, loss_i:1.89e-04, loss_b:5.36e-03, loss_b_t:1.83e-03
+Iter #   9000/40000	loss:6.56e-02, loss_r:2.37e-04, loss_i:1.72e-04 , loss_b:6.20e-03, loss_b_t:1.85e-02  Valid # loss:1.33e-02, loss_r:2.46e-04, loss_i:1.63e-04, loss_b:4.38e-03, loss_b_t:8.50e-03
+Iter #   9500/40000	loss:4.47e-02, loss_r:1.82e-04, loss_i:1.27e-04 , loss_b:2.45e-03, loss_b_t:1.13e-02  Valid # loss:2.08e-02, loss_r:2.05e-04, loss_i:1.20e-04, loss_b:3.30e-03, loss_b_t:1.71e-02
+Iter #  10000/40000	loss:2.72e+00, loss_r:2.50e-03, loss_i:9.54e-03 , loss_b:1.50e+00, loss_b_t:2.21e-02  Valid # loss:1.53e+00, loss_r:2.50e-03, loss_i:9.52e-03, loss_b:1.50e+00, loss_b_t:2.20e-02
+Iter #  10500/40000	loss:7.91e-01, loss_r:2.47e-03, loss_i:2.14e-03 , loss_b:3.24e-01, loss_b_t:5.75e-03  Valid # loss:3.34e-01, loss_r:2.47e-03, loss_i:2.14e-03, loss_b:3.23e-01, loss_b_t:5.73e-03
+Iter #  11000/40000	loss:4.74e-01, loss_r:1.74e-03, loss_i:1.35e-03 , loss_b:1.64e-01, loss_b_t:2.50e-03  Valid # loss:1.75e-01, loss_r:1.86e-03, loss_i:1.36e-03, loss_b:1.69e-01, loss_b_t:3.37e-03
+Iter #  11500/40000	loss:3.03e-01, loss_r:1.14e-03, loss_i:1.16e-03 , loss_b:6.97e-02, loss_b_t:3.21e-03  Valid # loss:7.33e-02, loss_r:1.15e-03, loss_i:1.15e-03, loss_b:6.91e-02, loss_b_t:1.86e-03
+Iter #  12000/40000	loss:1.86e-01, loss_r:7.24e-04, loss_i:8.80e-04 , loss_b:2.46e-02, loss_b_t:1.11e-03  Valid # loss:2.80e-02, loss_r:7.17e-04, loss_i:8.76e-04, loss_b:2.47e-02, loss_b_t:1.77e-03
+Iter #  12500/40000	loss:4.82e-01, loss_r:1.38e-03, loss_i:8.78e-04 , loss_b:6.62e-03, loss_b_t:2.50e-01  Valid # loss:1.48e-01, loss_r:1.16e-03, loss_i:1.19e-03, loss_b:1.57e-02, loss_b_t:1.30e-01
+Iter #  13000/40000	loss:9.74e-02, loss_r:4.18e-04, loss_i:4.84e-04 , loss_b:6.03e-03, loss_b_t:1.13e-03  Valid # loss:7.57e-03, loss_r:4.19e-04, loss_i:4.86e-04, loss_b:6.14e-03, loss_b_t:5.32e-04
+Iter #  13500/40000	loss:8.00e-02, loss_r:3.67e-04, loss_i:3.85e-04 , loss_b:4.17e-03, loss_b_t:7.20e-04  Valid # loss:5.37e-03, loss_r:3.67e-04, loss_i:3.86e-04, loss_b:4.22e-03, loss_b_t:4.02e-04
+Iter #  14000/40000	loss:1.03e-01, loss_r:3.58e-04, loss_i:3.57e-04 , loss_b:3.94e-03, loss_b_t:2.78e-02  Valid # loss:4.80e-02, loss_r:4.00e-04, loss_i:3.33e-04, loss_b:2.65e-03, loss_b_t:4.47e-02
+Iter #  14500/40000	loss:3.96e-01, loss_r:5.37e-04, loss_i:4.85e-04 , loss_b:4.06e-03, loss_b_t:2.89e-01  Valid # loss:2.35e-01, loss_r:8.48e-04, loss_i:4.68e-04, loss_b:1.39e-03, loss_b_t:2.32e-01
+Iter #  15000/40000	loss:6.44e-02, loss_r:2.91e-04, loss_i:2.65e-04 , loss_b:2.59e-03, loss_b_t:6.20e-03  Valid # loss:1.27e-02, loss_r:2.84e-04, loss_i:2.78e-04, loss_b:3.69e-03, loss_b_t:8.43e-03
+Iter #  15500/40000	loss:6.61e-02, loss_r:2.78e-04, loss_i:2.38e-04 , loss_b:2.04e-03, loss_b_t:1.25e-02  Valid # loss:1.39e-02, loss_r:2.67e-04, loss_i:2.52e-04, loss_b:2.99e-03, loss_b_t:1.04e-02
+Iter #  16000/40000	loss:5.05e-02, loss_r:2.48e-04, loss_i:2.19e-04 , loss_b:2.67e-03, loss_b_t:1.15e-03  Valid # loss:3.70e-03, loss_r:2.50e-04, loss_i:2.14e-04, loss_b:2.21e-03, loss_b_t:1.03e-03
+Iter #  16500/40000	loss:4.67e-02, loss_r:2.34e-04, loss_i:1.94e-04 , loss_b:2.07e-03, loss_b_t:1.79e-03  Valid # loss:3.99e-03, loss_r:2.29e-04, loss_i:1.95e-04, loss_b:2.45e-03, loss_b_t:1.11e-03
+Iter #  17000/40000	loss:1.13e-01, loss_r:2.77e-04, loss_i:1.99e-04 , loss_b:1.40e-03, loss_b_t:6.44e-02  Valid # loss:9.77e-02, loss_r:2.80e-04, loss_i:2.52e-04, loss_b:3.00e-03, loss_b_t:9.42e-02
+Iter #  17500/40000	loss:4.46e-02, loss_r:2.05e-04, loss_i:1.70e-04 , loss_b:2.23e-03, loss_b_t:4.87e-03  Valid # loss:9.70e-03, loss_r:2.01e-04, loss_i:1.79e-04, loss_b:2.74e-03, loss_b_t:6.58e-03
+Iter #  18000/40000	loss:4.60e-02, loss_r:2.02e-04, loss_i:1.63e-04 , loss_b:1.57e-03, loss_b_t:7.94e-03  Valid # loss:9.99e-03, loss_r:1.92e-04, loss_i:1.70e-04, loss_b:2.14e-03, loss_b_t:7.49e-03
+Iter #  18500/40000	loss:3.65e-02, loss_r:1.82e-04, loss_i:1.57e-04 , loss_b:1.66e-03, loss_b_t:9.09e-04  Valid # loss:3.52e-03, loss_r:1.88e-04, loss_i:1.53e-04, loss_b:1.37e-03, loss_b_t:1.81e-03
+Iter #  19000/40000	loss:3.36e-02, loss_r:1.68e-04, loss_i:1.46e-04 , loss_b:2.02e-03, loss_b_t:2.53e-04  Valid # loss:2.47e-03, loss_r:1.68e-04, loss_i:1.44e-04, loss_b:2.03e-03, loss_b_t:1.31e-04
+Iter #  19500/40000	loss:3.20e-02, loss_r:1.61e-04, loss_i:1.36e-04 , loss_b:1.86e-03, loss_b_t:3.96e-04  Valid # loss:3.03e-03, loss_r:1.64e-04, loss_i:1.34e-04, loss_b:1.68e-03, loss_b_t:1.05e-03
+Iter #  20000/40000	loss:3.34e-02, loss_r:1.63e-04, loss_i:1.37e-04 , loss_b:1.94e-03, loss_b_t:1.45e-03  Valid # loss:3.33e-03, loss_r:2.07e-04, loss_i:1.40e-04, loss_b:1.44e-03, loss_b_t:1.55e-03
+Iter #  20500/40000	loss:2.94e-02, loss_r:1.49e-04, loss_i:1.18e-04 , loss_b:1.36e-03, loss_b_t:1.33e-03  Valid # loss:2.89e-03, loss_r:1.46e-04, loss_i:1.20e-04, loss_b:1.57e-03, loss_b_t:1.05e-03
+Iter #  21000/40000	loss:6.59e-02, loss_r:2.03e-04, loss_i:1.40e-04 , loss_b:1.03e-03, loss_b_t:3.06e-02  Valid # loss:4.97e-03, loss_r:1.51e-04, loss_i:1.31e-04, loss_b:2.07e-03, loss_b_t:2.61e-03
+Iter #  21500/40000	loss:2.69e-02, loss_r:1.34e-04, loss_i:1.14e-04 , loss_b:1.40e-03, loss_b_t:5.99e-04  Valid # loss:1.96e-03, loss_r:1.34e-04, loss_i:1.19e-04, loss_b:1.43e-03, loss_b_t:2.74e-04
+Iter #  22000/40000	loss:2.77e-02, loss_r:1.28e-04, loss_i:1.04e-04 , loss_b:1.14e-03, loss_b_t:3.33e-03  Valid # loss:6.27e-03, loss_r:1.25e-04, loss_i:1.09e-04, loss_b:1.43e-03, loss_b_t:4.61e-03
+Iter #  22500/40000	loss:2.48e-02, loss_r:1.32e-04, loss_i:1.03e-04 , loss_b:1.17e-03, loss_b_t:1.47e-04  Valid # loss:1.76e-03, loss_r:1.20e-04, loss_i:1.05e-04, loss_b:1.13e-03, loss_b_t:4.00e-04
+Iter #  23000/40000	loss:2.79e-02, loss_r:1.22e-04, loss_i:9.68e-05 , loss_b:7.95e-04, loss_b_t:5.28e-03  Valid # loss:9.14e-03, loss_r:1.18e-04, loss_i:1.02e-04, loss_b:1.21e-03, loss_b_t:7.70e-03
+Iter #  23500/40000	loss:3.08e-02, loss_r:1.17e-04, loss_i:9.47e-05 , loss_b:6.06e-04, loss_b_t:9.04e-03  Valid # loss:1.59e-02, loss_r:1.13e-04, loss_i:9.90e-05, loss_b:1.16e-03, loss_b_t:1.45e-02
+Iter #  24000/40000	loss:2.08e-02, loss_r:1.03e-04, loss_i:8.97e-05 , loss_b:1.00e-03, loss_b_t:4.95e-04  Valid # loss:1.91e-03, loss_r:1.04e-04, loss_i:9.18e-05, loss_b:8.73e-04, loss_b_t:8.46e-04
+Iter #  24500/40000	loss:1.88e-02, loss_r:9.71e-05, loss_i:8.12e-05 , loss_b:9.38e-04, loss_b_t:5.44e-05  Valid # loss:1.37e-03, loss_r:9.56e-05, loss_i:8.21e-05, loss_b:9.42e-04, loss_b_t:2.46e-04
+Iter #  25000/40000	loss:1.90e-02, loss_r:9.08e-05, loss_i:7.88e-05 , loss_b:8.85e-04, loss_b_t:1.18e-03  Valid # loss:2.08e-03, loss_r:9.11e-05, loss_i:7.82e-05, loss_b:7.84e-04, loss_b_t:1.13e-03
+Iter #  25500/40000	loss:1.13e-01, loss_r:1.51e-04, loss_i:1.27e-04 , loss_b:1.66e-03, loss_b_t:8.32e-02  Valid # loss:2.36e-02, loss_r:1.60e-04, loss_i:1.00e-04, loss_b:6.44e-04, loss_b_t:2.27e-02
+Iter #  26000/40000	loss:1.80e-02, loss_r:8.70e-05, loss_i:7.19e-05 , loss_b:6.67e-04, loss_b_t:1.40e-03  Valid # loss:2.19e-03, loss_r:8.31e-05, loss_i:7.38e-05, loss_b:5.92e-04, loss_b_t:1.44e-03
+Iter #  26500/40000	loss:1.54e-02, loss_r:7.79e-05, loss_i:6.91e-05 , loss_b:6.70e-04, loss_b_t:3.39e-05  Valid # loss:8.92e-04, loss_r:7.83e-05, loss_i:6.87e-05, loss_b:6.47e-04, loss_b_t:9.82e-05
+Iter #  27000/40000	loss:1.59e-02, loss_r:7.48e-05, loss_i:6.64e-05 , loss_b:5.86e-04, loss_b_t:1.21e-03  Valid # loss:1.64e-03, loss_r:7.49e-05, loss_i:6.67e-05, loss_b:6.91e-04, loss_b_t:8.09e-04
+Iter #  27500/40000	loss:1.40e-02, loss_r:7.11e-05, loss_i:6.26e-05 , loss_b:5.50e-04, loss_b_t:9.30e-05  Valid # loss:8.08e-04, loss_r:7.10e-05, loss_i:6.28e-05, loss_b:5.63e-04, loss_b_t:1.12e-04
+Iter #  28000/40000	loss:1.45e-02, loss_r:6.88e-05, loss_i:6.26e-05 , loss_b:5.34e-04, loss_b_t:7.86e-04  Valid # loss:2.02e-03, loss_r:6.85e-05, loss_i:6.26e-05, loss_b:4.43e-04, loss_b_t:1.45e-03
+Iter #  28500/40000	loss:1.43e-02, loss_r:6.47e-05, loss_i:5.59e-05 , loss_b:5.14e-04, loss_b_t:1.75e-03  Valid # loss:2.03e-03, loss_r:6.36e-05, loss_i:5.67e-05, loss_b:6.26e-04, loss_b_t:1.28e-03
+Iter #  29000/40000	loss:1.23e-02, loss_r:6.26e-05, loss_i:5.56e-05 , loss_b:4.39e-04, loss_b_t:7.71e-05  Valid # loss:5.70e-04, loss_r:6.14e-05, loss_i:5.58e-05, loss_b:4.31e-04, loss_b_t:2.18e-05
+Iter #  29500/40000	loss:1.19e-02, loss_r:6.19e-05, loss_i:5.29e-05 , loss_b:3.63e-04, loss_b_t:3.63e-05  Valid # loss:5.86e-04, loss_r:6.02e-05, loss_i:5.45e-05, loss_b:4.07e-04, loss_b_t:6.47e-05
+Iter #  30000/40000	loss:1.24e-02, loss_r:5.48e-05, loss_i:5.08e-05 , loss_b:6.26e-04, loss_b_t:1.24e-03  Valid # loss:1.47e-03, loss_r:5.53e-05, loss_i:5.02e-05, loss_b:5.19e-04, loss_b_t:8.46e-04
+Iter #  30500/40000	loss:1.25e-02, loss_r:5.46e-05, loss_i:4.82e-05 , loss_b:3.67e-04, loss_b_t:1.82e-03  Valid # loss:2.54e-03, loss_r:5.35e-05, loss_i:4.90e-05, loss_b:4.65e-04, loss_b_t:1.97e-03
+Iter #  31000/40000	loss:1.20e-02, loss_r:5.16e-05, loss_i:4.69e-05 , loss_b:3.72e-04, loss_b_t:1.73e-03  Valid # loss:2.85e-03, loss_r:5.13e-05, loss_i:4.70e-05, loss_b:4.53e-04, loss_b_t:2.30e-03
+Iter #  31500/40000	loss:1.16e-02, loss_r:5.04e-05, loss_i:4.82e-05 , loss_b:5.32e-04, loss_b_t:1.17e-03  Valid # loss:6.28e-04, loss_r:4.91e-05, loss_i:4.62e-05, loss_b:5.03e-04, loss_b_t:2.99e-05
+Iter #  32000/40000	loss:1.31e-02, loss_r:4.89e-05, loss_i:4.42e-05 , loss_b:4.00e-04, loss_b_t:3.38e-03  Valid # loss:5.08e-03, loss_r:5.05e-05, loss_i:4.35e-05, loss_b:2.56e-04, loss_b_t:4.73e-03
+Iter #  32500/40000	loss:1.21e-02, loss_r:4.81e-05, loss_i:4.03e-05 , loss_b:2.40e-04, loss_b_t:3.03e-03  Valid # loss:4.09e-03, loss_r:4.70e-05, loss_i:4.14e-05, loss_b:3.44e-04, loss_b_t:3.66e-03
+Iter #  33000/40000	loss:9.32e-03, loss_r:4.52e-05, loss_i:3.93e-05 , loss_b:2.58e-04, loss_b_t:6.11e-04  Valid # loss:8.86e-04, loss_r:4.47e-05, loss_i:3.96e-05, loss_b:2.28e-04, loss_b_t:5.74e-04
+Iter #  33500/40000	loss:1.04e-02, loss_r:4.25e-05, loss_i:4.04e-05 , loss_b:4.49e-04, loss_b_t:1.62e-03  Valid # loss:7.17e-04, loss_r:4.43e-05, loss_i:3.94e-05, loss_b:3.48e-04, loss_b_t:2.86e-04
+Iter #  34000/40000	loss:9.73e-03, loss_r:4.19e-05, loss_i:3.84e-05 , loss_b:4.09e-04, loss_b_t:1.29e-03  Valid # loss:1.65e-03, loss_r:4.32e-05, loss_i:3.75e-05, loss_b:3.05e-04, loss_b_t:1.26e-03
+Iter #  34500/40000	loss:3.00e-02, loss_r:5.40e-05, loss_i:4.04e-05 , loss_b:1.43e-04, loss_b_t:2.04e-02  Valid # loss:2.41e-02, loss_r:5.34e-05, loss_i:4.44e-05, loss_b:4.35e-04, loss_b_t:2.36e-02
+Iter #  35000/40000	loss:1.10e-02, loss_r:4.12e-05, loss_i:3.66e-05 , loss_b:3.55e-04, loss_b_t:2.91e-03  Valid # loss:2.24e-03, loss_r:3.99e-05, loss_i:3.82e-05, loss_b:4.86e-04, loss_b_t:1.67e-03
+Iter #  35500/40000	loss:7.50e-03, loss_r:3.85e-05, loss_i:3.42e-05 , loss_b:1.83e-04, loss_b_t:3.85e-05  Valid # loss:3.09e-04, loss_r:3.90e-05, loss_i:3.35e-05, loss_b:1.81e-04, loss_b_t:5.52e-05
+Iter #  36000/40000	loss:7.26e-03, loss_r:3.67e-05, loss_i:3.29e-05 , loss_b:2.77e-04, loss_b_t:2.08e-05  Valid # loss:4.63e-04, loss_r:3.64e-05, loss_i:3.30e-05, loss_b:2.63e-04, loss_b_t:1.30e-04
+Iter #  36500/40000	loss:6.93e-03, loss_r:3.65e-05, loss_i:3.08e-05 , loss_b:1.83e-04, loss_b_t:2.10e-05  Valid # loss:2.71e-04, loss_r:3.65e-05, loss_i:3.08e-05, loss_b:1.82e-04, loss_b_t:2.15e-05
+Iter #  37000/40000	loss:8.80e-03, loss_r:3.59e-05, loss_i:3.08e-05 , loss_b:2.11e-04, loss_b_t:1.93e-03  Valid # loss:2.73e-03, loss_r:3.69e-05, loss_i:3.05e-05, loss_b:1.44e-04, loss_b_t:2.52e-03
+Iter #  37500/40000	loss:1.42e-02, loss_r:3.66e-05, loss_i:3.25e-05 , loss_b:4.24e-04, loss_b_t:6.87e-03  Valid # loss:8.66e-03, loss_r:3.92e-05, loss_i:3.36e-05, loss_b:3.18e-04, loss_b_t:8.27e-03
+Iter #  38000/40000	loss:9.68e-03, loss_r:3.45e-05, loss_i:3.33e-05 , loss_b:5.08e-04, loss_b_t:2.39e-03  Valid # loss:5.38e-03, loss_r:3.47e-05, loss_i:3.25e-05, loss_b:6.25e-04, loss_b_t:4.69e-03
+Iter #  38500/40000	loss:6.37e-03, loss_r:3.22e-05, loss_i:2.87e-05 , loss_b:2.14e-04, loss_b_t:6.20e-05  Valid # loss:3.57e-04, loss_r:3.21e-05, loss_i:2.87e-05, loss_b:2.20e-04, loss_b_t:7.66e-05
+Iter #  39000/40000	loss:9.07e-03, loss_r:3.42e-05, loss_i:2.94e-05 , loss_b:1.91e-04, loss_b_t:2.52e-03  Valid # loss:2.43e-03, loss_r:3.51e-05, loss_i:2.85e-05, loss_b:1.23e-04, loss_b_t:2.25e-03
+Iter #  39500/40000	loss:6.00e-03, loss_r:3.15e-05, loss_i:2.67e-05 , loss_b:1.32e-04, loss_b_t:4.88e-05  Valid # loss:2.41e-04, loss_r:3.16e-05, loss_i:2.67e-05, loss_b:1.25e-04, loss_b_t:5.75e-05
+Iter #  40000/40000	loss:1.27e-02, loss_r:3.07e-05, loss_i:2.93e-05 , loss_b:2.58e-04, loss_b_t:6.45e-03  Valid # loss:3.48e-03, loss_r:3.03e-05, loss_i:2.89e-05, loss_b:3.81e-04, loss_b_t:3.03e-03
+Iter #    500/40000	loss:3.46e+00, loss_r:3.75e-03, loss_i:2.25e-02 , loss_b:8.34e-01, loss_b_t:7.86e-04  Valid # loss:8.58e-01, loss_r:3.76e-03, loss_i:2.25e-02, loss_b:8.30e-01, loss_b_t:1.30e-03
+Iter #   1000/40000	loss:4.85e-01, loss_r:1.99e-03, loss_i:1.14e-03 , loss_b:1.67e-01, loss_b_t:5.10e-03  Valid # loss:1.83e-01, loss_r:1.96e-03, loss_i:1.08e-03, loss_b:1.75e-01, loss_b_t:5.13e-03
+Iter #   1500/40000	loss:3.60e-01, loss_r:1.93e-03, loss_i:6.21e-04 , loss_b:1.04e-01, loss_b_t:7.80e-04  Valid # loss:1.07e-01, loss_r:1.93e-03, loss_i:6.21e-04, loss_b:1.04e-01, loss_b_t:7.79e-04
+Iter #   2000/40000	loss:3.35e-01, loss_r:1.95e-03, loss_i:5.11e-04 , loss_b:8.86e-02, loss_b_t:4.51e-04  Valid # loss:9.14e-02, loss_r:1.95e-03, loss_i:5.12e-04, loss_b:8.85e-02, loss_b_t:4.50e-04
+Iter #   2500/40000	loss:3.74e-01, loss_r:1.90e-03, loss_i:6.26e-04 , loss_b:1.21e-01, loss_b_t:8.38e-04  Valid # loss:1.18e-01, loss_r:1.82e-03, loss_i:6.40e-04, loss_b:1.15e-01, loss_b_t:7.13e-04
+Iter #   3000/40000	loss:3.16e-01, loss_r:1.88e-03, loss_i:4.62e-04 , loss_b:8.06e-02, loss_b_t:1.03e-03  Valid # loss:8.39e-02, loss_r:1.88e-03, loss_i:4.62e-04, loss_b:8.05e-02, loss_b_t:1.03e-03
+Iter #   3500/40000	loss:3.36e-01, loss_r:1.65e-03, loss_i:7.37e-04 , loss_b:9.49e-02, loss_b_t:2.16e-03  Valid # loss:9.13e-02, loss_r:1.66e-03, loss_i:9.07e-04, loss_b:8.67e-02, loss_b_t:2.05e-03
+Iter #   4000/40000	loss:3.03e-01, loss_r:1.81e-03, loss_i:4.43e-04 , loss_b:7.50e-02, loss_b_t:2.51e-03  Valid # loss:7.97e-02, loss_r:1.81e-03, loss_i:4.43e-04, loss_b:7.50e-02, loss_b_t:2.51e-03
+Iter #   4500/40000	loss:3.02e-01, loss_r:1.77e-03, loss_i:4.34e-04 , loss_b:7.79e-02, loss_b_t:3.02e-03  Valid # loss:8.03e-02, loss_r:1.73e-03, loss_i:4.97e-04, loss_b:7.49e-02, loss_b_t:3.20e-03
+Iter #   5000/40000	loss:2.89e-01, loss_r:1.79e-03, loss_i:4.00e-04 , loss_b:6.79e-02, loss_b_t:2.78e-03  Valid # loss:7.21e-02, loss_r:1.77e-03, loss_i:4.39e-04, loss_b:6.72e-02, loss_b_t:2.78e-03
+Iter #   5500/40000	loss:2.81e-01, loss_r:1.72e-03, loss_i:4.10e-04 , loss_b:6.62e-02, loss_b_t:2.47e-03  Valid # loss:7.07e-02, loss_r:1.72e-03, loss_i:4.10e-04, loss_b:6.61e-02, loss_b_t:2.47e-03
+Iter #   6000/40000	loss:2.73e-01, loss_r:1.63e-03, loss_i:4.29e-04 , loss_b:6.49e-02, loss_b_t:1.99e-03  Valid # loss:7.12e-02, loss_r:1.62e-03, loss_i:4.11e-04, loss_b:6.72e-02, loss_b_t:1.97e-03
+Iter #   6500/40000	loss:2.54e-01, loss_r:1.57e-03, loss_i:3.66e-04 , loss_b:5.98e-02, loss_b_t:1.05e-03  Valid # loss:5.64e-02, loss_r:1.55e-03, loss_i:4.50e-04, loss_b:5.33e-02, loss_b_t:1.08e-03
+Iter #   7000/40000	loss:2.29e-01, loss_r:1.37e-03, loss_i:4.36e-04 , loss_b:4.81e-02, loss_b_t:3.20e-04  Valid # loss:5.71e-02, loss_r:1.37e-03, loss_i:3.58e-04, loss_b:5.51e-02, loss_b_t:2.77e-04
+Iter #   7500/40000	loss:1.89e-01, loss_r:1.06e-03, loss_i:3.85e-04 , loss_b:4.24e-02, loss_b_t:2.30e-03  Valid # loss:4.34e-02, loss_r:1.01e-03, loss_i:4.57e-04, loss_b:3.92e-02, loss_b_t:2.67e-03
+Iter #   8000/40000	loss:1.44e-01, loss_r:7.01e-04, loss_i:4.09e-04 , loss_b:3.15e-02, loss_b_t:1.66e-03  Valid # loss:3.86e-02, loss_r:7.16e-04, loss_i:3.78e-04, loss_b:3.52e-02, loss_b_t:2.32e-03
+Iter #   8500/40000	loss:1.14e-01, loss_r:5.82e-04, loss_i:3.26e-04 , loss_b:2.29e-02, loss_b_t:3.12e-04  Valid # loss:2.41e-02, loss_r:5.82e-04, loss_i:3.26e-04, loss_b:2.29e-02, loss_b_t:3.09e-04
+Iter #   9000/40000	loss:1.67e-01, loss_r:5.74e-04, loss_i:6.65e-04 , loss_b:1.24e-02, loss_b_t:3.04e-02  Valid # loss:7.14e-02, loss_r:6.42e-04, loss_i:6.79e-04, loss_b:2.74e-02, loss_b_t:4.27e-02
+Iter #   9500/40000	loss:8.66e-02, loss_r:3.94e-04, loss_i:2.66e-04 , loss_b:1.53e-02, loss_b_t:5.28e-03  Valid # loss:1.61e-02, loss_r:3.95e-04, loss_i:2.70e-04, loss_b:1.19e-02, loss_b_t:3.50e-03
+Iter #  10000/40000	loss:6.40e-02, loss_r:3.20e-04, loss_i:2.59e-04 , loss_b:5.67e-03, loss_b_t:4.14e-04  Valid # loss:1.46e-02, loss_r:3.24e-04, loss_i:2.12e-04, loss_b:8.11e-03, loss_b_t:5.92e-03
+Iter #  10500/40000	loss:7.47e-02, loss_r:2.88e-04, loss_i:2.55e-04 , loss_b:3.92e-03, loss_b_t:1.65e-02  Valid # loss:3.27e-02, loss_r:2.83e-04, loss_i:2.36e-04, loss_b:1.10e-02, loss_b_t:2.12e-02
+Iter #  11000/40000	loss:6.99e-02, loss_r:3.06e-04, loss_i:1.76e-04 , loss_b:1.20e-02, loss_b_t:9.61e-03  Valid # loss:1.51e-02, loss_r:3.13e-04, loss_i:3.47e-04, loss_b:1.48e-03, loss_b_t:1.30e-02
+Iter #  11500/40000	loss:4.62e-02, loss_r:1.95e-04, loss_i:1.30e-04 , loss_b:5.81e-03, loss_b_t:7.87e-03  Valid # loss:1.06e-02, loss_r:2.01e-04, loss_i:1.64e-04, loss_b:2.13e-03, loss_b_t:8.16e-03
+Iter #  12000/40000	loss:4.71e-02, loss_r:1.88e-04, loss_i:1.76e-04 , loss_b:1.36e-03, loss_b_t:9.37e-03  Valid # loss:1.34e-02, loss_r:1.70e-04, loss_i:1.11e-04, loss_b:2.10e-03, loss_b_t:1.10e-02
+Iter #  12500/40000	loss:3.29e-02, loss_r:1.48e-04, loss_i:1.17e-04 , loss_b:1.04e-03, loss_b_t:5.39e-03  Valid # loss:9.43e-03, loss_r:1.44e-04, loss_i:9.83e-05, loss_b:3.57e-03, loss_b_t:5.62e-03
+Iter #  13000/40000	loss:3.14e-02, loss_r:1.35e-04, loss_i:1.00e-04 , loss_b:2.77e-03, loss_b_t:5.10e-03  Valid # loss:5.73e-03, loss_r:1.38e-04, loss_i:1.06e-04, loss_b:7.76e-04, loss_b_t:4.71e-03
+Iter #  13500/40000	loss:4.28e-02, loss_r:1.31e-04, loss_i:9.99e-05 , loss_b:4.20e-03, loss_b_t:1.55e-02  Valid # loss:6.37e-03, loss_r:1.32e-04, loss_i:1.31e-04, loss_b:5.82e-04, loss_b_t:5.52e-03
+Iter #  14000/40000	loss:2.83e-02, loss_r:1.11e-04, loss_i:8.46e-05 , loss_b:2.53e-03, loss_b_t:6.24e-03  Valid # loss:6.11e-03, loss_r:1.13e-04, loss_i:1.07e-04, loss_b:3.66e-04, loss_b_t:5.52e-03
+Iter #  14500/40000	loss:5.37e-02, loss_r:1.18e-04, loss_i:2.05e-04 , loss_b:1.13e-03, loss_b_t:2.03e-02  Valid # loss:3.71e-02, loss_r:1.45e-04, loss_i:2.05e-04, loss_b:5.63e-03, loss_b_t:3.11e-02
+Iter #  15000/40000	loss:1.82e-02, loss_r:9.28e-05, loss_i:6.27e-05 , loss_b:1.20e-03, loss_b_t:1.46e-03  Valid # loss:4.92e-03, loss_r:9.11e-05, loss_i:8.30e-05, loss_b:1.37e-04, loss_b_t:4.60e-03
+Iter #  15500/40000	loss:2.97e-02, loss_r:9.24e-05, loss_i:9.24e-05 , loss_b:1.78e-03, loss_b_t:9.39e-03  Valid # loss:4.67e-03, loss_r:1.43e-04, loss_i:1.24e-04, loss_b:4.06e-04, loss_b_t:4.00e-03
+Iter #  16000/40000	loss:2.90e-02, loss_r:1.21e-04, loss_i:1.23e-04 , loss_b:2.35e-04, loss_b_t:4.37e-03  Valid # loss:7.34e-03, loss_r:8.94e-05, loss_i:8.77e-05, loss_b:1.34e-03, loss_b_t:5.83e-03
+Iter #  16500/40000	loss:1.37e-02, loss_r:6.45e-05, loss_i:4.78e-05 , loss_b:8.23e-04, loss_b_t:1.63e-03  Valid # loss:2.24e-03, loss_r:6.56e-05, loss_i:5.62e-05, loss_b:1.87e-04, loss_b_t:1.93e-03
+Iter #  17000/40000	loss:9.50e-03, loss_r:5.50e-05, loss_i:3.45e-05 , loss_b:4.60e-04, loss_b_t:9.73e-05  Valid # loss:3.70e-04, loss_r:5.40e-05, loss_i:3.63e-05, loss_b:1.42e-04, loss_b_t:1.39e-04
+Iter #  17500/40000	loss:8.38e-01, loss_r:1.16e-03, loss_i:3.56e-03 , loss_b:3.58e-01, loss_b_t:7.07e-03  Valid # loss:3.67e-01, loss_r:1.16e-03, loss_i:3.54e-03, loss_b:3.55e-01, loss_b_t:6.97e-03
+Iter #  18000/40000	loss:2.36e-01, loss_r:9.10e-04, loss_i:8.65e-04 , loss_b:5.59e-02, loss_b_t:2.76e-03  Valid # loss:6.03e-02, loss_r:9.09e-04, loss_i:8.63e-04, loss_b:5.58e-02, loss_b_t:2.76e-03
+Iter #  18500/40000	loss:1.47e-01, loss_r:6.85e-04, loss_i:4.90e-04 , loss_b:2.80e-02, loss_b_t:1.90e-03  Valid # loss:3.10e-02, loss_r:6.84e-04, loss_i:4.89e-04, loss_b:2.80e-02, loss_b_t:1.90e-03
+Iter #  19000/40000	loss:1.07e-01, loss_r:5.49e-04, loss_i:3.41e-04 , loss_b:1.67e-02, loss_b_t:1.23e-03  Valid # loss:1.87e-02, loss_r:5.49e-04, loss_i:3.41e-04, loss_b:1.66e-02, loss_b_t:1.20e-03
+Iter #  19500/40000	loss:8.70e-02, loss_r:4.87e-04, loss_i:2.59e-04 , loss_b:1.14e-02, loss_b_t:9.65e-04  Valid # loss:1.34e-02, loss_r:4.85e-04, loss_i:2.59e-04, loss_b:1.14e-02, loss_b_t:1.22e-03
+Iter #  20000/40000	loss:7.55e-02, loss_r:4.34e-04, loss_i:2.31e-04 , loss_b:8.23e-03, loss_b_t:7.32e-04  Valid # loss:1.32e-02, loss_r:4.31e-04, loss_i:2.21e-04, loss_b:8.35e-03, loss_b_t:4.16e-03
+Iter #  20500/40000	loss:8.23e-02, loss_r:4.27e-04, loss_i:1.93e-04 , loss_b:8.47e-03, loss_b_t:1.19e-02  Valid # loss:3.44e-02, loss_r:4.20e-04, loss_i:2.20e-04, loss_b:5.83e-03, loss_b_t:2.79e-02
+Iter #  21000/40000	loss:7.52e-02, loss_r:4.23e-04, loss_i:2.15e-04 , loss_b:6.50e-03, loss_b_t:4.82e-03  Valid # loss:9.56e-03, loss_r:3.89e-04, loss_i:1.99e-04, loss_b:5.07e-03, loss_b_t:3.90e-03
+Iter #  21500/40000	loss:4.87e-02, loss_r:3.21e-04, loss_i:1.16e-04 , loss_b:4.67e-03, loss_b_t:3.11e-04  Valid # loss:5.27e-03, loss_r:3.20e-04, loss_i:1.18e-04, loss_b:4.51e-03, loss_b_t:3.23e-04
+Iter #  22000/40000	loss:4.25e-02, loss_r:2.86e-04, loss_i:1.00e-04 , loss_b:3.65e-03, loss_b_t:2.74e-04  Valid # loss:4.27e-03, loss_r:2.86e-04, loss_i:9.94e-05, loss_b:3.65e-03, loss_b_t:2.42e-04
+Iter #  22500/40000	loss:3.70e-02, loss_r:2.51e-04, loss_i:8.75e-05 , loss_b:2.87e-03, loss_b_t:2.66e-04  Valid # loss:3.45e-03, loss_r:2.51e-04, loss_i:8.67e-05, loss_b:2.94e-03, loss_b_t:1.71e-04
+Iter #  23000/40000	loss:3.18e-02, loss_r:2.20e-04, loss_i:7.46e-05 , loss_b:2.09e-03, loss_b_t:2.31e-04  Valid # loss:2.97e-03, loss_r:2.19e-04, loss_i:7.26e-05, loss_b:2.33e-03, loss_b_t:3.52e-04
+Iter #  23500/40000	loss:2.68e-02, loss_r:1.87e-04, loss_i:6.31e-05 , loss_b:1.74e-03, loss_b_t:7.73e-05  Valid # loss:1.99e-03, loss_r:1.87e-04, loss_i:6.37e-05, loss_b:1.67e-03, loss_b_t:7.23e-05
+Iter #  24000/40000	loss:2.23e-02, loss_r:1.56e-04, loss_i:5.41e-05 , loss_b:1.31e-03, loss_b_t:2.91e-05  Valid # loss:1.57e-03, loss_r:1.55e-04, loss_i:5.39e-05, loss_b:1.33e-03, loss_b_t:3.12e-05
+Iter #  24500/40000	loss:1.87e-02, loss_r:1.30e-04, loss_i:4.66e-05 , loss_b:9.84e-04, loss_b_t:1.73e-05  Valid # loss:1.20e-03, loss_r:1.30e-04, loss_i:4.63e-05, loss_b:1.01e-03, loss_b_t:2.05e-05
+Iter #  25000/40000	loss:2.00e-02, loss_r:1.15e-04, loss_i:4.59e-05 , loss_b:1.30e-03, loss_b_t:2.62e-03  Valid # loss:1.75e-03, loss_r:1.15e-04, loss_i:5.51e-05, loss_b:5.87e-04, loss_b_t:9.95e-04
+Iter #  25500/40000	loss:1.39e-02, loss_r:8.68e-05, loss_i:3.63e-05 , loss_b:4.14e-04, loss_b_t:1.20e-03  Valid # loss:2.40e-03, loss_r:8.61e-05, loss_i:3.30e-05, loss_b:8.03e-04, loss_b_t:1.48e-03
+Iter #  26000/40000	loss:1.98e-02, loss_r:7.34e-05, loss_i:3.76e-05 , loss_b:1.50e-04, loss_b_t:8.53e-03  Valid # loss:1.25e-02, loss_r:7.41e-05, loss_i:3.13e-05, loss_b:9.87e-04, loss_b_t:1.14e-02
+Iter #  26500/40000	loss:1.31e-02, loss_r:7.32e-05, loss_i:4.36e-05 , loss_b:5.73e-04, loss_b_t:8.30e-04  Valid # loss:1.41e-03, loss_r:7.90e-05, loss_i:5.33e-05, loss_b:1.58e-04, loss_b_t:1.11e-03
+Iter #  27000/40000	loss:8.22e-03, loss_r:5.08e-05, loss_i:2.24e-05 , loss_b:4.05e-04, loss_b_t:4.96e-04  Valid # loss:1.06e-03, loss_r:5.01e-05, loss_i:2.34e-05, loss_b:1.98e-04, loss_b_t:7.91e-04
+Iter #  27500/40000	loss:1.35e-02, loss_r:4.41e-05, loss_i:2.51e-05 , loss_b:5.09e-05, loss_b_t:6.49e-03  Valid # loss:6.53e-03, loss_r:4.50e-05, loss_i:1.90e-05, loss_b:5.48e-04, loss_b_t:5.92e-03
+Iter #  28000/40000	loss:9.70e-03, loss_r:3.86e-05, loss_i:1.64e-05 , loss_b:4.15e-04, loss_b_t:3.78e-03  Valid # loss:3.46e-03, loss_r:3.79e-05, loss_i:2.07e-05, loss_b:5.21e-05, loss_b_t:3.35e-03
+Iter #  28500/40000	loss:6.81e-03, loss_r:3.98e-05, loss_i:2.44e-05 , loss_b:1.48e-04, loss_b_t:2.42e-04  Valid # loss:5.55e-04, loss_r:4.25e-05, loss_i:2.92e-05, loss_b:1.48e-04, loss_b_t:3.36e-04
+Iter #  29000/40000	loss:4.62e-03, loss_r:2.97e-05, loss_i:1.44e-05 , loss_b:1.25e-04, loss_b_t:8.16e-05  Valid # loss:2.36e-04, loss_r:2.98e-05, loss_i:1.44e-05, loss_b:1.16e-04, loss_b_t:7.54e-05
+Iter #  29500/40000	loss:6.37e-03, loss_r:2.86e-05, loss_i:1.72e-05 , loss_b:4.69e-05, loss_b_t:1.75e-03  Valid # loss:2.52e-03, loss_r:2.96e-05, loss_i:1.62e-05, loss_b:2.26e-04, loss_b_t:2.25e-03
+Iter #  30000/40000	loss:4.62e-03, loss_r:2.49e-05, loss_i:1.18e-05 , loss_b:1.45e-04, loss_b_t:8.10e-04  Valid # loss:6.89e-04, loss_r:2.44e-05, loss_i:1.25e-05, loss_b:4.14e-05, loss_b_t:6.10e-04
+Iter #  30500/40000	loss:3.45e-03, loss_r:2.21e-05, loss_i:1.08e-05 , loss_b:7.29e-05, loss_b_t:8.98e-05  Valid # loss:2.18e-04, loss_r:2.21e-05, loss_i:1.05e-05, loss_b:9.50e-05, loss_b_t:8.99e-05
+Iter #  31000/40000	loss:3.21e-03, loss_r:2.06e-05, loss_i:1.00e-05 , loss_b:8.79e-05, loss_b_t:6.44e-05  Valid # loss:1.61e-04, loss_r:2.07e-05, loss_i:1.02e-05, loss_b:6.62e-05, loss_b_t:6.42e-05
+Iter #  31500/40000	loss:4.22e-03, loss_r:2.17e-05, loss_i:1.22e-05 , loss_b:2.22e-05, loss_b_t:8.20e-04  Valid # loss:6.28e-04, loss_r:2.11e-05, loss_i:1.16e-05, loss_b:1.38e-04, loss_b_t:4.58e-04
+Iter #  32000/40000	loss:2.76e-03, loss_r:1.79e-05, loss_i:8.29e-06 , loss_b:7.11e-05, loss_b_t:7.13e-05  Valid # loss:1.40e-04, loss_r:1.78e-05, loss_i:8.42e-06, loss_b:5.07e-05, loss_b_t:6.30e-05
+Iter #  32500/40000	loss:2.54e-03, loss_r:1.68e-05, loss_i:7.62e-06 , loss_b:4.94e-05, loss_b_t:4.68e-05  Valid # loss:1.26e-04, loss_r:1.68e-05, loss_i:7.59e-06, loss_b:5.47e-05, loss_b_t:4.74e-05
+Iter #  33000/40000	loss:2.60e-03, loss_r:1.59e-05, loss_i:7.41e-06 , loss_b:2.42e-05, loss_b_t:2.46e-04  Valid # loss:3.00e-04, loss_r:1.60e-05, loss_i:6.91e-06, loss_b:6.86e-05, loss_b_t:2.09e-04
+Iter #  33500/40000	loss:2.25e-03, loss_r:1.51e-05, loss_i:6.52e-06 , loss_b:4.60e-05, loss_b_t:4.08e-05  Valid # loss:1.01e-04, loss_r:1.51e-05, loss_i:6.55e-06, loss_b:4.01e-05, loss_b_t:3.94e-05
+Iter #  34000/40000	loss:2.13e-03, loss_r:1.44e-05, loss_i:6.10e-06 , loss_b:4.01e-05, loss_b_t:3.52e-05  Valid # loss:9.50e-05, loss_r:1.44e-05, loss_i:6.11e-06, loss_b:3.92e-05, loss_b_t:3.53e-05
+Iter #  34500/40000	loss:2.08e-03, loss_r:1.39e-05, loss_i:5.59e-06 , loss_b:5.04e-05, loss_b_t:8.00e-05  Valid # loss:9.45e-05, loss_r:1.39e-05, loss_i:5.76e-06, loss_b:3.03e-05, loss_b_t:4.46e-05
+Iter #  35000/40000	loss:1.93e-03, loss_r:1.33e-05, loss_i:5.33e-06 , loss_b:3.22e-05, loss_b_t:3.24e-05  Valid # loss:8.78e-05, loss_r:1.33e-05, loss_i:5.29e-06, loss_b:3.63e-05, loss_b_t:3.29e-05
+Iter #  35500/40000	loss:2.56e-03, loss_r:1.41e-05, loss_i:7.17e-06 , loss_b:1.60e-05, loss_b_t:4.13e-04  Valid # loss:2.84e-04, loss_r:1.31e-05, loss_i:5.17e-06, loss_b:4.63e-05, loss_b_t:2.20e-04
+Iter #  36000/40000	loss:1.79e-03, loss_r:1.25e-05, loss_i:4.76e-06 , loss_b:3.05e-05, loss_b_t:3.08e-05  Valid # loss:8.14e-05, loss_r:1.26e-05, loss_i:4.84e-06, loss_b:2.92e-05, loss_b_t:3.48e-05
+Iter #  36500/40000	loss:1.70e-03, loss_r:1.21e-05, loss_i:4.42e-06 , loss_b:2.42e-05, loss_b_t:3.01e-05  Valid # loss:8.82e-05, loss_r:1.21e-05, loss_i:4.37e-06, loss_b:3.29e-05, loss_b_t:3.89e-05
+Iter #  37000/40000	loss:1.65e-03, loss_r:1.18e-05, loss_i:4.20e-06 , loss_b:2.13e-05, loss_b_t:3.63e-05  Valid # loss:9.98e-05, loss_r:1.17e-05, loss_i:4.04e-06, loss_b:2.99e-05, loss_b_t:5.42e-05
+Iter #  37500/40000	loss:1.62e-03, loss_r:1.14e-05, loss_i:3.94e-06 , loss_b:2.50e-05, loss_b_t:5.72e-05  Valid # loss:1.99e-04, loss_r:1.15e-05, loss_i:4.36e-06, loss_b:9.17e-06, loss_b_t:1.74e-04
+Iter #  38000/40000	loss:1.68e-03, loss_r:1.12e-05, loss_i:3.59e-06 , loss_b:3.84e-05, loss_b_t:1.71e-04  Valid # loss:1.76e-04, loss_r:1.13e-05, loss_i:4.19e-06, loss_b:9.82e-06, loss_b_t:1.51e-04
+Iter #  38500/40000	loss:1.66e-03, loss_r:1.15e-05, loss_i:4.41e-06 , loss_b:1.02e-05, loss_b_t:5.84e-05  Valid # loss:7.07e-05, loss_r:1.12e-05, loss_i:3.92e-06, loss_b:2.66e-05, loss_b_t:2.89e-05
+Iter #  39000/40000	loss:1.49e-03, loss_r:1.06e-05, loss_i:3.43e-06 , loss_b:1.39e-05, loss_b_t:7.17e-05  Valid # loss:9.04e-05, loss_r:1.06e-05, loss_i:3.27e-06, loss_b:2.75e-05, loss_b_t:4.91e-05
+Iter #  39500/40000	loss:1.52e-03, loss_r:1.04e-05, loss_i:3.10e-06 , loss_b:2.92e-05, loss_b_t:1.33e-04  Valid # loss:1.98e-04, loss_r:1.04e-05, loss_i:3.36e-06, loss_b:8.24e-06, loss_b_t:1.76e-04
+Iter #  40000/40000	loss:1.74e-03, loss_r:1.02e-05, loss_i:3.33e-06 , loss_b:5.27e-06, loss_b_t:3.87e-04  Valid # loss:6.52e-04, loss_r:1.03e-05, loss_i:2.93e-06, loss_b:5.03e-05, loss_b_t:5.88e-04
+Iter #    500/40000	loss:7.78e+00, loss_r:7.04e-03, loss_i:7.07e-02 , loss_b:1.12e-02, loss_b_t:9.15e-04  Valid # loss:9.02e-02, loss_r:7.31e-03, loss_i:7.06e-02, loss_b:1.13e-02, loss_b_t:9.87e-04
+Iter #   1000/40000	loss:7.68e+00, loss_r:8.53e-03, loss_i:6.81e-02 , loss_b:1.08e-02, loss_b_t:2.02e-03  Valid # loss:8.95e-02, loss_r:8.53e-03, loss_i:6.81e-02, loss_b:1.08e-02, loss_b_t:2.03e-03
+Iter #   1500/40000	loss:7.63e+00, loss_r:8.91e-03, loss_i:6.72e-02 , loss_b:9.12e-03, loss_b_t:2.05e-03  Valid # loss:8.74e-02, loss_r:8.94e-03, loss_i:6.72e-02, loss_b:9.16e-03, loss_b_t:2.06e-03
+Iter #   2000/40000	loss:7.56e+00, loss_r:9.29e-03, loss_i:6.62e-02 , loss_b:1.07e-02, loss_b_t:4.38e-04  Valid # loss:8.66e-02, loss_r:9.29e-03, loss_i:6.62e-02, loss_b:1.07e-02, loss_b_t:4.37e-04
+Iter #   2500/40000	loss:7.50e+00, loss_r:9.74e-03, loss_i:6.51e-02 , loss_b:1.23e-02, loss_b_t:3.70e-05  Valid # loss:8.73e-02, loss_r:9.81e-03, loss_i:6.50e-02, loss_b:1.24e-02, loss_b_t:3.75e-05
+Iter #   3000/40000	loss:7.46e+00, loss_r:1.02e-02, loss_i:6.43e-02 , loss_b:1.47e-02, loss_b_t:1.34e-04  Valid # loss:8.93e-02, loss_r:1.02e-02, loss_i:6.43e-02, loss_b:1.47e-02, loss_b_t:1.35e-04
+Iter #   3500/40000	loss:7.62e+00, loss_r:6.61e-03, loss_i:6.95e-02 , loss_b:1.37e-02, loss_b_t:1.65e-04  Valid # loss:1.49e-01, loss_r:3.67e-02, loss_i:5.16e-02, loss_b:6.07e-02, loss_b_t:1.53e-04
+Iter #   4000/40000	loss:7.54e+00, loss_r:7.50e-03, loss_i:6.78e-02 , loss_b:1.06e-02, loss_b_t:4.82e-05  Valid # loss:8.57e-02, loss_r:7.47e-03, loss_i:6.80e-02, loss_b:1.01e-02, loss_b_t:6.16e-05
+Iter #   4500/40000	loss:9.36e+00, loss_r:2.56e-02, loss_i:6.75e-02 , loss_b:4.01e-02, loss_b_t:2.17e-03  Valid # loss:1.19e-01, loss_r:1.33e-02, loss_i:6.55e-02, loss_b:3.95e-02, loss_b_t:1.24e-03
+Iter #   5000/40000	loss:7.39e+00, loss_r:9.89e-03, loss_i:6.36e-02 , loss_b:3.33e-02, loss_b_t:3.97e-04  Valid # loss:1.07e-01, loss_r:9.91e-03, loss_i:6.36e-02, loss_b:3.34e-02, loss_b_t:3.96e-04
+Iter #   5500/40000	loss:7.07e+00, loss_r:1.20e-02, loss_i:5.69e-02 , loss_b:1.91e-01, loss_b_t:1.49e-03  Valid # loss:2.61e-01, loss_r:1.19e-02, loss_i:5.69e-02, loss_b:1.91e-01, loss_b_t:1.49e-03
+Iter #   6000/40000	loss:7.01e+00, loss_r:1.10e-02, loss_i:5.70e-02 , loss_b:2.06e-01, loss_b_t:2.68e-03  Valid # loss:2.74e-01, loss_r:1.05e-02, loss_i:5.75e-02, loss_b:2.03e-01, loss_b_t:2.78e-03
+Iter #   6500/40000	loss:7.08e+00, loss_r:1.14e-02, loss_i:5.69e-02 , loss_b:2.45e-01, loss_b_t:1.69e-03  Valid # loss:3.19e-01, loss_r:1.07e-02, loss_i:5.67e-02, loss_b:2.49e-01, loss_b_t:2.89e-03
+Iter #   7000/40000	loss:6.77e+00, loss_r:1.05e-02, loss_i:5.35e-02 , loss_b:3.73e-01, loss_b_t:1.84e-03  Valid # loss:4.36e-01, loss_r:1.01e-02, loss_i:5.39e-02, loss_b:3.70e-01, loss_b_t:1.83e-03
+Iter #   7500/40000	loss:6.67e+00, loss_r:9.79e-03, loss_i:5.30e-02 , loss_b:3.92e-01, loss_b_t:2.93e-03  Valid # loss:4.68e-01, loss_r:1.53e-02, loss_i:5.27e-02, loss_b:3.98e-01, loss_b_t:1.92e-03
+Iter #   8000/40000	loss:5.01e+00, loss_r:7.24e-03, loss_i:2.44e-02 , loss_b:1.82e+00, loss_b_t:2.38e-02  Valid # loss:1.92e+00, loss_r:1.01e-02, loss_i:2.20e-02, loss_b:1.87e+00, loss_b_t:1.75e-02
+Iter #   8500/40000	loss:4.13e+00, loss_r:5.62e-03, loss_i:1.45e-02 , loss_b:2.11e+00, loss_b_t:3.20e-03  Valid # loss:2.15e+00, loss_r:5.23e-03, loss_i:1.46e-02, loss_b:2.13e+00, loss_b_t:4.05e-03
+Iter #   9000/40000	loss:3.52e+00, loss_r:5.11e-03, loss_i:1.13e-02 , loss_b:1.87e+00, loss_b_t:5.62e-03  Valid # loss:1.94e+00, loss_r:4.77e-03, loss_i:1.13e-02, loss_b:1.92e+00, loss_b_t:5.81e-03
+Iter #   9500/40000	loss:3.14e+00, loss_r:5.36e-03, loss_i:9.20e-03 , loss_b:1.67e+00, loss_b_t:8.27e-03  Valid # loss:1.62e+00, loss_r:5.71e-03, loss_i:9.73e-03, loss_b:1.60e+00, loss_b_t:5.87e-03
+Iter #  10000/40000	loss:2.65e+00, loss_r:5.55e-03, loss_i:7.32e-03 , loss_b:1.35e+00, loss_b_t:5.58e-03  Valid # loss:1.47e+00, loss_r:4.16e-03, loss_i:7.17e-03, loss_b:1.45e+00, loss_b_t:4.41e-03
+Iter #  10500/40000	loss:2.32e+00, loss_r:5.45e-03, loss_i:5.49e-03 , loss_b:1.22e+00, loss_b_t:5.97e-03  Valid # loss:1.33e+00, loss_r:4.47e-03, loss_i:5.31e-03, loss_b:1.32e+00, loss_b_t:5.34e-03
+Iter #  11000/40000	loss:2.39e+00, loss_r:6.35e-03, loss_i:6.01e-03 , loss_b:1.09e+00, loss_b_t:6.24e-02  Valid # loss:1.26e+00, loss_r:7.17e-03, loss_i:4.31e-03, loss_b:1.20e+00, loss_b_t:4.87e-02
+Iter #  11500/40000	loss:2.15e+00, loss_r:5.33e-03, loss_i:4.99e-03 , loss_b:1.07e+00, loss_b_t:5.12e-02  Valid # loss:1.17e+00, loss_r:5.77e-03, loss_i:3.95e-03, loss_b:1.11e+00, loss_b_t:4.48e-02
+Iter #  12000/40000	loss:1.92e+00, loss_r:4.50e-03, loss_i:3.81e-03 , loss_b:1.09e+00, loss_b_t:7.25e-03  Valid # loss:9.88e-01, loss_r:5.15e-03, loss_i:4.44e-03, loss_b:9.67e-01, loss_b_t:1.15e-02
+Iter #  12500/40000	loss:1.84e+00, loss_r:4.97e-03, loss_i:4.03e-03 , loss_b:9.13e-01, loss_b_t:2.29e-02  Valid # loss:1.01e+00, loss_r:4.51e-03, loss_i:3.62e-03, loss_b:9.86e-01, loss_b_t:1.32e-02
+Iter #  13000/40000	loss:1.72e+00, loss_r:4.49e-03, loss_i:3.27e-03 , loss_b:9.25e-01, loss_b_t:2.03e-02  Valid # loss:9.05e-01, loss_r:4.35e-03, loss_i:3.71e-03, loss_b:8.86e-01, loss_b_t:1.17e-02
+Iter #  13500/40000	loss:1.67e+00, loss_r:4.15e-03, loss_i:3.69e-03 , loss_b:8.52e-01, loss_b_t:3.78e-02  Valid # loss:8.83e-01, loss_r:4.18e-03, loss_i:3.45e-03, loss_b:8.48e-01, loss_b_t:2.75e-02
+Iter #  14000/40000	loss:2.10e+00, loss_r:6.07e-03, loss_i:3.92e-03 , loss_b:7.84e-01, loss_b_t:3.23e-01  Valid # loss:8.70e-01, loss_r:5.17e-03, loss_i:4.33e-03, loss_b:7.32e-01, loss_b_t:1.29e-01
+Iter #  14500/40000	loss:1.47e+00, loss_r:3.75e-03, loss_i:3.45e-03 , loss_b:7.06e-01, loss_b_t:4.21e-02  Valid # loss:7.46e-01, loss_r:3.87e-03, loss_i:3.35e-03, loss_b:6.97e-01, loss_b_t:4.14e-02
+Iter #  15000/40000	loss:1.40e+00, loss_r:3.74e-03, loss_i:3.57e-03 , loss_b:6.06e-01, loss_b_t:6.53e-02  Valid # loss:7.06e-01, loss_r:3.48e-03, loss_i:3.41e-03, loss_b:6.42e-01, loss_b_t:5.73e-02
+Iter #  15500/40000	loss:2.45e+00, loss_r:6.03e-03, loss_i:5.17e-03 , loss_b:5.26e-01, loss_b_t:8.02e-01  Valid # loss:7.80e-01, loss_r:4.09e-03, loss_i:3.86e-03, loss_b:5.22e-01, loss_b_t:2.50e-01
+Iter #  16000/40000	loss:1.16e+00, loss_r:3.72e-03, loss_i:3.41e-03 , loss_b:4.42e-01, loss_b_t:1.60e-03  Valid # loss:5.66e-01, loss_r:4.35e-03, loss_i:4.45e-03, loss_b:3.82e-01, loss_b_t:1.76e-01
+Iter #  16500/40000	loss:1.16e+00, loss_r:2.91e-03, loss_i:3.22e-03 , loss_b:3.52e-01, loss_b_t:2.00e-01  Valid # loss:3.53e-01, loss_r:2.53e-03, loss_i:3.02e-03, loss_b:3.46e-01, loss_b_t:1.19e-03
+Iter #  17000/40000	loss:1.29e+00, loss_r:3.23e-03, loss_i:4.49e-03 , loss_b:2.36e-01, loss_b_t:2.80e-01  Valid # loss:3.34e-01, loss_r:3.16e-03, loss_i:3.07e-03, loss_b:3.11e-01, loss_b_t:1.69e-02
+Iter #  17500/40000	loss:1.57e+00, loss_r:3.23e-03, loss_i:3.16e-03 , loss_b:2.78e-01, loss_b_t:6.49e-01  Valid # loss:4.81e-01, loss_r:2.48e-03, loss_i:2.88e-03, loss_b:2.69e-01, loss_b_t:2.07e-01
+Iter #  18000/40000	loss:7.50e-01, loss_r:1.82e-03, loss_i:2.39e-03 , loss_b:2.80e-01, loss_b_t:4.87e-02  Valid # loss:2.86e-01, loss_r:1.83e-03, loss_i:2.36e-03, loss_b:2.80e-01, loss_b_t:1.37e-03
+Iter #  18500/40000	loss:1.18e+00, loss_r:2.39e-03, loss_i:2.62e-03 , loss_b:2.43e-01, loss_b_t:4.35e-01  Valid # loss:7.76e-01, loss_r:2.99e-03, loss_i:2.93e-03, loss_b:2.23e-01, loss_b_t:5.47e-01
+Iter #  19000/40000	loss:6.47e-01, loss_r:1.65e-03, loss_i:2.14e-03 , loss_b:2.66e-01, loss_b_t:1.20e-03  Valid # loss:2.82e-01, loss_r:1.78e-03, loss_i:2.13e-03, loss_b:2.64e-01, loss_b_t:1.44e-02
+Iter #  19500/40000	loss:6.41e-01, loss_r:1.90e-03, loss_i:2.45e-03 , loss_b:1.87e-01, loss_b_t:1.93e-02  Valid # loss:2.83e-01, loss_r:1.88e-03, loss_i:2.34e-03, loss_b:2.04e-01, loss_b_t:7.54e-02
+Iter #  20000/40000	loss:5.78e-01, loss_r:1.63e-03, loss_i:2.06e-03 , loss_b:2.02e-01, loss_b_t:6.93e-03  Valid # loss:2.08e-01, loss_r:1.68e-03, loss_i:2.15e-03, loss_b:1.90e-01, loss_b_t:1.35e-02
+Iter #  20500/40000	loss:5.56e-01, loss_r:1.55e-03, loss_i:2.00e-03 , loss_b:1.88e-01, loss_b_t:1.26e-02  Valid # loss:2.28e-01, loss_r:1.57e-03, loss_i:2.04e-03, loss_b:1.84e-01, loss_b_t:3.98e-02
+Iter #  21000/40000	loss:5.48e-01, loss_r:1.51e-03, loss_i:2.05e-03 , loss_b:1.74e-01, loss_b_t:1.84e-02  Valid # loss:2.20e-01, loss_r:1.50e-03, loss_i:2.08e-03, loss_b:1.72e-01, loss_b_t:4.38e-02
+Iter #  21500/40000	loss:9.20e-01, loss_r:4.89e-03, loss_i:3.23e-03 , loss_b:1.02e-01, loss_b_t:6.84e-03  Valid # loss:4.33e-01, loss_r:2.70e-03, loss_i:2.56e-03, loss_b:1.45e-01, loss_b_t:2.82e-01
+Iter #  22000/40000	loss:5.95e-01, loss_r:1.50e-03, loss_i:2.04e-03 , loss_b:1.53e-01, loss_b_t:8.77e-02  Valid # loss:3.03e-01, loss_r:1.62e-03, loss_i:2.09e-03, loss_b:1.49e-01, loss_b_t:1.50e-01
+Iter #  22500/40000	loss:5.00e-01, loss_r:1.57e-03, loss_i:2.12e-03 , loss_b:1.29e-01, loss_b_t:1.24e-03  Valid # loss:1.51e-01, loss_r:1.55e-03, loss_i:2.10e-03, loss_b:1.32e-01, loss_b_t:1.50e-02
+Iter #  23000/40000	loss:4.83e-01, loss_r:1.42e-03, loss_i:1.99e-03 , loss_b:1.35e-01, loss_b_t:6.90e-03  Valid # loss:1.47e-01, loss_r:1.38e-03, loss_i:1.92e-03, loss_b:1.43e-01, loss_b_t:3.75e-04
+Iter #  23500/40000	loss:5.51e-01, loss_r:1.40e-03, loss_i:1.99e-03 , loss_b:1.33e-01, loss_b_t:7.89e-02  Valid # loss:2.39e-01, loss_r:1.39e-03, loss_i:2.05e-03, loss_b:1.28e-01, loss_b_t:1.07e-01
+Iter #  24000/40000	loss:4.70e-01, loss_r:1.34e-03, loss_i:1.95e-03 , loss_b:1.27e-01, loss_b_t:1.40e-02  Valid # loss:1.45e-01, loss_r:1.35e-03, loss_i:1.90e-03, loss_b:1.34e-01, loss_b_t:7.59e-03
+Iter #  24500/40000	loss:4.58e-01, loss_r:1.29e-03, loss_i:1.82e-03 , loss_b:1.16e-01, loss_b_t:3.13e-02  Valid # loss:1.73e-01, loss_r:1.30e-03, loss_i:1.82e-03, loss_b:1.18e-01, loss_b_t:5.16e-02
+Iter #  25000/40000	loss:4.18e-01, loss_r:1.20e-03, loss_i:1.84e-03 , loss_b:1.13e-01, loss_b_t:6.68e-04  Valid # loss:1.30e-01, loss_r:1.18e-03, loss_i:1.75e-03, loss_b:1.24e-01, loss_b_t:2.69e-03
+Iter #  25500/40000	loss:4.88e-01, loss_r:1.71e-03, loss_i:2.13e-03 , loss_b:7.91e-02, loss_b_t:2.56e-02  Valid # loss:1.50e-01, loss_r:1.64e-03, loss_i:2.06e-03, loss_b:7.92e-02, loss_b_t:6.75e-02
+Iter #  26000/40000	loss:4.69e-01, loss_r:1.34e-03, loss_i:1.91e-03 , loss_b:8.85e-02, loss_b_t:5.48e-02  Valid # loss:9.60e-02, loss_r:1.32e-03, loss_i:1.89e-03, loss_b:8.55e-02, loss_b_t:7.25e-03
+Iter #  26500/40000	loss:4.63e-01, loss_r:1.16e-03, loss_i:1.93e-03 , loss_b:9.29e-02, loss_b_t:6.15e-02  Valid # loss:1.04e-01, loss_r:1.22e-03, loss_i:2.00e-03, loss_b:8.99e-02, loss_b_t:1.13e-02
+Iter #  27000/40000	loss:4.76e-01, loss_r:1.21e-03, loss_i:1.89e-03 , loss_b:8.98e-02, loss_b_t:7.60e-02  Valid # loss:1.73e-01, loss_r:1.13e-03, loss_i:1.90e-03, loss_b:8.60e-02, loss_b_t:8.42e-02
+Iter #  27500/40000	loss:4.29e-01, loss_r:1.06e-03, loss_i:1.65e-03 , loss_b:1.27e-01, loss_b_t:3.09e-02  Valid # loss:1.39e-01, loss_r:1.19e-03, loss_i:1.73e-03, loss_b:1.18e-01, loss_b_t:1.76e-02
+Iter #  28000/40000	loss:3.86e-01, loss_r:1.34e-03, loss_i:1.85e-03 , loss_b:6.66e-02, loss_b_t:1.22e-03  Valid # loss:1.19e-01, loss_r:1.69e-03, loss_i:1.92e-03, loss_b:6.21e-02, loss_b_t:5.34e-02
+Iter #  28500/40000	loss:3.93e-01, loss_r:1.29e-03, loss_i:1.80e-03 , loss_b:6.44e-02, loss_b_t:2.02e-02  Valid # loss:1.01e-01, loss_r:1.35e-03, loss_i:1.77e-03, loss_b:6.57e-02, loss_b_t:3.26e-02
+Iter #  29000/40000	loss:3.40e-01, loss_r:9.98e-04, loss_i:1.59e-03 , loss_b:8.02e-02, loss_b_t:2.98e-04  Valid # loss:8.36e-02, loss_r:1.00e-03, loss_i:1.59e-03, loss_b:8.08e-02, loss_b_t:2.77e-04
+Iter #  29500/40000	loss:3.67e-01, loss_r:1.24e-03, loss_i:1.67e-03 , loss_b:6.44e-02, loss_b_t:1.19e-02  Valid # loss:1.10e-01, loss_r:1.26e-03, loss_i:1.67e-03, loss_b:6.91e-02, loss_b_t:3.76e-02
+Iter #  30000/40000	loss:3.84e-01, loss_r:9.73e-04, loss_i:1.58e-03 , loss_b:7.63e-02, loss_b_t:5.28e-02  Valid # loss:1.13e-01, loss_r:1.04e-03, loss_i:1.67e-03, loss_b:6.69e-02, loss_b_t:4.30e-02
+Iter #  30500/40000	loss:4.11e-01, loss_r:1.19e-03, loss_i:1.52e-03 , loss_b:8.99e-02, loss_b_t:4.99e-02  Valid # loss:1.95e-01, loss_r:1.08e-03, loss_i:1.65e-03, loss_b:6.82e-02, loss_b_t:1.25e-01
+Iter #  31000/40000	loss:3.99e-01, loss_r:1.03e-03, loss_i:1.57e-03 , loss_b:6.86e-02, loss_b_t:7.11e-02  Valid # loss:5.80e-02, loss_r:1.58e-03, loss_i:1.78e-03, loss_b:5.12e-02, loss_b_t:3.36e-03
+Iter #  31500/40000	loss:3.23e-01, loss_r:9.06e-04, loss_i:1.57e-03 , loss_b:6.70e-02, loss_b_t:8.56e-03  Valid # loss:9.61e-02, loss_r:9.24e-04, loss_i:1.48e-03, loss_b:8.46e-02, loss_b_t:9.09e-03
+Iter #  32000/40000	loss:3.36e-01, loss_r:8.78e-04, loss_i:1.46e-03 , loss_b:8.05e-02, loss_b_t:2.17e-02  Valid # loss:8.46e-02, loss_r:8.97e-04, loss_i:1.52e-03, loss_b:7.08e-02, loss_b_t:1.14e-02
+Iter #  32500/40000	loss:3.18e-01, loss_r:8.82e-04, loss_i:1.46e-03 , loss_b:6.04e-02, loss_b_t:2.41e-02  Valid # loss:7.49e-02, loss_r:8.78e-04, loss_i:1.49e-03, loss_b:5.74e-02, loss_b_t:1.52e-02
+Iter #  33000/40000	loss:3.82e-01, loss_r:1.10e-03, loss_i:1.45e-03 , loss_b:5.78e-02, loss_b_t:6.99e-02  Valid # loss:8.72e-02, loss_r:1.13e-03, loss_i:1.57e-03, loss_b:4.00e-02, loss_b_t:4.45e-02
+Iter #  33500/40000	loss:3.61e-01, loss_r:1.01e-03, loss_i:1.36e-03 , loss_b:6.74e-02, loss_b_t:5.65e-02  Valid # loss:1.01e-01, loss_r:9.96e-04, loss_i:1.52e-03, loss_b:4.71e-02, loss_b_t:5.11e-02
+Iter #  34000/40000	loss:3.09e-01, loss_r:1.02e-03, loss_i:1.38e-03 , loss_b:5.14e-02, loss_b_t:1.72e-02  Valid # loss:1.15e-01, loss_r:1.01e-03, loss_i:1.39e-03, loss_b:5.30e-02, loss_b_t:5.93e-02
+Iter #  34500/40000	loss:3.07e-01, loss_r:8.71e-04, loss_i:1.43e-03 , loss_b:5.27e-02, loss_b_t:2.41e-02  Valid # loss:7.17e-02, loss_r:9.59e-04, loss_i:1.44e-03, loss_b:5.20e-02, loss_b_t:1.73e-02
+Iter #  35000/40000	loss:2.96e-01, loss_r:8.42e-04, loss_i:1.38e-03 , loss_b:4.85e-02, loss_b_t:2.61e-02  Valid # loss:7.44e-02, loss_r:8.64e-04, loss_i:1.37e-03, loss_b:4.91e-02, loss_b_t:2.31e-02
+Iter #  35500/40000	loss:3.24e-01, loss_r:8.12e-04, loss_i:1.27e-03 , loss_b:5.78e-02, loss_b_t:5.74e-02  Valid # loss:1.36e-01, loss_r:9.98e-04, loss_i:1.36e-03, loss_b:4.68e-02, loss_b_t:8.73e-02
+Iter #  36000/40000	loss:2.91e-01, loss_r:8.85e-04, loss_i:1.26e-03 , loss_b:5.36e-02, loss_b_t:2.24e-02  Valid # loss:6.86e-02, loss_r:8.80e-04, loss_i:1.30e-03, loss_b:4.76e-02, loss_b_t:1.88e-02
+Iter #  36500/40000	loss:2.59e-01, loss_r:7.89e-04, loss_i:1.25e-03 , loss_b:4.76e-02, loss_b_t:7.75e-03  Valid # loss:5.65e-02, loss_r:7.88e-04, loss_i:1.22e-03, loss_b:5.03e-02, loss_b_t:4.22e-03
+Iter #  37000/40000	loss:2.68e-01, loss_r:8.41e-04, loss_i:1.23e-03 , loss_b:4.36e-02, loss_b_t:1.78e-02  Valid # loss:8.74e-02, loss_r:8.58e-04, loss_i:1.25e-03, loss_b:4.21e-02, loss_b_t:4.32e-02
+Iter #  37500/40000	loss:2.61e-01, loss_r:9.33e-04, loss_i:1.13e-03 , loss_b:5.03e-02, loss_b_t:4.03e-03  Valid # loss:6.07e-02, loss_r:9.28e-04, loss_i:1.12e-03, loss_b:5.26e-02, loss_b_t:6.04e-03
+Iter #  38000/40000	loss:4.36e-01, loss_r:9.59e-04, loss_i:1.57e-03 , loss_b:2.36e-02, loss_b_t:1.60e-01  Valid # loss:3.89e-02, loss_r:1.27e-03, loss_i:1.71e-03, loss_b:1.79e-02, loss_b_t:1.80e-02
+Iter #  38500/40000	loss:2.49e-01, loss_r:8.15e-04, loss_i:1.12e-03 , loss_b:4.34e-02, loss_b_t:1.18e-02  Valid # loss:5.76e-02, loss_r:7.96e-04, loss_i:1.13e-03, loss_b:4.38e-02, loss_b_t:1.19e-02
+Iter #  39000/40000	loss:2.48e-01, loss_r:7.53e-04, loss_i:1.06e-03 , loss_b:5.18e-02, loss_b_t:1.45e-02  Valid # loss:5.63e-02, loss_r:7.73e-04, loss_i:1.11e-03, loss_b:4.40e-02, loss_b_t:1.04e-02
+Iter #  39500/40000	loss:2.29e-01, loss_r:7.46e-04, loss_i:1.05e-03 , loss_b:4.83e-02, loss_b_t:1.07e-03  Valid # loss:4.87e-02, loss_r:7.54e-04, loss_i:1.07e-03, loss_b:4.57e-02, loss_b_t:1.21e-03
+Iter #  40000/40000	loss:2.59e-01, loss_r:1.12e-03, loss_i:1.21e-03 , loss_b:2.18e-02, loss_b_t:4.26e-03  Valid # loss:1.32e-01, loss_r:1.04e-03, loss_i:1.04e-03, loss_b:4.04e-02, loss_b_t:8.94e-02
+Iter #    500/40000	loss:8.11e+00, loss_r:5.17e-03, loss_i:7.59e-02 , loss_b:2.64e-03, loss_b_t:5.80e-04  Valid # loss:8.43e-02, loss_r:5.17e-03, loss_i:7.59e-02, loss_b:2.64e-03, loss_b_t:5.87e-04
+Iter #   1000/40000	loss:8.19e+00, loss_r:7.63e-03, loss_i:7.43e-02 , loss_b:1.75e-03, loss_b_t:1.01e-03  Valid # loss:8.59e-02, loss_r:9.40e-03, loss_i:7.39e-02, loss_b:1.98e-03, loss_b_t:6.42e-04
+Iter #   1500/40000	loss:8.02e+00, loss_r:6.39e-03, loss_i:7.38e-02 , loss_b:1.42e-03, loss_b_t:1.58e-03  Valid # loss:8.25e-02, loss_r:5.73e-03, loss_i:7.44e-02, loss_b:1.16e-03, loss_b_t:1.20e-03
+Iter #   2000/40000	loss:7.95e+00, loss_r:6.55e-03, loss_i:7.29e-02 , loss_b:1.06e-03, loss_b_t:2.37e-03  Valid # loss:8.29e-02, loss_r:6.55e-03, loss_i:7.29e-02, loss_b:1.06e-03, loss_b_t:2.38e-03
+Iter #   2500/40000	loss:7.93e+00, loss_r:6.66e-03, loss_i:7.26e-02 , loss_b:1.04e-03, loss_b_t:2.18e-03  Valid # loss:8.25e-02, loss_r:6.66e-03, loss_i:7.26e-02, loss_b:1.05e-03, loss_b_t:2.18e-03
+Iter #   3000/40000	loss:7.89e+00, loss_r:6.82e-03, loss_i:7.21e-02 , loss_b:1.18e-03, loss_b_t:2.02e-03  Valid # loss:8.21e-02, loss_r:6.82e-03, loss_i:7.21e-02, loss_b:1.18e-03, loss_b_t:2.03e-03
+Iter #   3500/40000	loss:7.86e+00, loss_r:7.13e-03, loss_i:7.14e-02 , loss_b:1.23e-03, loss_b_t:2.29e-03  Valid # loss:8.21e-02, loss_r:7.13e-03, loss_i:7.14e-02, loss_b:1.23e-03, loss_b_t:2.29e-03
+Iter #   4000/40000	loss:7.84e+00, loss_r:7.36e-03, loss_i:7.10e-02 , loss_b:9.32e-04, loss_b_t:1.60e-03  Valid # loss:8.09e-02, loss_r:7.30e-03, loss_i:7.11e-02, loss_b:9.14e-04, loss_b_t:1.60e-03
+Iter #   4500/40000	loss:7.82e+00, loss_r:7.62e-03, loss_i:7.05e-02 , loss_b:8.87e-04, loss_b_t:4.21e-04  Valid # loss:7.95e-02, loss_r:7.62e-03, loss_i:7.05e-02, loss_b:8.87e-04, loss_b_t:4.19e-04
+Iter #   5000/40000	loss:7.80e+00, loss_r:7.55e-03, loss_i:7.04e-02 , loss_b:6.30e-04, loss_b_t:3.24e-04  Valid # loss:7.90e-02, loss_r:7.54e-03, loss_i:7.04e-02, loss_b:6.31e-04, loss_b_t:3.50e-04
+Iter #   5500/40000	loss:7.78e+00, loss_r:7.96e-03, loss_i:6.98e-02 , loss_b:8.53e-04, loss_b_t:2.74e-04  Valid # loss:7.89e-02, loss_r:7.96e-03, loss_i:6.98e-02, loss_b:8.54e-04, loss_b_t:2.73e-04
+Iter #   6000/40000	loss:7.77e+00, loss_r:8.14e-03, loss_i:6.95e-02 , loss_b:1.06e-03, loss_b_t:2.06e-04  Valid # loss:7.89e-02, loss_r:8.14e-03, loss_i:6.95e-02, loss_b:1.06e-03, loss_b_t:2.06e-04
+Iter #   6500/40000	loss:7.76e+00, loss_r:8.19e-03, loss_i:6.94e-02 , loss_b:1.19e-03, loss_b_t:2.22e-04  Valid # loss:7.90e-02, loss_r:8.19e-03, loss_i:6.94e-02, loss_b:1.19e-03, loss_b_t:2.22e-04
+Iter #   7000/40000	loss:7.76e+00, loss_r:8.27e-03, loss_i:6.93e-02 , loss_b:1.60e-03, loss_b_t:2.85e-04  Valid # loss:7.94e-02, loss_r:8.27e-03, loss_i:6.93e-02, loss_b:1.61e-03, loss_b_t:2.86e-04
+Iter #   7500/40000	loss:7.75e+00, loss_r:8.29e-03, loss_i:6.92e-02 , loss_b:2.02e-03, loss_b_t:5.06e-04  Valid # loss:8.00e-02, loss_r:8.29e-03, loss_i:6.92e-02, loss_b:2.03e-03, loss_b_t:5.07e-04
+Iter #   8000/40000	loss:7.74e+00, loss_r:8.33e-03, loss_i:6.90e-02 , loss_b:3.87e-03, loss_b_t:1.26e-03  Valid # loss:8.25e-02, loss_r:8.32e-03, loss_i:6.90e-02, loss_b:3.88e-03, loss_b_t:1.26e-03
+Iter #   8500/40000	loss:7.72e+00, loss_r:8.36e-03, loss_i:6.88e-02 , loss_b:7.97e-03, loss_b_t:1.46e-03  Valid # loss:8.66e-02, loss_r:8.39e-03, loss_i:6.87e-02, loss_b:8.01e-03, loss_b_t:1.46e-03
+Iter #   9000/40000	loss:7.70e+00, loss_r:8.47e-03, loss_i:6.84e-02 , loss_b:1.77e-02, loss_b_t:1.33e-03  Valid # loss:9.59e-02, loss_r:8.40e-03, loss_i:6.84e-02, loss_b:1.77e-02, loss_b_t:1.33e-03
+Iter #   9500/40000	loss:7.65e+00, loss_r:8.44e-03, loss_i:6.73e-02 , loss_b:7.55e-02, loss_b_t:1.92e-03  Valid # loss:1.53e-01, loss_r:8.44e-03, loss_i:6.73e-02, loss_b:7.55e-02, loss_b_t:1.92e-03
+Iter #  10000/40000	loss:7.63e+00, loss_r:7.85e-03, loss_i:6.76e-02 , loss_b:8.14e-02, loss_b_t:4.36e-03  Valid # loss:1.63e-01, loss_r:8.55e-03, loss_i:6.70e-02, loss_b:8.29e-02, loss_b_t:4.69e-03
+Iter #  10500/40000	loss:7.63e+00, loss_r:9.12e-03, loss_i:6.61e-02 , loss_b:1.06e-01, loss_b_t:4.45e-03  Valid # loss:1.82e-01, loss_r:8.46e-03, loss_i:6.67e-02, loss_b:1.02e-01, loss_b_t:4.94e-03
+Iter #  11000/40000	loss:5.68e+00, loss_r:7.28e-03, loss_i:4.20e-02 , loss_b:7.31e-01, loss_b_t:1.71e-02  Valid # loss:7.62e-01, loss_r:5.53e-03, loss_i:4.41e-02, loss_b:6.94e-01, loss_b_t:1.78e-02
+Iter #  11500/40000	loss:5.13e+00, loss_r:5.95e-03, loss_i:3.84e-02 , loss_b:6.64e-01, loss_b_t:2.83e-02  Valid # loss:7.36e-01, loss_r:5.94e-03, loss_i:3.84e-02, loss_b:6.64e-01, loss_b_t:2.83e-02
+Iter #  12000/40000	loss:4.98e+00, loss_r:5.93e-03, loss_i:3.72e-02 , loss_b:6.44e-01, loss_b_t:2.79e-02  Valid # loss:7.14e-01, loss_r:5.91e-03, loss_i:3.72e-02, loss_b:6.43e-01, loss_b_t:2.78e-02
+Iter #  12500/40000	loss:4.91e+00, loss_r:5.98e-03, loss_i:3.66e-02 , loss_b:6.28e-01, loss_b_t:2.47e-02  Valid # loss:6.97e-01, loss_r:5.70e-03, loss_i:3.68e-02, loss_b:6.30e-01, loss_b_t:2.52e-02
+Iter #  13000/40000	loss:4.84e+00, loss_r:5.41e-03, loss_i:3.68e-02 , loss_b:6.04e-01, loss_b_t:1.77e-02  Valid # loss:6.63e-01, loss_r:5.36e-03, loss_i:3.68e-02, loss_b:6.03e-01, loss_b_t:1.77e-02
+Iter #  13500/40000	loss:4.80e+00, loss_r:5.27e-03, loss_i:3.68e-02 , loss_b:5.84e-01, loss_b_t:1.38e-02  Valid # loss:6.40e-01, loss_r:5.28e-03, loss_i:3.68e-02, loss_b:5.84e-01, loss_b_t:1.38e-02
+Iter #  14000/40000	loss:4.77e+00, loss_r:5.11e-03, loss_i:3.68e-02 , loss_b:5.67e-01, loss_b_t:1.04e-02  Valid # loss:6.19e-01, loss_r:5.11e-03, loss_i:3.68e-02, loss_b:5.67e-01, loss_b_t:1.05e-02
+Iter #  14500/40000	loss:4.72e+00, loss_r:4.82e-03, loss_i:3.69e-02 , loss_b:5.45e-01, loss_b_t:8.37e-03  Valid # loss:5.93e-01, loss_r:5.16e-03, loss_i:3.65e-02, loss_b:5.44e-01, loss_b_t:7.29e-03
+Iter #  15000/40000	loss:4.67e+00, loss_r:4.75e-03, loss_i:3.68e-02 , loss_b:5.11e-01, loss_b_t:5.72e-03  Valid # loss:5.68e-01, loss_r:5.33e-03, loss_i:3.60e-02, loss_b:5.20e-01, loss_b_t:6.96e-03
+Iter #  15500/40000	loss:4.63e+00, loss_r:5.16e-03, loss_i:3.60e-02 , loss_b:4.94e-01, loss_b_t:2.45e-02  Valid # loss:5.35e-01, loss_r:4.96e-03, loss_i:3.64e-02, loss_b:4.77e-01, loss_b_t:1.61e-02
+Iter #  16000/40000	loss:4.58e+00, loss_r:5.02e-03, loss_i:3.61e-02 , loss_b:4.59e-01, loss_b_t:6.16e-03  Valid # loss:5.03e-01, loss_r:4.97e-03, loss_i:3.62e-02, loss_b:4.57e-01, loss_b_t:5.05e-03
+Iter #  16500/40000	loss:4.55e+00, loss_r:5.05e-03, loss_i:3.60e-02 , loss_b:4.32e-01, loss_b_t:4.61e-03  Valid # loss:4.76e-01, loss_r:4.99e-03, loss_i:3.61e-02, loss_b:4.31e-01, loss_b_t:4.07e-03
+Iter #  17000/40000	loss:4.52e+00, loss_r:4.78e-03, loss_i:3.64e-02 , loss_b:4.00e-01, loss_b_t:3.19e-03  Valid # loss:4.49e-01, loss_r:5.45e-03, loss_i:3.57e-02, loss_b:4.04e-01, loss_b_t:3.88e-03
+Iter #  17500/40000	loss:4.50e+00, loss_r:5.25e-03, loss_i:3.60e-02 , loss_b:3.70e-01, loss_b_t:6.63e-03  Valid # loss:4.35e-01, loss_r:4.87e-03, loss_i:3.63e-02, loss_b:3.78e-01, loss_b_t:1.61e-02
+Iter #  18000/40000	loss:4.75e+00, loss_r:6.32e-03, loss_i:3.57e-02 , loss_b:3.25e-01, loss_b_t:2.25e-01  Valid # loss:6.88e-01, loss_r:4.88e-03, loss_i:3.65e-02, loss_b:3.57e-01, loss_b_t:2.90e-01
+Iter #  18500/40000	loss:4.45e+00, loss_r:5.07e-03, loss_i:3.61e-02 , loss_b:3.16e-01, loss_b_t:1.66e-02  Valid # loss:3.59e-01, loss_r:5.15e-03, loss_i:3.61e-02, loss_b:3.09e-01, loss_b_t:8.54e-03
+Iter #  19000/40000	loss:4.42e+00, loss_r:5.02e-03, loss_i:3.63e-02 , loss_b:2.79e-01, loss_b_t:9.76e-03  Valid # loss:3.38e-01, loss_r:5.16e-03, loss_i:3.60e-02, loss_b:2.86e-01, loss_b_t:1.12e-02
+Iter #  19500/40000	loss:4.39e+00, loss_r:5.14e-03, loss_i:3.62e-02 , loss_b:2.47e-01, loss_b_t:7.33e-03  Valid # loss:3.06e-01, loss_r:5.02e-03, loss_i:3.62e-02, loss_b:2.53e-01, loss_b_t:1.15e-02
+Iter #  20000/40000	loss:4.35e+00, loss_r:5.10e-03, loss_i:3.61e-02 , loss_b:2.20e-01, loss_b_t:2.96e-03  Valid # loss:2.62e-01, loss_r:5.20e-03, loss_i:3.61e-02, loss_b:2.18e-01, loss_b_t:1.96e-03
+Iter #  20500/40000	loss:4.31e+00, loss_r:5.14e-03, loss_i:3.61e-02 , loss_b:1.83e-01, loss_b_t:1.71e-03  Valid # loss:2.26e-01, loss_r:5.14e-03, loss_i:3.61e-02, loss_b:1.83e-01, loss_b_t:1.77e-03
+Iter #  21000/40000	loss:4.26e+00, loss_r:5.11e-03, loss_i:3.62e-02 , loss_b:1.34e-01, loss_b_t:2.04e-03  Valid # loss:1.77e-01, loss_r:5.11e-03, loss_i:3.62e-02, loss_b:1.34e-01, loss_b_t:1.86e-03
+Iter #  21500/40000	loss:4.23e+00, loss_r:5.03e-03, loss_i:3.65e-02 , loss_b:2.14e-02, loss_b_t:6.12e-02  Valid # loss:1.54e-01, loss_r:4.64e-03, loss_i:3.67e-02, loss_b:2.81e-02, loss_b_t:8.40e-02
+Iter #  22000/40000	loss:4.28e+00, loss_r:5.50e-03, loss_i:3.59e-02 , loss_b:9.61e-03, loss_b_t:1.27e-01  Valid # loss:1.09e-01, loss_r:4.22e-03, loss_i:3.70e-02, loss_b:1.42e-02, loss_b_t:5.36e-02
+Iter #  22500/40000	loss:4.09e+00, loss_r:4.46e-03, loss_i:3.63e-02 , loss_b:6.47e-03, loss_b_t:2.64e-03  Valid # loss:4.99e-02, loss_r:4.45e-03, loss_i:3.63e-02, loss_b:6.49e-03, loss_b_t:2.62e-03
+Iter #  23000/40000	loss:4.06e+00, loss_r:4.48e-03, loss_i:3.61e-02 , loss_b:3.77e-03, loss_b_t:1.85e-03  Valid # loss:4.61e-02, loss_r:4.50e-03, loss_i:3.61e-02, loss_b:3.76e-03, loss_b_t:1.81e-03
+Iter #  23500/40000	loss:4.04e+00, loss_r:4.40e-03, loss_i:3.60e-02 , loss_b:2.16e-03, loss_b_t:1.21e-03  Valid # loss:4.39e-02, loss_r:4.46e-03, loss_i:3.60e-02, loss_b:2.21e-03, loss_b_t:1.26e-03
+Iter #  24000/40000	loss:4.03e+00, loss_r:4.40e-03, loss_i:3.59e-02 , loss_b:1.39e-03, loss_b_t:8.89e-04  Valid # loss:4.26e-02, loss_r:4.42e-03, loss_i:3.58e-02, loss_b:1.41e-03, loss_b_t:9.25e-04
+Iter #  24500/40000	loss:4.02e+00, loss_r:4.22e-03, loss_i:3.60e-02 , loss_b:9.25e-04, loss_b_t:1.95e-03  Valid # loss:5.15e-02, loss_r:4.52e-03, loss_i:3.56e-02, loss_b:1.49e-03, loss_b_t:9.90e-03
+Iter #  25000/40000	loss:4.00e+00, loss_r:4.38e-03, loss_i:3.56e-02 , loss_b:8.26e-04, loss_b_t:5.38e-04  Valid # loss:4.14e-02, loss_r:4.39e-03, loss_i:3.56e-02, loss_b:8.42e-04, loss_b_t:5.72e-04
+Iter #  25500/40000	loss:3.99e+00, loss_r:4.36e-03, loss_i:3.55e-02 , loss_b:7.92e-04, loss_b_t:1.25e-03  Valid # loss:4.18e-02, loss_r:4.40e-03, loss_i:3.55e-02, loss_b:6.42e-04, loss_b_t:1.28e-03
+Iter #  26000/40000	loss:4.23e+00, loss_r:3.96e-03, loss_i:3.62e-02 , loss_b:1.24e-03, loss_b_t:2.15e-01  Valid # loss:9.15e-02, loss_r:5.73e-03, loss_i:3.45e-02, loss_b:1.40e-04, loss_b_t:5.12e-02
+Iter #  26500/40000	loss:3.96e+00, loss_r:4.35e-03, loss_i:3.52e-02 , loss_b:7.04e-04, loss_b_t:2.88e-04  Valid # loss:4.06e-02, loss_r:4.41e-03, loss_i:3.52e-02, loss_b:7.14e-04, loss_b_t:2.84e-04
+Iter #  27000/40000	loss:4.03e+00, loss_r:4.67e-03, loss_i:3.48e-02 , loss_b:8.76e-05, loss_b_t:7.63e-02  Valid # loss:8.79e-02, loss_r:4.27e-03, loss_i:3.52e-02, loss_b:9.57e-04, loss_b_t:4.75e-02
+Iter #  27500/40000	loss:3.95e+00, loss_r:4.19e-03, loss_i:3.51e-02 , loss_b:7.77e-04, loss_b_t:2.07e-02  Valid # loss:4.41e-02, loss_r:4.81e-03, loss_i:3.45e-02, loss_b:4.24e-04, loss_b_t:4.37e-03
+Iter #  28000/40000	loss:3.90e+00, loss_r:4.29e-03, loss_i:3.47e-02 , loss_b:6.54e-04, loss_b_t:5.80e-04  Valid # loss:4.10e-02, loss_r:4.84e-03, loss_i:3.42e-02, loss_b:8.90e-04, loss_b_t:1.05e-03
+Iter #  28500/40000	loss:3.88e+00, loss_r:4.67e-03, loss_i:3.41e-02 , loss_b:7.33e-04, loss_b_t:2.81e-03  Valid # loss:4.21e-02, loss_r:4.58e-03, loss_i:3.41e-02, loss_b:9.82e-04, loss_b_t:2.44e-03
+Iter #  29000/40000	loss:3.85e+00, loss_r:4.70e-03, loss_i:3.38e-02 , loss_b:9.74e-04, loss_b_t:1.11e-03  Valid # loss:4.04e-02, loss_r:4.56e-03, loss_i:3.39e-02, loss_b:9.26e-04, loss_b_t:1.06e-03
+Iter #  29500/40000	loss:3.82e+00, loss_r:4.68e-03, loss_i:3.35e-02 , loss_b:9.42e-04, loss_b_t:1.79e-03  Valid # loss:4.04e-02, loss_r:4.50e-03, loss_i:3.37e-02, loss_b:8.13e-04, loss_b_t:1.43e-03
+Iter #  30000/40000	loss:3.79e+00, loss_r:4.71e-03, loss_i:3.31e-02 , loss_b:8.31e-04, loss_b_t:3.31e-03  Valid # loss:4.42e-02, loss_r:4.70e-03, loss_i:3.31e-02, loss_b:1.12e-03, loss_b_t:5.25e-03
+Iter #  30500/40000	loss:3.74e+00, loss_r:5.00e-03, loss_i:3.24e-02 , loss_b:1.18e-03, loss_b_t:2.68e-03  Valid # loss:4.19e-02, loss_r:4.76e-03, loss_i:3.26e-02, loss_b:1.19e-03, loss_b_t:3.41e-03
+Iter #  31000/40000	loss:3.49e+00, loss_r:5.69e-03, loss_i:2.91e-02 , loss_b:3.72e-03, loss_b_t:1.03e-02  Valid # loss:4.89e-02, loss_r:5.71e-03, loss_i:2.90e-02, loss_b:3.73e-03, loss_b_t:1.04e-02
+Iter #  31500/40000	loss:7.62e-01, loss_r:1.86e-03, loss_i:4.11e-03 , loss_b:1.59e-01, loss_b_t:5.66e-03  Valid # loss:1.74e-01, loss_r:1.86e-03, loss_i:4.10e-03, loss_b:1.58e-01, loss_b_t:1.01e-02
+Iter #  32000/40000	loss:5.96e-01, loss_r:1.26e-03, loss_i:3.62e-03 , loss_b:1.03e-01, loss_b_t:5.46e-03  Valid # loss:1.16e-01, loss_r:1.25e-03, loss_i:3.62e-03, loss_b:1.03e-01, loss_b_t:7.97e-03
+Iter #  32500/40000	loss:5.63e-01, loss_r:1.01e-03, loss_i:3.37e-03 , loss_b:7.36e-02, loss_b_t:5.15e-02  Valid # loss:1.26e-01, loss_r:1.03e-03, loss_i:3.38e-03, loss_b:7.40e-02, loss_b_t:4.72e-02
+Iter #  33000/40000	loss:4.74e-01, loss_r:9.31e-04, loss_i:3.13e-03 , loss_b:5.67e-02, loss_b_t:1.15e-02  Valid # loss:7.07e-02, loss_r:9.07e-04, loss_i:3.13e-03, loss_b:5.69e-02, loss_b_t:9.70e-03
+Iter #  33500/40000	loss:4.25e-01, loss_r:8.55e-04, loss_i:2.93e-03 , loss_b:4.57e-02, loss_b_t:8.80e-04  Valid # loss:5.39e-02, loss_r:8.61e-04, loss_i:2.92e-03, loss_b:4.64e-02, loss_b_t:3.71e-03
+Iter #  34000/40000	loss:4.17e-01, loss_r:7.76e-04, loss_i:2.72e-03 , loss_b:4.70e-02, loss_b_t:2.01e-02  Valid # loss:8.38e-02, loss_r:7.62e-04, loss_i:2.72e-03, loss_b:4.70e-02, loss_b_t:3.34e-02
+Iter #  34500/40000	loss:3.85e-01, loss_r:7.76e-04, loss_i:2.78e-03 , loss_b:2.86e-02, loss_b_t:1.03e-03  Valid # loss:4.51e-02, loss_r:7.70e-04, loss_i:2.76e-03, loss_b:2.96e-02, loss_b_t:1.20e-02
+Iter #  35000/40000	loss:3.78e-01, loss_r:7.70e-04, loss_i:2.59e-03 , loss_b:3.12e-02, loss_b_t:1.12e-02  Valid # loss:4.29e-02, loss_r:7.61e-04, loss_i:2.57e-03, loss_b:3.17e-02, loss_b_t:7.83e-03
+Iter #  35500/40000	loss:4.47e-01, loss_r:6.64e-04, loss_i:2.47e-03 , loss_b:3.34e-02, loss_b_t:1.01e-01  Valid # loss:1.36e-01, loss_r:6.66e-04, loss_i:2.51e-03, loss_b:3.15e-02, loss_b_t:1.02e-01
+Iter #  36000/40000	loss:3.36e-01, loss_r:6.46e-04, loss_i:2.38e-03 , loss_b:3.13e-02, loss_b_t:1.47e-03  Valid # loss:3.57e-02, loss_r:6.52e-04, loss_i:2.38e-03, loss_b:3.15e-02, loss_b_t:1.15e-03
+Iter #  36500/40000	loss:3.39e-01, loss_r:6.11e-04, loss_i:2.34e-03 , loss_b:2.81e-02, loss_b_t:1.59e-02  Valid # loss:4.68e-02, loss_r:6.18e-04, loss_i:2.35e-03, loss_b:2.78e-02, loss_b_t:1.61e-02
+Iter #  37000/40000	loss:3.17e-01, loss_r:6.02e-04, loss_i:2.30e-03 , loss_b:2.57e-02, loss_b_t:1.16e-03  Valid # loss:2.99e-02, loss_r:6.04e-04, loss_i:2.29e-03, loss_b:2.59e-02, loss_b_t:1.05e-03
+Iter #  37500/40000	loss:3.34e-01, loss_r:5.96e-04, loss_i:2.38e-03 , loss_b:1.62e-02, loss_b_t:1.98e-02  Valid # loss:2.04e-02, loss_r:5.98e-04, loss_i:2.38e-03, loss_b:1.61e-02, loss_b_t:1.31e-03
+Iter #  38000/40000	loss:3.12e-01, loss_r:5.56e-04, loss_i:2.25e-03 , loss_b:2.18e-02, loss_b_t:9.63e-03  Valid # loss:3.99e-02, loss_r:5.66e-04, loss_i:2.26e-03, loss_b:2.18e-02, loss_b_t:1.53e-02
+Iter #  38500/40000	loss:3.27e-01, loss_r:6.14e-04, loss_i:2.46e-03 , loss_b:9.50e-03, loss_b_t:9.57e-03  Valid # loss:1.82e-02, loss_r:6.05e-04, loss_i:2.42e-03, loss_b:9.72e-03, loss_b_t:5.44e-03
+Iter #  39000/40000	loss:3.20e-01, loss_r:5.37e-04, loss_i:2.24e-03 , loss_b:1.76e-02, loss_b_t:2.49e-02  Valid # loss:5.06e-02, loss_r:5.19e-04, loss_i:2.24e-03, loss_b:1.77e-02, loss_b_t:3.02e-02
+Iter #  39500/40000	loss:2.96e-01, loss_r:5.42e-04, loss_i:2.21e-03 , loss_b:1.53e-02, loss_b_t:5.92e-03  Valid # loss:2.20e-02, loss_r:5.34e-04, loss_i:2.20e-03, loss_b:1.57e-02, loss_b_t:3.66e-03
+Iter #  40000/40000	loss:2.91e-01, loss_r:5.28e-04, loss_i:2.21e-03 , loss_b:1.32e-02, loss_b_t:4.40e-03  Valid # loss:2.47e-02, loss_r:5.29e-04, loss_i:2.19e-03, loss_b:1.35e-02, loss_b_t:8.53e-03

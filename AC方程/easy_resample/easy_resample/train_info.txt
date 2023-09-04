@@ -1,0 +1,23 @@
+Training by Adam:
+Epoch #  100/1000	time:2.4e+00	loss:2.61e-01, loss_f1:1.39e-04, loss_f2:4.21e-02, loss_f3:2.76e-04, loss_p:1.23e-01, loss_c:9.54e-02
+Epoch #  200/1000	time:4.7e+00	loss:2.02e-01, loss_f1:6.46e-03, loss_f2:2.45e-02, loss_f3:4.89e-04, loss_p:7.63e-02, loss_c:9.45e-02
+Epoch #  300/1000	time:7.3e+00	loss:1.53e-01, loss_f1:2.37e-03, loss_f2:2.09e-02, loss_f3:1.20e-03, loss_p:4.84e-02, loss_c:8.02e-02
+Epoch #  400/1000	time:1.1e+01	loss:1.27e-01, loss_f1:1.24e-03, loss_f2:1.92e-02, loss_f3:6.80e-04, loss_p:3.87e-02, loss_c:6.70e-02
+Epoch #  500/1000	time:1.4e+01	loss:1.04e-01, loss_f1:2.31e-03, loss_f2:1.65e-02, loss_f3:2.34e-04, loss_p:2.50e-02, loss_c:6.00e-02
+Epoch #  600/1000	time:1.7e+01	loss:9.22e-02, loss_f1:3.52e-03, loss_f2:1.39e-02, loss_f3:2.49e-04, loss_p:1.72e-02, loss_c:5.73e-02
+Epoch #  700/1000	time:2.0e+01	loss:8.30e-02, loss_f1:3.60e-03, loss_f2:1.25e-02, loss_f3:2.22e-04, loss_p:1.41e-02, loss_c:5.25e-02
+Epoch #  800/1000	time:2.3e+01	loss:7.59e-02, loss_f1:3.63e-03, loss_f2:1.14e-02, loss_f3:2.15e-04, loss_p:1.22e-02, loss_c:4.85e-02
+Epoch #  900/1000	time:2.6e+01	loss:7.00e-02, loss_f1:3.45e-03, loss_f2:1.04e-02, loss_f3:2.24e-04, loss_p:1.13e-02, loss_c:4.46e-02
+Epoch # 1000/1000	time:2.9e+01	loss:6.63e-02, loss_f1:3.30e-03, loss_f2:9.84e-03, loss_f3:2.32e-04, loss_p:1.11e-02, loss_c:4.18e-02
+Training by LBFGS:
+Iter #  100	time:3.2e+01	loss:3.41e-02, loss_f1:1.21e-03, loss_f2:1.08e-02, loss_f3:9.98e-04, loss_p:3.97e-03, loss_c:1.72e-02
+Iter #  200	time:3.6e+01	loss:1.92e-02, loss_f1:8.77e-04, loss_f2:7.26e-03, loss_f3:1.05e-03, loss_p:1.30e-03, loss_c:8.75e-03
+Iter #  300	time:4.0e+01	loss:1.01e-02, loss_f1:3.74e-04, loss_f2:2.19e-03, loss_f3:2.47e-04, loss_p:2.66e-04, loss_c:7.01e-03
+Iter #  400	time:4.5e+01	loss:8.09e-03, loss_f1:2.50e-04, loss_f2:7.67e-04, loss_f3:7.43e-05, loss_p:1.83e-04, loss_c:6.81e-03
+Iter #  500	time:5.0e+01	loss:6.89e-03, loss_f1:1.72e-04, loss_f2:5.42e-04, loss_f3:6.95e-05, loss_p:1.64e-04, loss_c:5.95e-03
+Iter #  600	time:5.5e+01	loss:6.05e-03, loss_f1:7.63e-05, loss_f2:4.73e-04, loss_f3:7.05e-06, loss_p:8.64e-05, loss_c:5.41e-03
+Iter #  700	time:6.2e+01	loss:5.57e-03, loss_f1:1.90e-05, loss_f2:3.92e-04, loss_f3:1.56e-05, loss_p:3.02e-05, loss_c:5.11e-03
+Iter #  800	time:6.9e+01	loss:5.28e-03, loss_f1:1.89e-05, loss_f2:1.76e-04, loss_f3:3.75e-06, loss_p:2.54e-05, loss_c:5.06e-03
+Iter #  900	time:7.5e+01	loss:5.16e-03, loss_f1:1.36e-05, loss_f2:8.83e-05, loss_f3:2.89e-06, loss_p:1.89e-05, loss_c:5.03e-03
+Iter # 1000	time:8.3e+01	loss:5.12e-03, loss_f1:1.14e-05, loss_f2:7.07e-05, loss_f3:2.18e-06, loss_p:1.29e-05, loss_c:5.02e-03
+Test Epoch # 1000	loss:5.10e-03, loss_f1:8.34e-06, loss_f2:6.22e-05, loss_f3:2.06e-06, loss_p:1.29e-05, loss_c:5.02e-03

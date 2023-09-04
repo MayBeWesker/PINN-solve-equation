@@ -1,0 +1,28 @@
+数据文件 example1_slt_512.mat 说明：
+
+1. python 加载该数据文件的方法：
+import scipy.io as sio
+import numpy as np
+
+data = sio.loadmat('example1_slt_512.mat')
+dx_comp = data['dx_comp']
+dx_pml = data['dx_pml']
+dy_comp = data['dy_comp']
+dy_pml = data['dy_pml']
+height = data['height']
+width = data['width']
+k0 = data['k0']
+m = data['m']
+n = data['n']
+uf = data['uf']
+x = data['x']
+y = data['y']
+
+2. 变量说明：
+首先在区域 [-width/2,width/2]X[-height/2,height/2] 上沿x轴和y轴分别均匀地取m+1和n+1个点（对应变量 x 和 y），其中 m=n=1537，这样共有 1537x1537 个取点。
+
+uf 是一个 1537x1537 的复数矩阵。uf[i,j] 是点 (x[i], y[j]) 上的有限元解。
+
+但只有区域 (-dx_comp/2, dx_comp/2) X (-dy_comp/2, dy_comp/2) 才是有意义的区域。环形区域 [-width/2,width/2]X[-height/2,height/2] \setminus (-dx_comp/2, dx_comp/2) X (-dy_comp/2, dy_comp/2) 在有限元方法中成为人工边界层，该层上的解不是 example1.pdf 描述的问题的解。
+
+即，如果 (x[i], y[j]) 位于矩形区域 (-dx_comp/2, dx_comp/2) X (-dy_comp/2, dy_comp/2)，则 uf[i,j] 表示 example1.pdf 中 Helmholtz 问题在该点的有限元解。

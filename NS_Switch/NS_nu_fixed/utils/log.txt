@@ -1,0 +1,2 @@
+2023/07/27, dataset including Dataset1dT, Dataset2d, Dataset2dT and networks including MLP, ModifiedMLP, ResNet, ModifiedResNet, MultiHeadMLP, MultiHeadModifiedMLP have been done.
+

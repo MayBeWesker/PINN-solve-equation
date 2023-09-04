@@ -1,0 +1,18 @@
+Iter #    500/20000	loss:3.35e+00, loss_u_r:1.26e-02, loss_v_r:1.24e-02, loss_u_d:4.38e-03 ,loss_v_d:4.03e-03 Valid # loss:3.34e-02, loss_r:1.26e-02, loss_r:1.24e-02, loss_u_d:4.40e-03, loss_v_d:3.97e-03
+Iter #    500/4000	loss:3.35e+00, loss_u_r:1.26e-02, loss_v_r:1.24e-02, loss_u_d:4.38e-03 ,loss_v_d:4.03e-03 Valid # loss:3.34e-02, loss_r:1.26e-02, loss_r:1.24e-02, loss_u_d:4.40e-03, loss_v_d:3.97e-03
+Iter #   1000/4000	loss:1.30e+00, loss_u_r:4.91e-03, loss_v_r:4.56e-03, loss_u_d:1.74e-03 ,loss_v_d:1.77e-03 Valid # loss:1.30e-02, loss_r:4.90e-03, loss_r:4.56e-03, loss_u_d:1.73e-03, loss_v_d:1.77e-03
+Iter #   1500/4000	loss:9.70e-01, loss_u_r:3.77e-03, loss_v_r:3.63e-03, loss_u_d:1.18e-03 ,loss_v_d:1.12e-03 Valid # loss:9.70e-03, loss_r:3.77e-03, loss_r:3.63e-03, loss_u_d:1.18e-03, loss_v_d:1.12e-03
+Iter #   2000/4000	loss:8.31e-01, loss_u_r:3.33e-03, loss_v_r:3.26e-03, loss_u_d:8.89e-04 ,loss_v_d:8.32e-04 Valid # loss:8.30e-03, loss_r:3.32e-03, loss_r:3.26e-03, loss_u_d:8.89e-04, loss_v_d:8.31e-04
+Iter #    500/4000	loss:3.35e+00, loss_u_r:1.26e-02, loss_v_r:1.24e-02, loss_u_d:4.38e-03 ,loss_v_d:4.03e-03 Valid # loss:3.34e-02, loss_r:1.26e-02, loss_r:1.24e-02, loss_u_d:4.40e-03, loss_v_d:3.97e-03
+Iter #   1000/4000	loss:1.30e+00, loss_u_r:4.91e-03, loss_v_r:4.56e-03, loss_u_d:1.74e-03 ,loss_v_d:1.77e-03 Valid # loss:1.30e-02, loss_r:4.90e-03, loss_r:4.56e-03, loss_u_d:1.73e-03, loss_v_d:1.77e-03
+Iter #   1500/4000	loss:9.70e-01, loss_u_r:3.77e-03, loss_v_r:3.63e-03, loss_u_d:1.18e-03 ,loss_v_d:1.12e-03 Valid # loss:9.70e-03, loss_r:3.77e-03, loss_r:3.63e-03, loss_u_d:1.18e-03, loss_v_d:1.12e-03
+Iter #   2000/4000	loss:8.31e-01, loss_u_r:3.33e-03, loss_v_r:3.26e-03, loss_u_d:8.89e-04 ,loss_v_d:8.32e-04 Valid # loss:8.30e-03, loss_r:3.32e-03, loss_r:3.26e-03, loss_u_d:8.89e-04, loss_v_d:8.31e-04
+Iter #   2500/4000	loss:7.54e-01, loss_u_r:3.06e-03, loss_v_r:3.02e-03, loss_u_d:7.59e-04 ,loss_v_d:7.03e-04 Valid # loss:7.50e-03, loss_r:3.06e-03, loss_r:3.02e-03, loss_u_d:7.42e-04, loss_v_d:6.75e-04
+Iter #   3000/4000	loss:6.90e-01, loss_u_r:2.85e-03, loss_v_r:2.83e-03, loss_u_d:6.44e-04 ,loss_v_d:5.72e-04 Valid # loss:6.90e-03, loss_r:2.87e-03, loss_r:2.83e-03, loss_u_d:6.35e-04, loss_v_d:5.64e-04
+Iter #   3500/4000	loss:8.06e-01, loss_u_r:2.73e-03, loss_v_r:2.84e-03, loss_u_d:1.32e-03 ,loss_v_d:1.18e-03 Valid # loss:7.31e-03, loss_r:2.75e-03, loss_r:2.77e-03, loss_u_d:9.38e-04, loss_v_d:8.59e-04
+Iter #   4000/4000	loss:6.16e-01, loss_u_r:2.61e-03, loss_v_r:2.58e-03, loss_u_d:5.26e-04 ,loss_v_d:4.41e-04 Valid # loss:6.16e-03, loss_r:2.61e-03, loss_r:2.58e-03, loss_u_d:5.25e-04, loss_v_d:4.41e-04
+Training by LBFGS:
+Iter #  100	time:94.8	loss:2.22e-01, loss_u_r:1.19e-02, loss_v_r:1.43e-02, loss_u_d:9.627212e-05, loss_v_d:9.924168e-05
+Iter #  200	time:188.9	loss:1.29e-01, loss_u_r:2.27e-02, loss_v_r:2.64e-02, loss_u_d:3.683268e-05, loss_v_d:4.308904e-05
+Iter #  300	time:297.4	loss:1.07e-01, loss_u_r:2.43e-02, loss_v_r:2.64e-02, loss_u_d:2.690250e-05, loss_v_d:2.936758e-05
+Iter #  400	time:407.0	loss:9.42e-02, loss_u_r:2.39e-02, loss_v_r:2.41e-02, loss_u_d:2.300426e-05, loss_v_d:2.314653e-05
