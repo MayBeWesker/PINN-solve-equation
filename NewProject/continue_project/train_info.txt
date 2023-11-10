@@ -1,0 +1,5 @@
+Training by Adam:
+Iter #  100/10000	time:5.4	loss:2.25e+09, loss_r_u:2.19e+05, loss_d_u:6.05e-01
+Iter #  200/10000	time:11.5	loss:8.24e+08, loss_r_u:7.68e+04, loss_d_u:5.61e-01
+Iter #  300/10000	time:17.0	loss:9.65e+07, loss_r_u:6.90e+03, loss_d_u:2.75e-01
+Iter #  400/10000	time:22.8	loss:1.75e+07, loss_r_u:1.20e+03, loss_d_u:5.45e-02
